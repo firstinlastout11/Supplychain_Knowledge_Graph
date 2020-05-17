@@ -1,0 +1,3584 @@
+,source,target,relation
+0,"MotivNation, Inc.",Company,Supply
+0,"MotivNation, Inc.",TrixMotive,customers
+1,"MotivNation, Inc.",the Superior Court of,customers
+0,STANADYNE CORP,Stanadyne’s,Supply
+1,STANADYNE CORP,Company,Supply
+8,STANADYNE CORP,INC,Supply
+10,STANADYNE CORP,Holdings,Supply
+11,STANADYNE CORP,NOTES,Supply
+12,STANADYNE CORP,CONSOLIDATED FINANCIAL,Supply
+13,STANADYNE CORP,STANADYNE HOLDINGS,Supply
+15,STANADYNE CORP,"STANADYNE HOLDINGS,",Supply
+20,STANADYNE CORP,Global Supply Chain,Supply
+23,STANADYNE CORP,the Named Executive Officers,Supply
+0,STANADYNE CORP,Company,customers
+1,STANADYNE CORP,OEM,customers
+2,STANADYNE CORP,Stanadyne,customers
+5,STANADYNE CORP,Deere & Company,customers
+6,STANADYNE CORP,Deere,customers
+7,STANADYNE CORP,General Motors,customers
+8,STANADYNE CORP,GM,customers
+9,STANADYNE CORP,Stanadyne’s,customers
+18,STANADYNE CORP,Service,customers
+22,STANADYNE CORP,Cummins,customers
+23,STANADYNE CORP,SG&A,customers
+24,STANADYNE CORP,AGCO,customers
+25,STANADYNE CORP,SISU,customers
+28,STANADYNE CORP,the U.S. Revolver,customers
+36,STANADYNE CORP,Research and Development,customers
+40,STANADYNE CORP,Net Sales Sales %,customers
+44,STANADYNE CORP,"Materials Management, Customer Support",customers
+45,STANADYNE CORP,Shop Operations and Manufacturing Engineering,customers
+46,STANADYNE CORP,EBITDA,customers
+0,STANADYNE CORP,Service,Sells to
+1,STANADYNE CORP,the Original Equipment Manufacturers,Sells to
+2,STANADYNE CORP,GM,Sells to
+4,STANADYNE CORP,Deere,Sells to
+5,STANADYNE CORP,Cummins,Sells to
+6,STANADYNE CORP,GEP,Sells to
+7,STANADYNE CORP,HUMMWV,Sells to
+8,STANADYNE CORP,AGCO,Sells to
+9,STANADYNE CORP,SISU,Sells to
+10,STANADYNE CORP,Ford,Sells to
+11,STANADYNE CORP,OE,Sells to
+0,KEYSTONE AUTOMOTIVE OPERATIONS INC,Distribution,Supply
+1,KEYSTONE AUTOMOTIVE OPERATIONS INC,Retail,Supply
+3,KEYSTONE AUTOMOTIVE OPERATIONS INC,Arrow,Supply
+4,KEYSTONE AUTOMOTIVE OPERATIONS INC,Selectively Pursue Acquisitions,Supply
+5,KEYSTONE AUTOMOTIVE OPERATIONS INC,Competition Industry,Supply
+6,KEYSTONE AUTOMOTIVE OPERATIONS INC,Company,Supply
+7,KEYSTONE AUTOMOTIVE OPERATIONS INC,VWR,Supply
+8,KEYSTONE AUTOMOTIVE OPERATIONS INC,the Global Lab Business,Supply
+10,KEYSTONE AUTOMOTIVE OPERATIONS INC,Integrated Supply Chain,Supply
+11,KEYSTONE AUTOMOTIVE OPERATIONS INC,Textron,Supply
+12,KEYSTONE AUTOMOTIVE OPERATIONS INC,the Board of Directors,Supply
+13,KEYSTONE AUTOMOTIVE OPERATIONS INC,"The Boston Celtics, Steel Dynamics Inc.",Supply
+14,KEYSTONE AUTOMOTIVE OPERATIONS INC,HD Supply,Supply
+15,KEYSTONE AUTOMOTIVE OPERATIONS INC,Sensata Tech N.V.,Supply
+16,KEYSTONE AUTOMOTIVE OPERATIONS INC,"Innophos, Inc.",Supply
+18,KEYSTONE AUTOMOTIVE OPERATIONS INC,Staples Inc. Included,Supply
+19,KEYSTONE AUTOMOTIVE OPERATIONS INC,"Keystone Automotive Operations, Inc.",Supply
+20,KEYSTONE AUTOMOTIVE OPERATIONS INC,Keystone Automotive Distributors Company,Supply
+21,KEYSTONE AUTOMOTIVE OPERATIONS INC,LLC,Supply
+22,KEYSTONE AUTOMOTIVE OPERATIONS INC,The Bank of New York,Supply
+23,KEYSTONE AUTOMOTIVE OPERATIONS INC,the Company’s Report,Supply
+26,KEYSTONE AUTOMOTIVE OPERATIONS INC,Bank of America,Supply
+27,KEYSTONE AUTOMOTIVE OPERATIONS INC,Administrative Agent,Supply
+30,KEYSTONE AUTOMOTIVE OPERATIONS INC,Retail Operations,Supply
+31,KEYSTONE AUTOMOTIVE OPERATIONS INC,the Distribution Segment,Supply
+0,KEYSTONE AUTOMOTIVE OPERATIONS INC,Industry,customers
+1,KEYSTONE AUTOMOTIVE OPERATIONS INC,Blacksmith,customers
+2,KEYSTONE AUTOMOTIVE OPERATIONS INC,Blacksmith’s,customers
+3,KEYSTONE AUTOMOTIVE OPERATIONS INC,Reliable,customers
+4,KEYSTONE AUTOMOTIVE OPERATIONS INC,Reliable’s,customers
+5,KEYSTONE AUTOMOTIVE OPERATIONS INC,Company’s,customers
+6,KEYSTONE AUTOMOTIVE OPERATIONS INC,Company,customers
+7,KEYSTONE AUTOMOTIVE OPERATIONS INC,Distribution,customers
+9,KEYSTONE AUTOMOTIVE OPERATIONS INC,A&A Stores,customers
+11,KEYSTONE AUTOMOTIVE OPERATIONS INC,Customer Support Representatives,customers
+20,KEYSTONE AUTOMOTIVE OPERATIONS INC,the Blacksmith Acquisition,customers
+23,KEYSTONE AUTOMOTIVE OPERATIONS INC,National Accounts,customers
+26,KEYSTONE AUTOMOTIVE OPERATIONS INC,the Distribution and Retail,customers
+28,KEYSTONE AUTOMOTIVE OPERATIONS INC,VWR,customers
+29,KEYSTONE AUTOMOTIVE OPERATIONS INC,the Global Lab Business,customers
+34,KEYSTONE AUTOMOTIVE OPERATIONS INC,Revenue Recognition Revenue,customers
+36,KEYSTONE AUTOMOTIVE OPERATIONS INC,Distribution and Retail,customers
+37,KEYSTONE AUTOMOTIVE OPERATIONS INC,Distribution The Distribution,customers
+0,KEYSTONE AUTOMOTIVE OPERATIONS INC,Distribution,Sells to
+1,KEYSTONE AUTOMOTIVE OPERATIONS INC,Retail,Sells to
+3,KEYSTONE AUTOMOTIVE OPERATIONS INC,Industry,Sells to
+4,KEYSTONE AUTOMOTIVE OPERATIONS INC,Company,Sells to
+6,KEYSTONE AUTOMOTIVE OPERATIONS INC,Retail Operations,Sells to
+7,KEYSTONE AUTOMOTIVE OPERATIONS INC,the Distribution Segment,Sells to
+0,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Tier 1,Supply
+1,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,General Motors Company,Supply
+2,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,GM,Supply
+5,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Metal Forming,Supply
+6,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,AAM,Supply
+10,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Ford,Supply
+12,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the Casting Sale,Supply
+13,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,MPG,Supply
+14,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,USM Mexico Manufacturing LLC,Supply
+17,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,HAAC,Supply
+18,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,JAC,Supply
+19,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,"Beiqi Foton Motor Co., Ltd.",Supply
+20,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Business Leaders,Supply
+21,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the Detroit Economic Club,Supply
+22,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the Detroit Regional Chamber,Supply
+23,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the Great Lakes Council Boy Scouts of America,Supply
+24,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the Boys & Girls Club of Southeast Michigan,Supply
+25,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the National Association of Manufacturers,Supply
+26,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,NAM,Supply
+27,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the Original Equipment Suppliers Association,Supply
+28,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,OESA,Supply
+29,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,"Amerisure Mutual Holdings, Inc.",Supply
+30,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the Amerisure Companies,Supply
+31,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the Miami University Business Advisory Council,Supply
+32,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the General Motors Supplier Council,Supply
+33,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,the FCA NAFTA Supplier Advisory Council,Supply
+34,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,USMCA,Supply
+35,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,NAFTA,Supply
+43,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Driveline,Supply
+45,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Original Equipment Manufacturers,Supply
+48,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,EBITDA,Supply
+49,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Adjusted EBITDA,Supply
+52,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,FCA US,Supply
+54,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,FCA,Supply
+57,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Interest,Supply
+63,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Casting,Supply
+65,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Tier,Supply
+66,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,USM,Supply
+68,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Guanajuato Manufacturing Complex,Supply
+75,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,"AAM, Inc.",Supply
+76,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,"Metaldyne Performance Group, Inc.",Supply
+77,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,MPG Inc.,Supply
+80,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,"American Axle & Manufacturing, Inc.",Supply
+81,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,"Alpha SPV I, Inc.",Supply
+82,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,"American Axle & Manufacturing Holdings, Inc.",Supply
+83,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,U.S. Bank National Association,Supply
+85,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Metaldyne Performance Group Inc.,Supply
+0,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,CastingMember,customers
+2,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,GM,customers
+3,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,FCA,customers
+4,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Ford,customers
+5,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Mercedes-AMG,customers
+6,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,AAM,customers
+8,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Diversification of Customer,customers
+13,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Geely Auto Group,customers
+14,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,MPG,customers
+15,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Liuzhou AAM,customers
+16,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,OEM,customers
+17,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,USMCA,customers
+18,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,NAFTA,customers
+21,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Mitec Automotive AG,customers
+22,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Mitec,customers
+24,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Driveline,customers
+27,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Metal Forming,customers
+31,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Driveline Segment Adjusted EBITDA,customers
+33,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,General Motors Company,customers
+35,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,FCA US,customers
+40,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,FASB,customers
+41,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,ASU,customers
+46,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Powertrain,customers
+47,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,ASC,customers
+48,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,NOTES,customers
+49,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,CONSOLIDATED FINANCIAL,customers
+51,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Tier,customers
+0,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,GM,Sells to
+1,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,FCA,Sells to
+14,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Metal Forming,Sells to
+15,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Driveline,Sells to
+18,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,FCA US LLC,Sells to
+19,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Unaudited Pro Forma Financial Information Pro,Sells to
+20,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,AAM,Sells to
+21,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,MPG,Sells to
+0,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,GM,dependent on
+1,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,FCA,dependent on
+2,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,Guanajuato Manufacturing Complex,dependent on
+0,"CurAegis Technologies, Inc.",Company,Supply
+2,"CurAegis Technologies, Inc.",Total Engineering and Development,Supply
+0,"CurAegis Technologies, Inc.",Company,customers
+4,"CurAegis Technologies, Inc.",Z-Coach Aviation,customers
+6,"CurAegis Technologies, Inc.",CURA,customers
+9,"CurAegis Technologies, Inc.",FASB,customers
+14,"CurAegis Technologies, Inc.",Chrysler Corporation,customers
+15,"CurAegis Technologies, Inc.",Ford Motor Company,customers
+16,"CurAegis Technologies, Inc.",General Motors,customers
+17,"CurAegis Technologies, Inc.",Committee,customers
+0,LKQ CORP,CustomerandsupplierrelationshipsDomain,Supply
+2,LKQ CORP,CustomerandsupplierrelationshipsMember,Supply
+6,LKQ CORP,MaximumMember,Supply
+8,LKQ CORP,MinimumMember,Supply
+10,LKQ CORP,the European Union,Supply
+11,LKQ CORP,Wholesale - North America,Supply
+12,LKQ CORP,Competition Industry,Supply
+13,LKQ CORP,the Vitro Agreement,Supply
+14,LKQ CORP,The Purchase and Supply Agreement,Supply
+15,LKQ CORP,the Intellectual Property Agreement,Supply
+16,LKQ CORP,the Transition Services Agreement,Supply
+17,LKQ CORP,Vitro,Supply
+19,LKQ CORP,the Purchase and Supply Agreement,Supply
+20,LKQ CORP,General and Administrative Expenses Selling,Supply
+21,LKQ CORP,Total Trade,Supply
+22,LKQ CORP,Straight,Supply
+23,LKQ CORP,Software,Supply
+26,LKQ CORP,Information Systems (North America,Supply
+27,LKQ CORP,"Keystone Automotive Operations, Inc.",Supply
+28,LKQ CORP,U.S. Bank National Association,Supply
+29,LKQ CORP,Trustee,Supply
+30,LKQ CORP,SEC,Supply
+31,LKQ CORP,Guarantors,Supply
+34,LKQ CORP,Company,Supply
+56,LKQ CORP,LKQ Italia Bondco S.p.A.,Supply
+58,LKQ CORP,ELIT CZ,Supply
+59,LKQ CORP,Rhiag-Inter Auto Parts Italia S.p.A.,Supply
+61,LKQ CORP,Company’s,Supply
+63,LKQ CORP,Bertolotti S.p.A.,Supply
+68,LKQ CORP,BNP Paribas Trust Corporation UK Limited,Supply
+94,LKQ CORP,European Holdings B.V.,Supply
+0,LKQ CORP,CustomerandsupplierrelationshipsDomain,customers
+2,LKQ CORP,CustomerandsupplierrelationshipsMember,customers
+6,LKQ CORP,MaximumMember,customers
+8,LKQ CORP,MinimumMember,customers
+10,LKQ CORP,the European Union,customers
+11,LKQ CORP,ERP,customers
+12,LKQ CORP,State Farm,customers
+13,LKQ CORP,U.S. Customs and Border Protection,customers
+14,LKQ CORP,Aviation,customers
+15,LKQ CORP,Stahlgruber,customers
+16,LKQ CORP,Rhiag,customers
+18,LKQ CORP,Warn,customers
+20,LKQ CORP,PGW,customers
+21,LKQ CORP,Self Service,customers
+22,LKQ CORP,General and Administrative Expenses Selling,customers
+24,LKQ CORP,Total Trade,customers
+25,LKQ CORP,Straight,customers
+26,LKQ CORP,Software,customers
+29,LKQ CORP,Receivables,customers
+30,LKQ CORP,the Consolidated Balance Sheets,customers
+32,LKQ CORP,MUFG,customers
+33,LKQ CORP,LKQ,customers
+34,LKQ CORP,Company,customers
+0,CLARCOR INC.,Company,Supply
+3,CLARCOR INC.,CIC,Supply
+4,CLARCOR INC.,CLARCOR,Supply
+5,CLARCOR INC.,Industrial/Environmental Filtration,Supply
+6,CLARCOR INC.,General Electric Company,Supply
+7,CLARCOR INC.,GE,Supply
+9,CLARCOR INC.,CLARCOR Industrial Air,Supply
+13,CLARCOR INC.,SmartParts,Supply
+20,CLARCOR INC.,the New System,Supply
+25,CLARCOR INC.,Parker-Hannifin,Supply
+28,CLARCOR INC.,Stanadyne,Supply
+29,CLARCOR INC.,Heavy,Supply
+30,CLARCOR INC.,ASU,Supply
+32,CLARCOR INC.,FibeRio,Supply
+33,CLARCOR INC.,TDC,Supply
+34,CLARCOR INC.,Filter Resources,Supply
+37,CLARCOR INC.,the Credit Facility,Supply
+41,CLARCOR INC.,the Industrial/Environmental Filtration,Supply
+43,CLARCOR INC.,the European Union,Supply
+62,CLARCOR INC.,Company’s,Supply
+66,CLARCOR INC.,CONSOLIDATED FINANCIAL,Supply
+67,CLARCOR INC.,CLARCOR Engine Mobile Solutions,Supply
+68,CLARCOR INC.,The Stanadyne Business,Supply
+71,CLARCOR INC.,Baldwin Filters,Supply
+0,CLARCOR INC.,Distribution Products,customers
+1,CLARCOR INC.,Packaging,customers
+2,CLARCOR INC.,Company,customers
+3,CLARCOR INC.,the Engine/Mobile Filtration,customers
+4,CLARCOR INC.,the Industrial/Environmental Filtration,customers
+5,CLARCOR INC.,Company’s,customers
+6,CLARCOR INC.,CLARCOR,customers
+7,CLARCOR INC.,Industrial/Environmental Filtration,customers
+8,CLARCOR INC.,General Electric Company,customers
+9,CLARCOR INC.,GE,customers
+11,CLARCOR INC.,the European Union,customers
+12,CLARCOR INC.,Parker-Hannifin,customers
+15,CLARCOR INC.,CLARCOR Industrial Air,customers
+17,CLARCOR INC.,HVAC,customers
+18,CLARCOR INC.,FASB,customers
+19,CLARCOR INC.,ASU,customers
+22,CLARCOR INC.,FibeRio,customers
+23,CLARCOR INC.,TDC,customers
+24,CLARCOR INC.,Filter Resources,customers
+25,CLARCOR INC.,Stanadyne,customers
+27,CLARCOR INC.,the Credit Facility,customers
+54,CLARCOR INC.,Revenue Recognition Revenue,customers
+63,CLARCOR INC.,Value Useful,customers
+64,CLARCOR INC.,Method Customer,customers
+66,CLARCOR INC.,The Stanadyne Business,customers
+69,CLARCOR INC.,Baldwin Filters,customers
+72,CLARCOR INC.,Developed,customers
+80,CLARCOR INC.,the Company’s Board of Directors,customers
+0,DELPHI CORP,Delphi,Supply
+2,DELPHI CORP,Court,Supply
+3,DELPHI CORP,GM,Supply
+9,DELPHI CORP,MRA,Supply
+16,DELPHI CORP,VM,Supply
+21,DELPHI CORP,UAW,Supply
+22,DELPHI CORP,the “UAW Attrition Programs”,Supply
+25,DELPHI CORP,WTC,Supply
+27,DELPHI CORP,Shanghai GM,Supply
+29,DELPHI CORP,non-GM,Supply
+35,DELPHI CORP,Tier 1,Supply
+40,DELPHI CORP,VM Supply     ,Supply
+58,DELPHI CORP,the     Revolving Facility,Supply
+67,DELPHI CORP,Debtors,Supply
+80,DELPHI CORP,Amended,Supply
+90,DELPHI CORP,GM North America,Supply
+91,DELPHI CORP,American     Axle,Supply
+97,DELPHI CORP,Federal-Mogul Corporation,Supply
+98,DELPHI CORP,"Pulte     Homes, Inc.",Supply
+143,DELPHI CORP,Hourly Labor Costs — GM,Supply
+144,DELPHI CORP,OPEB,Supply
+150,DELPHI CORP,Company,Supply
+155,DELPHI CORP,EPCA,Supply
+156,DELPHI CORP,the Accommodation Agreement,Supply
+166,DELPHI CORP,JCI,Supply
+169,DELPHI CORP,Powertrain Systems,Supply
+170,DELPHI CORP,Thermal Systems,Supply
+171,DELPHI CORP,PCBB,Supply
+173,DELPHI CORP,OIBDAR,Supply
+175,DELPHI CORP,the Electronics and Safety,Supply
+176,DELPHI CORP,Electrical/Electronic Architecture,Supply
+178,DELPHI CORP,Automotive Holdings Group,Supply
+179,DELPHI CORP,Steering,Supply
+198,DELPHI CORP,The     Company,Supply
+259,DELPHI CORP,Debtors’,Supply
+278,DELPHI CORP,IUE-CWA,Supply
+286,DELPHI CORP,UAW Supplemental Agreement,Supply
+288,DELPHI CORP,POSTRETIREMENT BENEFITS Delphi,Supply
+290,DELPHI CORP,Supplemental Executive     Retirement Program,Supply
+292,DELPHI CORP,Delphi’s Powertrain Systems,Supply
+306,DELPHI CORP,the Steering Business     ,Supply
+324,DELPHI CORP,"Oxford Automotive, Inc.",Supply
+325,DELPHI CORP,the Compensation Committee,Supply
+326,DELPHI CORP,the Internal Revenue Service,Supply
+327,DELPHI CORP,IRS,Supply
+329,DELPHI CORP,BEP,Supply
+333,DELPHI CORP,SRP,Supply
+334,DELPHI CORP,Delphi Supplemental Executive Retirement,Supply
+335,DELPHI CORP,Olin Corporation     ,Supply
+340,DELPHI CORP,Olin Corporation,Supply
+341,DELPHI CORP,Global Brass and Copper,Supply
+342,DELPHI CORP,Bank One,Supply
+343,DELPHI CORP,Component Supply Agreement,Supply
+345,DELPHI CORP,General Motors,Supply
+347,DELPHI CORP,Delphi’s Quarterly Report,Supply
+0,DELPHI CORP,Delphi,customers
+1,DELPHI CORP,VM,customers
+4,DELPHI CORP,Company’s,customers
+5,DELPHI CORP,the Electrical/Electronic Architecture,customers
+7,DELPHI CORP,Electrical/Electronic Architectures,customers
+8,DELPHI CORP,Delphi’s Automotive Thermal Products,customers
+10,DELPHI CORP,GM,customers
+11,DELPHI CORP,Shanghai GM,customers
+14,DELPHI CORP,non-GM,customers
+18,DELPHI CORP,Tier 1,customers
+22,DELPHI CORP,VM Supply     ,customers
+28,DELPHI CORP,Debtors,customers
+29,DELPHI CORP,the     Court,customers
+34,DELPHI CORP,General Motors Corporation,customers
+36,DELPHI CORP,Amended,customers
+49,DELPHI CORP,Harley-Davidson Customer Team,customers
+55,DELPHI CORP,GM North America,customers
+57,DELPHI CORP,GMNA,customers
+58,DELPHI CORP,American Axle,customers
+61,DELPHI CORP,the     Electrical/Electronic Architecture,customers
+62,DELPHI CORP,Results of Operations,customers
+73,DELPHI CORP,the Steering Business,customers
+80,DELPHI CORP,Automotive Holdings Group,customers
+81,DELPHI CORP,Inter-segment,customers
+83,DELPHI CORP,Customer,customers
+85,DELPHI CORP,Company,customers
+86,DELPHI CORP,the     Company,customers
+89,DELPHI CORP,Court,customers
+91,DELPHI CORP,Restated Global Settlement Agreement and Amended,customers
+124,DELPHI CORP,Debtors’,customers
+135,DELPHI CORP,Inter,customers
+143,DELPHI CORP,MRA,customers
+149,DELPHI CORP,the     Steering Business,customers
+154,DELPHI CORP,Customer/Operational — the Compensation Committee,customers
+0,DELPHI CORP,GM,Sells to
+1,DELPHI CORP,Shanghai GM,Sells to
+7,DELPHI CORP,Tier 1,Sells to
+11,DELPHI CORP,GM North America,Sells to
+13,DELPHI CORP,Ford Motor Company,Sells to
+14,DELPHI CORP,Chrysler Corporation,Sells to
+17,DELPHI CORP,Inter,Sells to
+19,DELPHI CORP,Delphi,Sells to
+0,DELPHI CORP,Delphi,dependent on
+1,DELPHI CORP,the Pink Sheets,dependent on
+2,DELPHI CORP,UAW,dependent on
+3,DELPHI CORP,IUE-CWA,dependent on
+4,DELPHI CORP,Amended,dependent on
+6,DELPHI CORP,MRA,dependent on
+7,DELPHI CORP,GM,dependent on
+0,DANA INC,Ford,Supply
+1,DANA INC,FCA,Supply
+2,DANA INC,Dana,Supply
+3,DANA INC,"Dongfeng Dana Axle Co., Ltd.",Supply
+4,DANA INC,EBITDA,Supply
+7,DANA INC,Dana Holding Corporation,Supply
+8,DANA INC,Wells Fargo Bank,Supply
+9,DANA INC,National Association,Supply
+0,DANA INC,MinimumMember,customers
+3,DANA INC,Segment Markets Products Largest Customers,customers
+4,DANA INC,Ford Motor Company Light,customers
+5,DANA INC,Fiat,customers
+6,DANA INC,Ford Motor Company,customers
+7,DANA INC,Ford,customers
+10,DANA INC,FCA,customers
+11,DANA INC,PACCAR Inc,customers
+12,DANA INC,Toyota Motor Company,customers
+13,DANA INC,Volkswagen AG,customers
+16,DANA INC,Dana,customers
+17,DANA INC,Light Vehicle Drive Systems,customers
+18,DANA INC,Commercial Vehicle Drive,customers
+19,DANA INC,Motion Systems,customers
+20,DANA INC,Off-Highway Drive and Motion Systems (Off-Highway,customers
+21,DANA INC,Power Technologies,customers
+22,DANA INC,ODS,customers
+23,DANA INC,FASB,customers
+24,DANA INC,ASU,customers
+25,DANA INC,Customer's Accounting for Implementation Costs Incurred,customers
+26,DANA INC,CVP,customers
+0,DANA INC,Ford,Sells to
+1,DANA INC,FCA,Sells to
+0,"EMAV Holdings, Inc.",Century Capital Partners,Supply
+1,"EMAV Holdings, Inc.",Company,Supply
+3,"EMAV Holdings, Inc.",Vehicle,Supply
+4,"EMAV Holdings, Inc.",Jeep,Supply
+5,"EMAV Holdings, Inc.",Jeep Wranglers,Supply
+6,"EMAV Holdings, Inc.",SEC,Supply
+0,"EMAV Holdings, Inc.",Jeep,customers
+1,"EMAV Holdings, Inc.",Chevrolet,customers
+0,"EMAV Holdings, Inc.",The EMAV ES,dependent on
+1,"EMAV Holdings, Inc.",Jeep,dependent on
+0,SENSE TECHNOLOGIES INC,OEM/,Supply
+0,SENSE TECHNOLOGIES INC,Guardian Alert,customers
+1,SENSE TECHNOLOGIES INC,FASB,customers
+2,SENSE TECHNOLOGIES INC,ASU,customers
+3,SENSE TECHNOLOGIES INC,Company’s,customers
+4,SENSE TECHNOLOGIES INC,Company,customers
+0,"KLEANGAS ENERGY TECHNOLOGIES, INC.",GHT,Supply
+3,"KLEANGAS ENERGY TECHNOLOGIES, INC.",Oxy-Hydrogen,Supply
+0,"KLEANGAS ENERGY TECHNOLOGIES, INC.",Ongoing Services,customers
+1,"KLEANGAS ENERGY TECHNOLOGIES, INC.",KET,customers
+2,"KLEANGAS ENERGY TECHNOLOGIES, INC.",Oxy-Hydrogen Systems,customers
+3,"KLEANGAS ENERGY TECHNOLOGIES, INC.",Oxy-Hydrogen,customers
+4,"KLEANGAS ENERGY TECHNOLOGIES, INC.",SEC,customers
+0,ENVIRONMENTAL SOLUTIONS WORLDWIDE INC,ESW America,customers
+2,ENVIRONMENTAL SOLUTIONS WORLDWIDE INC,ESW Group,customers
+3,ENVIRONMENTAL SOLUTIONS WORLDWIDE INC,MHDD,customers
+4,ENVIRONMENTAL SOLUTIONS WORLDWIDE INC,ESW Group’s,customers
+5,ENVIRONMENTAL SOLUTIONS WORLDWIDE INC,FASB,customers
+6,ENVIRONMENTAL SOLUTIONS WORLDWIDE INC,ASU,customers
+7,ENVIRONMENTAL SOLUTIONS WORLDWIDE INC,Company,customers
+10,ENVIRONMENTAL SOLUTIONS WORLDWIDE INC,Consolidated Revenue,customers
+0,FORD MOTOR CO,Ford,Supply
+5,FORD MOTOR CO,the Koc Group,Supply
+6,FORD MOTOR CO,Transit Courier,Supply
+9,FORD MOTOR CO,Transit,Supply
+10,FORD MOTOR CO,Ford Credit,Supply
+11,FORD MOTOR CO,Available Credit Lines,Supply
+13,FORD MOTOR CO,"Adjusted Free Cash Flow, Adjusted EBIT",Supply
+14,FORD MOTOR CO,EPS,Supply
+21,FORD MOTOR CO,Non-GAAP,Supply
+24,FORD MOTOR CO,Ford Credit Automotive Mobility Other,Supply
+25,FORD MOTOR CO,Ford Credit Consolidated Revenues,Supply
+26,FORD MOTOR CO,Assets Company,Supply
+29,FORD MOTOR CO,LTR,Supply
+31,FORD MOTOR CO,GRMC,Supply
+32,FORD MOTOR CO,Company,Supply
+33,FORD MOTOR CO,Automotive Mobility,Supply
+34,FORD MOTOR CO,Ford Credit Trade,Supply
+36,FORD MOTOR CO,Consumer Retail,Supply
+39,FORD MOTOR CO,Automotive Credit Facilities Total Company,Supply
+0,FORD MOTOR CO,Ford Credit,customers
+3,FORD MOTOR CO,Takata,customers
+8,FORD MOTOR CO,▪ Advertising and Sales Promotions,customers
+9,FORD MOTOR CO,▪ Administrative and Selling,customers
+10,FORD MOTOR CO,OPEB,customers
+11,FORD MOTOR CO,Exchange,customers
+12,FORD MOTOR CO,EBIT,customers
+13,FORD MOTOR CO,Ford Credit’s,customers
+14,FORD MOTOR CO,Company,customers
+17,FORD MOTOR CO,Trade Receivables Trade,customers
+18,FORD MOTOR CO,Ford,customers
+19,FORD MOTOR CO,Lincoln,customers
+24,FORD MOTOR CO,Mobility,customers
+25,FORD MOTOR CO,Dealer,customers
+0,FORD MOTOR CO,Ford Credit,Sells to
+0,FORD MOTOR CO,Ford,dependent on
+2,FORD MOTOR CO,Ford Credit’s,dependent on
+6,FORD MOTOR CO,Brexit,dependent on
+7,FORD MOTOR CO,Ford Credit,dependent on
+0,Motors Liquidation Co,Liquidation,Supply
+1,Motors Liquidation Co,General Motors Corporation,Supply
+2,Motors Liquidation Co,Saturn Corporation,Supply
+3,Motors Liquidation Co,JPMorgan Chase Bank,Supply
+4,Motors Liquidation Co,the GUC Trust,Supply
+5,Motors Liquidation Co,GUC Trust,Supply
+8,Motors Liquidation Co,GUC Trust Units,Supply
+9,Motors Liquidation Co,Distributable Cash,Supply
+0,Motors Liquidation Co,GUC Trust,Sells to
+0,GENUINE PARTS CO,Company,Supply
+2,GENUINE PARTS CO,NAPA Canada/UAP,Supply
+4,GENUINE PARTS CO,NAPA,Supply
+6,GENUINE PARTS CO,120 Traction,Supply
+8,GENUINE PARTS CO,Traction,Supply
+10,GENUINE PARTS CO,Automotive Supply Group,Supply
+11,GENUINE PARTS CO,Balkamp,Supply
+14,GENUINE PARTS CO,The Industrial Parts Group,Supply
+15,GENUINE PARTS CO,Motion’s,Supply
+16,GENUINE PARTS CO,Motion,Supply
+17,GENUINE PARTS CO,the Industrial Parts Group,Supply
+18,GENUINE PARTS CO,the Industrial Parts Group’s,Supply
+19,GENUINE PARTS CO,The Business Products Group,Supply
+20,GENUINE PARTS CO,Business Source ®,Supply
+21,GENUINE PARTS CO,Compucessory,Supply
+22,GENUINE PARTS CO,Lorell ®,Supply
+23,GENUINE PARTS CO,NatureSaver ®,Supply
+24,GENUINE PARTS CO,Integra,Supply
+25,GENUINE PARTS CO,the Institute for Supply Management’s,Supply
+28,GENUINE PARTS CO,Facilities,Supply
+29,GENUINE PARTS CO,Breakroom,Supply
+30,GENUINE PARTS CO,Safety Supplies,Supply
+31,GENUINE PARTS CO,PartsPoint,Supply
+32,GENUINE PARTS CO,EIS,Supply
+36,GENUINE PARTS CO,Cash,Supply
+40,GENUINE PARTS CO,Hydraulic Supply Company,Supply
+0,GENUINE PARTS CO,MinimumMember,customers
+1,GENUINE PARTS CO,TrademarksMember,customers
+3,GENUINE PARTS CO,Hennig,customers
+4,GENUINE PARTS CO,NAPA AUTO,customers
+7,GENUINE PARTS CO,Company,customers
+13,GENUINE PARTS CO,NAPA,customers
+14,GENUINE PARTS CO,Motion,customers
+15,GENUINE PARTS CO,The Industrial Parts Group,customers
+16,GENUINE PARTS CO,Motion’s,customers
+19,GENUINE PARTS CO,the Industrial Parts Group,customers
+20,GENUINE PARTS CO,the Federal Reserve,customers
+21,GENUINE PARTS CO,the Institute for Supply Management’s,customers
+27,GENUINE PARTS CO,Fair Value of Customer Relationships Acquired in Business Combinations Description of the Matter,customers
+42,GENUINE PARTS CO,Customer's Accounting for Implementation Costs Incurred,customers
+43,GENUINE PARTS CO,Business Products,customers
+44,GENUINE PARTS CO,AAG,customers
+45,GENUINE PARTS CO,Company’s,customers
+0,"Franchise Holdings International, Inc.",Worksport USA,Supply
+1,"Franchise Holdings International, Inc.",AAG,Supply
+2,"Franchise Holdings International, Inc.",Worksport,Supply
+3,"Franchise Holdings International, Inc.",Worksports,Supply
+4,"Franchise Holdings International, Inc.",Company,Supply
+0,"Franchise Holdings International, Inc.",The Specialty Equipment,customers
+1,"Franchise Holdings International, Inc.",Worksport,customers
+2,"Franchise Holdings International, Inc.",Worksport’s,customers
+3,"Franchise Holdings International, Inc.",AAG,customers
+5,"Franchise Holdings International, Inc.","Québec, Canada",customers
+6,"Franchise Holdings International, Inc.",Trailer Parts Etc,customers
+8,"Franchise Holdings International, Inc.",Company,customers
+9,"Franchise Holdings International, Inc.",Company’s,customers
+12,"Franchise Holdings International, Inc.",ASU,customers
+20,"Franchise Holdings International, Inc.",Customer C,customers
+21,"Franchise Holdings International, Inc.",Customer A,customers
+0,"Franchise Holdings International, Inc.",Sierra,Sells to
+0,"Franchise Holdings International, Inc.",Company,dependent on
+0,SaviCorp,DynoGreen Tech,Supply
+1,SaviCorp,LLC,Supply
+2,SaviCorp,the Department of Standardization,Supply
+3,SaviCorp,DGT,Supply
+4,SaviCorp,DynoValve,Supply
+5,SaviCorp,Fontana Police Vehicle Roundup Suppliers,Supply
+6,SaviCorp,SEC,Supply
+7,SaviCorp,Non-Cash Investing and Financing Transactions,Supply
+0,SaviCorp,Company,customers
+0,SaviCorp,DynoValve,Sells to
+1,SaviCorp,DGT,Sells to
+0,SaviCorp,DynoValve,dependent on
+1,SaviCorp,Company,dependent on
+0,LYDALL INC /DE/,Company’s,Supply
+2,LYDALL INC /DE/,Company,Supply
+3,LYDALL INC /DE/,Interface,Supply
+6,LYDALL INC /DE/,Tier I/II,Supply
+7,LYDALL INC /DE/,the Company's Thermal Acoustical Solutions,Supply
+11,LYDALL INC /DE/,Caterpillar Inc.,Supply
+14,LYDALL INC /DE/,Registrant,Supply
+15,LYDALL INC /DE/,Commission,Supply
+20,LYDALL INC /DE/,All Accounting and Financial Personnel,Supply
+21,LYDALL INC /DE/,Lydall’s,Supply
+23,LYDALL INC /DE/,Company’s Thermal Acoustical Solutions,Supply
+0,LYDALL INC /DE/,PatentsMember,customers
+2,LYDALL INC /DE/,InterfaceMember,customers
+3,LYDALL INC /DE/,Lydall,customers
+4,LYDALL INC /DE/,BREXIT,customers
+5,LYDALL INC /DE/,Company,customers
+7,LYDALL INC /DE/,Lydall’s,customers
+9,LYDALL INC /DE/,Company’s,customers
+12,LYDALL INC /DE/,ASU,customers
+19,LYDALL INC /DE/,The General Data Protection Regulation (,customers
+20,LYDALL INC /DE/,GDPR,customers
+21,LYDALL INC /DE/,the European Union,customers
+22,LYDALL INC /DE/,EU,customers
+24,LYDALL INC /DE/,Board of Directors,customers
+40,LYDALL INC /DE/,Prepaid,customers
+58,LYDALL INC /DE/,Interface,customers
+63,LYDALL INC /DE/,FASB,customers
+65,LYDALL INC /DE/,Customer’s Accounting for Implementation Costs Incurred,customers
+0,LYDALL INC /DE/,Ford Motor Company,Sells to
+1,LYDALL INC /DE/,Lydall’s,Sells to
+2,LYDALL INC /DE/,Thermal Acoustical Solutions,Sells to
+4,LYDALL INC /DE/,Ford,Sells to
+5,LYDALL INC /DE/,Lydall,Sells to
+0,LYDALL INC /DE/,Company,dependent on
+0,VISTEON CORP,OtherPensionPlansPostretirementOrSupplementalPlansDefinedBenefitMember,Supply
+1,VISTEON CORP,Ford,Supply
+2,VISTEON CORP,Mazda,Supply
+3,VISTEON CORP,Renault,Supply
+4,VISTEON CORP,Nissan,Supply
+5,VISTEON CORP,General Motors,Supply
+6,VISTEON CORP,Volkswagen,Supply
+7,VISTEON CORP,Jaguar/Land Rover,Supply
+8,VISTEON CORP,Daimler,Supply
+9,VISTEON CORP,Honda,Supply
+10,VISTEON CORP,BMW,Supply
+11,VISTEON CORP,Company,Supply
+12,VISTEON CORP,Company’s International Operations Financial,Supply
+17,VISTEON CORP,Company’s,Supply
+40,VISTEON CORP,Manufacturing Operations and Supply,Supply
+41,VISTEON CORP,Product Delivery Jochen Ladwig,Supply
+42,VISTEON CORP,Global Quality and Procurement,Supply
+43,VISTEON CORP,Visteon,Supply
+44,VISTEON CORP,Infotainment Division,Supply
+45,VISTEON CORP,"Harman International Industries, Inc.",Supply
+46,VISTEON CORP,Visteon’s,Supply
+47,VISTEON CORP,Manufacturing Operations and Supply Chain,Supply
+48,VISTEON CORP,Engineering,Supply
+49,VISTEON CORP,"Johnson Controls, Inc.",Supply
+50,VISTEON CORP,Global Procurement,Supply
+52,VISTEON CORP,Head of Procurement & Supplier Quality Connected Systems,Supply
+53,VISTEON CORP,Displays & Digital Content,Supply
+54,VISTEON CORP,Daimler AG,Supply
+56,VISTEON CORP,DaimlerChrysler,Supply
+57,VISTEON CORP,General Counsel,Supply
+58,VISTEON CORP,Federal-Mogul Holdings Corporation,Supply
+59,VISTEON CORP,Federal-Mogul,Supply
+60,VISTEON CORP,Controller,Supply
+61,VISTEON CORP,Operations,Supply
+62,VISTEON CORP,Elektrobit Automotive GmbH,Supply
+63,VISTEON CORP,Elektrobit’s,Supply
+64,VISTEON CORP,Infotainment Solutions,Supply
+65,VISTEON CORP,Electronics Business Group,Supply
+67,VISTEON CORP,MD&A,Supply
+79,VISTEON CORP,EBITDA,Supply
+84,VISTEON CORP,HVAC,Supply
+85,VISTEON CORP,HVCC,Supply
+86,VISTEON CORP,OFAC,Supply
+90,VISTEON CORP,Financial Reporting Management’s,Supply
+91,VISTEON CORP,Ernst & Young LLP,Supply
+93,VISTEON CORP,the Quarterly Report on Form 10-Q,Supply
+94,VISTEON CORP,the Securities and Exchange Commission,Supply
+0,VISTEON CORP,MaximumMember,customers
+1,VISTEON CORP,MinimumMember,customers
+5,VISTEON CORP,GoodwillMember,customers
+8,VISTEON CORP,Visteon,customers
+9,VISTEON CORP,Company,customers
+10,VISTEON CORP,Company's Electronics,customers
+12,VISTEON CORP,Ford,customers
+13,VISTEON CORP,Mazda,customers
+14,VISTEON CORP,Renault,customers
+15,VISTEON CORP,Nissan,customers
+16,VISTEON CORP,General Motors,customers
+17,VISTEON CORP,Volkswagen,customers
+18,VISTEON CORP,Jaguar/Land Rover,customers
+19,VISTEON CORP,Daimler,customers
+20,VISTEON CORP,Honda,customers
+21,VISTEON CORP,BMW,customers
+30,VISTEON CORP,The Company’s Business,customers
+33,VISTEON CORP,Company’s,customers
+37,VISTEON CORP,OEM,customers
+51,VISTEON CORP,Ford Motor Company,customers
+63,VISTEON CORP,Visteon’s,customers
+66,VISTEON CORP,Customer Business Groups,customers
+71,VISTEON CORP,EBITDA,customers
+76,VISTEON CORP,Revenue Recognition Revenue,customers
+87,VISTEON CORP,the Company until the Company,customers
+103,VISTEON CORP,VFAE,customers
+0,VISTEON CORP,Company,dependent on
+4,VISTEON CORP,Ford Motor Company,dependent on
+0,"MERITOR, INC.",Commercial Truck,Supply
+1,"MERITOR, INC.",Trailer,Supply
+2,"MERITOR, INC.",the European Union,Supply
+3,"MERITOR, INC.",Meritor,Supply
+4,"MERITOR, INC.",PACCAR,Supply
+5,"MERITOR, INC.",Daimler,Supply
+6,"MERITOR, INC.",Silver Performance,Supply
+7,"MERITOR, INC.",Motor Coach Industries,Supply
+8,"MERITOR, INC.",Alstom,Supply
+9,"MERITOR, INC.",OEM,Supply
+11,"MERITOR, INC.","Fabco Holdings, Inc.",Supply
+12,"MERITOR, INC.",AA Gear Mfg.,Supply
+13,"MERITOR, INC.",AxleTech,Supply
+14,"MERITOR, INC.",SEC,Supply
+17,"MERITOR, INC.",Global Truck,Supply
+18,"MERITOR, INC.",Americas,Supply
+19,"MERITOR, INC.",Global Manufacturing and Supply Chain Management,Supply
+20,"MERITOR, INC.",Meritor India,Supply
+21,"MERITOR, INC.",MHVSIL,Supply
+22,"MERITOR, INC.",Automotive Axles Ltd.,Supply
+24,"MERITOR, INC.",Kalyani Group of India,Supply
+25,"MERITOR, INC.",European Operations,Supply
+26,"MERITOR, INC.",Continuous Improvement,Supply
+27,"MERITOR, INC.",Industrialization Project Manager,Supply
+29,"MERITOR, INC.",Overview Headquartered,Supply
+33,"MERITOR, INC.",FIFO,Supply
+34,"MERITOR, INC.",TransPower,Supply
+38,"MERITOR, INC.",The Bank of New York Mellon Trust Company,Supply
+39,"MERITOR, INC.",BNY Midwest Trust Company,Supply
+40,"MERITOR, INC.",The Chase Manhattan Bank,Supply
+42,"MERITOR, INC.",Annual Report on Form 10-K,Supply
+47,"MERITOR, INC.",Subsidiary Guaranty,Supply
+48,"MERITOR, INC.",Meritor’s Current Report on Form,Supply
+53,"MERITOR, INC.",Meritor's,Supply
+0,"MERITOR, INC.",GoalthreeMember,customers
+1,"MERITOR, INC.",Meritor,customers
+2,"MERITOR, INC.",Trailer,customers
+3,"MERITOR, INC.",the European Union,customers
+5,"MERITOR, INC.",PACCAR,customers
+6,"MERITOR, INC.",Daimler,customers
+7,"MERITOR, INC.",Silver Performance,customers
+8,"MERITOR, INC.",Motor Coach Industries,customers
+12,"MERITOR, INC.",AB Volvo,customers
+13,"MERITOR, INC.",Daimler AG,customers
+15,"MERITOR, INC.",Navistar,customers
+19,"MERITOR, INC.",Navistar International Corporation,customers
+20,"MERITOR, INC.",Traton Group,customers
+21,"MERITOR, INC.",CNH Industrial,customers
+22,"MERITOR, INC.",XCMG,customers
+23,"MERITOR, INC.",Wabash National,customers
+24,"MERITOR, INC.",Gillig,customers
+25,"MERITOR, INC.",OEM,customers
+27,"MERITOR, INC.","Fabco Holdings, Inc.",customers
+28,"MERITOR, INC.",AA Gear Mfg.,customers
+29,"MERITOR, INC.",AxleTech,customers
+30,"MERITOR, INC.",SEC,customers
+37,"MERITOR, INC.",the Financial Accounting Standards Board,customers
+38,"MERITOR, INC.",FASB,customers
+39,"MERITOR, INC.",ASU,customers
+0,"MERITOR, INC.",AB Volvo,Sells to
+1,"MERITOR, INC.",Daimler AG,Sells to
+2,"MERITOR, INC.",PACCAR,Sells to
+3,"MERITOR, INC.",Navistar,Sells to
+8,"MERITOR, INC.",OEM,Sells to
+0,MODINE MANUFACTURING CO,Modine,Supply
+1,MODINE MANUFACTURING CO,the General Data Protection Regulation,Supply
+2,MODINE MANUFACTURING CO,Company’s,Supply
+3,MODINE MANUFACTURING CO,Luvata HTS,Supply
+4,MODINE MANUFACTURING CO,Company,Supply
+0,MODINE MANUFACTURING CO,− Automobile,customers
+1,MODINE MANUFACTURING CO,− Agricultural,customers
+2,MODINE MANUFACTURING CO,− Heating,customers
+3,MODINE MANUFACTURING CO,− Construction,customers
+4,MODINE MANUFACTURING CO,− Wholesalers,customers
+5,MODINE MANUFACTURING CO,Customers – Automobile,customers
+6,MODINE MANUFACTURING CO,Customers – Construction,customers
+7,MODINE MANUFACTURING CO,Caterpillar,customers
+8,MODINE MANUFACTURING CO,Daimler AG,customers
+9,MODINE MANUFACTURING CO,Daimler Trucks,customers
+10,MODINE MANUFACTURING CO,Detroit Diesel,customers
+11,MODINE MANUFACTURING CO,Mercedes-Benz,customers
+12,MODINE MANUFACTURING CO,Deere & Company,customers
+13,MODINE MANUFACTURING CO,FCA N.V.,customers
+14,MODINE MANUFACTURING CO,Chrysler,customers
+15,MODINE MANUFACTURING CO,CNH,customers
+16,MODINE MANUFACTURING CO,Fiat,customers
+17,MODINE MANUFACTURING CO,Iveco,customers
+18,MODINE MANUFACTURING CO,VM Motori,customers
+19,MODINE MANUFACTURING CO,CIS,customers
+20,MODINE MANUFACTURING CO,Modine,customers
+21,MODINE MANUFACTURING CO,HVAC&R,customers
+22,MODINE MANUFACTURING CO,EGR,customers
+23,MODINE MANUFACTURING CO,IATF,customers
+24,MODINE MANUFACTURING CO,Global Modine       Management System,customers
+25,MODINE MANUFACTURING CO,OEM,customers
+26,MODINE MANUFACTURING CO,VTS,customers
+28,MODINE MANUFACTURING CO,the General Data Protection Regulation,customers
+31,MODINE MANUFACTURING CO,Credit Risk Credit,customers
+33,MODINE MANUFACTURING CO,Company,customers
+35,MODINE MANUFACTURING CO,FASB,customers
+47,MODINE MANUFACTURING CO,the       Company,customers
+51,MODINE MANUFACTURING CO,BHVAC,customers
+59,MODINE MANUFACTURING CO,Company’s,customers
+0,MODINE MANUFACTURING CO,OEM,Sells to
+1,MODINE MANUFACTURING CO,VTS,Sells to
+2,MODINE MANUFACTURING CO,CIS,Sells to
+3,MODINE MANUFACTURING CO,External Sales Inter,Sells to
+0,MODINE MANUFACTURING CO,Company,dependent on
+0,PACCAR INC,Company,Supply
+1,PACCAR INC,Cummins,Supply
+3,PACCAR INC,Company’s,Supply
+5,PACCAR INC,DAF,Supply
+6,PACCAR INC,Renault V.I.,Supply
+14,PACCAR INC,Financial Services,Supply
+15,PACCAR INC,PACCAR,Supply
+16,PACCAR INC,EC,Supply
+0,PACCAR INC,Company’s,customers
+1,PACCAR INC,PACCAR,customers
+5,PACCAR INC,Company,customers
+7,PACCAR INC,Financial Services,customers
+13,PACCAR INC,Global Embedded Software,customers
+14,PACCAR INC,Kenworth,customers
+15,PACCAR INC,Peterbilt,customers
+17,PACCAR INC,DAF,customers
+21,PACCAR INC,Ponta Grossa,customers
+28,PACCAR INC,Truck,customers
+34,PACCAR INC,RVG,customers
+38,PACCAR INC,The Company’s Financial Services,customers
+42,PACCAR INC,Recognition,customers
+62,PACCAR INC,Company’s Truck,customers
+64,PACCAR INC,the Company’s Financial Services,customers
+0,PACCAR INC,PACCAR,dependent on
+1,PACCAR INC,Kenworth,dependent on
+2,PACCAR INC,Peterbilt,dependent on
+3,PACCAR INC,DAF,dependent on
+4,PACCAR INC,Financial Services,dependent on
+0,"Andover Holdings, Inc./FL",Company,Supply
+2,"Andover Holdings, Inc./FL",NON,Supply
+0,"Andover Holdings, Inc./FL",Company,customers
+0,"STANDARD MOTOR PRODUCTS, INC.",PatentsMember,Supply
+2,"STANDARD MOTOR PRODUCTS, INC.",TrademarksMember,Supply
+5,"STANDARD MOTOR PRODUCTS, INC.",SEC,Supply
+6,"STANDARD MOTOR PRODUCTS, INC.",OE,Supply
+7,"STANDARD MOTOR PRODUCTS, INC.",OEM,Supply
+8,"STANDARD MOTOR PRODUCTS, INC.",Item,Supply
+9,"STANDARD MOTOR PRODUCTS, INC.",SG&A,Supply
+10,"STANDARD MOTOR PRODUCTS, INC.","Stoneridge, Inc.",Supply
+11,"STANDARD MOTOR PRODUCTS, INC.",Temperature Control,Supply
+0,"STANDARD MOTOR PRODUCTS, INC.",MinimumMember,customers
+1,"STANDARD MOTOR PRODUCTS, INC.",FurnitureAndFixturesMember,customers
+2,"STANDARD MOTOR PRODUCTS, INC.",MaximumMember,customers
+5,"STANDARD MOTOR PRODUCTS, INC.",PatentsMember,customers
+7,"STANDARD MOTOR PRODUCTS, INC.",TrademarksMember,customers
+11,"STANDARD MOTOR PRODUCTS, INC.",SEC,customers
+12,"STANDARD MOTOR PRODUCTS, INC.",O’Reilly Automotive,customers
+13,"STANDARD MOTOR PRODUCTS, INC.",Engine Management and Temperature Control Segments,customers
+14,"STANDARD MOTOR PRODUCTS, INC.",Temperature Control,customers
+16,"STANDARD MOTOR PRODUCTS, INC.",Engine Management’s,customers
+17,"STANDARD MOTOR PRODUCTS, INC.","Stoneridge, Inc.",customers
+18,"STANDARD MOTOR PRODUCTS, INC.",Temperature Control’s,customers
+20,"STANDARD MOTOR PRODUCTS, INC.",Engine Management,customers
+21,"STANDARD MOTOR PRODUCTS, INC.",General Cable,customers
+23,"STANDARD MOTOR PRODUCTS, INC.",New Customer Acquisition Costs,customers
+24,"STANDARD MOTOR PRODUCTS, INC.",Company,customers
+25,"STANDARD MOTOR PRODUCTS, INC.",EBIT,customers
+28,"STANDARD MOTOR PRODUCTS, INC.",OE/OES,customers
+29,"STANDARD MOTOR PRODUCTS, INC.","Index STANDARD MOTOR PRODUCTS, INC",customers
+32,"STANDARD MOTOR PRODUCTS, INC.",ASU,customers
+35,"STANDARD MOTOR PRODUCTS, INC.",Export,customers
+0,REGENCY AFFILIATES INC,Mobile Energy,Supply
+1,REGENCY AFFILIATES INC,Kimberly-Clark,Supply
+2,REGENCY AFFILIATES INC,MESC Capital's,Supply
+7,REGENCY AFFILIATES INC,"Royalty Management, Inc.",Supply
+8,REGENCY AFFILIATES INC,MESC Capital,Supply
+9,REGENCY AFFILIATES INC,"Mobile Energy Services, Company",Supply
+10,REGENCY AFFILIATES INC,LLC,Supply
+15,REGENCY AFFILIATES INC,Laurence Levy,Supply
+16,REGENCY AFFILIATES INC,Company,Supply
+0,REGENCY AFFILIATES INC,Security Land,dependent on
+1,REGENCY AFFILIATES INC,MESC Capital,dependent on
+0,UNITED COMPONENTS INC,Flexible Lamps Ltd.,Supply
+1,UNITED COMPONENTS INC,DIY,Supply
+2,UNITED COMPONENTS INC,AutoZone,Supply
+3,UNITED COMPONENTS INC,DIFM,Supply
+4,UNITED COMPONENTS INC,Alliance,Supply
+5,UNITED COMPONENTS INC,CARQUEST,Supply
+11,UNITED COMPONENTS INC,NAPA,Supply
+13,UNITED COMPONENTS INC,NAPA Excellence,Supply
+14,UNITED COMPONENTS INC,Automotive Distribution Network,Supply
+15,UNITED COMPONENTS INC,Aftermarket Auto Parts Alliance “Gold Level Supplier for Outstanding Shipping Performance 2007,Supply
+16,UNITED COMPONENTS INC,Aftermarket Auto Parts Alliance,Supply
+17,UNITED COMPONENTS INC,Valvoline,Supply
+18,UNITED COMPONENTS INC,Firestone,Supply
+19,UNITED COMPONENTS INC,Kubota,Supply
+20,UNITED COMPONENTS INC,Mercury,Supply
+21,UNITED COMPONENTS INC,Sierra Supply • Lawn,Supply
+22,UNITED COMPONENTS INC,Kohler,Supply
+23,UNITED COMPONENTS INC,"Hovis Auto Supply, Inc.",Supply
+24,UNITED COMPONENTS INC,Robert Bosch LLC et al,Supply
+25,UNITED COMPONENTS INC,Independent Registered Public Accounting Firm 47 Consolidated       Financial Statements Consolidated,Supply
+26,UNITED COMPONENTS INC,UCI,Supply
+29,UNITED COMPONENTS INC,Company,Supply
+30,UNITED COMPONENTS INC,LMC,Supply
+0,UNITED COMPONENTS INC,"Advance Stores Company, Inc.",customers
+1,UNITED COMPONENTS INC,"AutoZone, Inc.",customers
+2,UNITED COMPONENTS INC,AutoZone,customers
+3,UNITED COMPONENTS INC,Aftermarket Auto Parts Alliance (Alliance,customers
+4,UNITED COMPONENTS INC,AIM/CMB Marketing,customers
+5,UNITED COMPONENTS INC,Automotive Distribution Network,customers
+6,UNITED COMPONENTS INC,"Auto Parts Associates, Inc.",customers
+7,UNITED COMPONENTS INC,APA,customers
+8,UNITED COMPONENTS INC,Auto Parts Professionals,customers
+9,UNITED COMPONENTS INC,CARQUEST Corporation,customers
+10,UNITED COMPONENTS INC,CARQUEST,customers
+11,UNITED COMPONENTS INC,Genuine Parts Company,customers
+12,UNITED COMPONENTS INC,NAPA,customers
+13,UNITED COMPONENTS INC,UAP,customers
+14,UNITED COMPONENTS INC,Independent Warehouse Distributors,customers
+15,UNITED COMPONENTS INC,IWD,customers
+16,UNITED COMPONENTS INC,National Pronto Association,customers
+17,UNITED COMPONENTS INC,Advance,customers
+19,UNITED COMPONENTS INC,Alliance,customers
+22,UNITED COMPONENTS INC,Airtex,customers
+30,UNITED COMPONENTS INC,NAPA Excellence,customers
+32,UNITED COMPONENTS INC,Aftermarket Auto Parts Alliance “Gold Level Supplier for Outstanding Shipping Performance 2007,customers
+33,UNITED COMPONENTS INC,Aftermarket Auto Parts Alliance,customers
+34,UNITED COMPONENTS INC,OES,customers
+35,UNITED COMPONENTS INC,GM,customers
+36,UNITED COMPONENTS INC,Ford,customers
+37,UNITED COMPONENTS INC,Chrysler,customers
+38,UNITED COMPONENTS INC,Harley-Davidson,customers
+39,UNITED COMPONENTS INC,Kawasaki,customers
+42,UNITED COMPONENTS INC,General Motors,customers
+46,UNITED COMPONENTS INC,UCI,customers
+52,UNITED COMPONENTS INC,Company,customers
+53,UNITED COMPONENTS INC,OEM,customers
+55,UNITED COMPONENTS INC,Revenue Recognition,customers
+0,UNITED COMPONENTS INC,Valvoline,Sells to
+1,UNITED COMPONENTS INC,Firestone,Sells to
+2,UNITED COMPONENTS INC,AutoZone,Sells to
+4,UNITED COMPONENTS INC,General Motors Corporation,Sells to
+5,UNITED COMPONENTS INC,GM,Sells to
+7,UNITED COMPONENTS INC,Chrysler,Sells to
+9,UNITED COMPONENTS INC,OES,Sells to
+13,UNITED COMPONENTS INC,UCI,Sells to
+17,UNITED COMPONENTS INC,The Hertz Corporation,Sells to
+19,UNITED COMPONENTS INC,The Compensation Committee,Sells to
+21,UNITED COMPONENTS INC,"Allison Transmission, Inc.",Sells to
+0,UNITED COMPONENTS INC,UCI,dependent on
+0,"ATC Ventures Group, Inc.",Equity Securities 10 Item 6 Selected Consolidated Financial Data 11 Item 7 Management's,Supply
+1,"ATC Ventures Group, Inc.",Discussion and Analysis of Financial Condition and Results of Operations 12 Item 8 Financial Statements,Supply
+2,"ATC Ventures Group, Inc.",Company,Supply
+9,"ATC Ventures Group, Inc.",Supply Chain and Sourcing of Materials,Supply
+11,"ATC Ventures Group, Inc.",Buyer,Supply
+14,"ATC Ventures Group, Inc.",The Supply Agreement,Supply
+18,"ATC Ventures Group, Inc.",Closing,Supply
+0,"ATC Ventures Group, Inc.",Company,customers
+13,"ATC Ventures Group, Inc.",Buyer,customers
+15,"ATC Ventures Group, Inc.",Closing,customers
+26,"ATC Ventures Group, Inc.",Imdyne,customers
+31,"ATC Ventures Group, Inc.",Imdyne ATV Perf-Form Plazco,customers
+32,"ATC Ventures Group, Inc.",ATV,customers
+34,"ATC Ventures Group, Inc.",Plazco,customers
+36,"ATC Ventures Group, Inc.",Perf-Form's,customers
+0,CHINA AUTOMOTIVE SYSTEMS INC,Company,Supply
+1,CHINA AUTOMOTIVE SYSTEMS INC,GM,Supply
+2,CHINA AUTOMOTIVE SYSTEMS INC,Citroen,Supply
+3,CHINA AUTOMOTIVE SYSTEMS INC,Volkswagen,Supply
+5,CHINA AUTOMOTIVE SYSTEMS INC,Fiat Chrysler North America,Supply
+6,CHINA AUTOMOTIVE SYSTEMS INC,Ford Motor Company,Supply
+7,CHINA AUTOMOTIVE SYSTEMS INC,Company’s,Supply
+9,CHINA AUTOMOTIVE SYSTEMS INC,OEM,Supply
+14,CHINA AUTOMOTIVE SYSTEMS INC,First Auto FKS,Supply
+15,CHINA AUTOMOTIVE SYSTEMS INC,FKS,Supply
+16,CHINA AUTOMOTIVE SYSTEMS INC,SAIC,Supply
+17,CHINA AUTOMOTIVE SYSTEMS INC,ZF Germany,Supply
+26,CHINA AUTOMOTIVE SYSTEMS INC,Grand China,Supply
+27,CHINA AUTOMOTIVE SYSTEMS INC,"TRI Products, Inc.",Supply
+28,CHINA AUTOMOTIVE SYSTEMS INC,USD,Supply
+0,CHINA AUTOMOTIVE SYSTEMS INC,General Motors,customers
+1,CHINA AUTOMOTIVE SYSTEMS INC,GM,customers
+2,CHINA AUTOMOTIVE SYSTEMS INC,Volkswagen,customers
+3,CHINA AUTOMOTIVE SYSTEMS INC,Citroen,customers
+4,CHINA AUTOMOTIVE SYSTEMS INC,Fiat Chrysler North America,customers
+5,CHINA AUTOMOTIVE SYSTEMS INC,Company,customers
+6,CHINA AUTOMOTIVE SYSTEMS INC,Company’s,customers
+8,CHINA AUTOMOTIVE SYSTEMS INC,Fiat,customers
+9,CHINA AUTOMOTIVE SYSTEMS INC,OEM,customers
+15,CHINA AUTOMOTIVE SYSTEMS INC,FKS,customers
+16,CHINA AUTOMOTIVE SYSTEMS INC,First Auto Group,customers
+17,CHINA AUTOMOTIVE SYSTEMS INC,Koyo Company,customers
+18,CHINA AUTOMOTIVE SYSTEMS INC,FAW-Volkswagen Company,customers
+44,CHINA AUTOMOTIVE SYSTEMS INC,VAT,customers
+47,CHINA AUTOMOTIVE SYSTEMS INC,FASB,customers
+48,CHINA AUTOMOTIVE SYSTEMS INC,the International Accounting Standards Board,customers
+49,CHINA AUTOMOTIVE SYSTEMS INC,IASB,customers
+50,CHINA AUTOMOTIVE SYSTEMS INC,ASU,customers
+52,CHINA AUTOMOTIVE SYSTEMS INC,ASU No.2016-10,customers
+53,CHINA AUTOMOTIVE SYSTEMS INC,ASU No.2016-11,customers
+54,CHINA AUTOMOTIVE SYSTEMS INC,Xiamen Joylon,customers
+0,CHINA AUTOMOTIVE SYSTEMS INC,Company,Sells to
+0,CHINA AUTOMOTIVE SYSTEMS INC,Company’s,dependent on
+1,CHINA AUTOMOTIVE SYSTEMS INC,Company,dependent on
+0,"Transnational Automotive Group, Inc.",the Cameroon Government,Supply
+1,"Transnational Automotive Group, Inc.",TAUG,Supply
+5,"Transnational Automotive Group, Inc.",Texaco,Supply
+0,"Transnational Automotive Group, Inc.",LeBus,customers
+1,"Transnational Automotive Group, Inc.",Company’s,customers
+2,"Transnational Automotive Group, Inc.",Ad Agency,customers
+4,"Transnational Automotive Group, Inc.",SFAS No,customers
+0,"Wonder Auto Technology, Inc",Supplementary Data,Supply
+1,"Wonder Auto Technology, Inc",Jinheng Holdings,Supply
+2,"Wonder Auto Technology, Inc","Jiangsu Senyuan Special Steel Co., Ltd.",Supply
+3,"Wonder Auto Technology, Inc","Yingkou Die-Casting Products Co., Ltd.",Supply
+4,"Wonder Auto Technology, Inc","Jingda Rea Special Enamelled Wire Co., Ltd.",Supply
+5,"Wonder Auto Technology, Inc",Zhejiang Huanfang Auto Electrical Appliance Co. Ltd.,Supply
+6,"Wonder Auto Technology, Inc","Zhejiang Yuhuan Solenoid Co., Ltd.",Supply
+7,"Wonder Auto Technology, Inc","Jinzhou Hirvon Auto Electronics Co., Ltd.",Supply
+10,"Wonder Auto Technology, Inc",Jingda Rea Special Enameled Wire Co. Ltd.,Supply
+15,"Wonder Auto Technology, Inc",Zhejiang Yuhuan Solenoid Co.,Supply
+16,"Wonder Auto Technology, Inc",SEC,Supply
+19,"Wonder Auto Technology, Inc",Company,Supply
+20,"Wonder Auto Technology, Inc",The       Company,Supply
+22,"Wonder Auto Technology, Inc",EMS,Supply
+0,"Wonder Auto Technology, Inc","SAIC GM Wuling Automobile Co., Ltd.",customers
+1,"Wonder Auto Technology, Inc",Beijing Hyundai Motor Company,customers
+2,"Wonder Auto Technology, Inc","Shenyang Aerospace Mitsubishi Motors Engine Co., Ltd.",customers
+3,"Wonder Auto Technology, Inc","Harbin Dongan Automotive Engine Co., Ltd.",customers
+4,"Wonder Auto Technology, Inc","Shanghai Volkswagen Co., Ltd.",customers
+5,"Wonder Auto Technology, Inc",BYD Company Limited,customers
+6,"Wonder Auto Technology, Inc","Tianjin Toyota Co., Ltd.",customers
+7,"Wonder Auto Technology, Inc","Chery Automobile Co., Ltd.",customers
+8,"Wonder Auto Technology, Inc","Dongfeng Yueda Kia Motors Co., Ltd.",customers
+9,"Wonder Auto Technology, Inc","Geely Automobile Co., Ltd.",customers
+10,"Wonder Auto Technology, Inc","Tianjin FAW Xiali Automobile Co., Ltd.",customers
+11,"Wonder Auto Technology, Inc",Hyundai,customers
+14,"Wonder Auto Technology, Inc","Weichai Engine Logistic Co., Ltd.",customers
+15,"Wonder Auto Technology, Inc","Mianyang Xinchen Engine Co., Ltd.",customers
+16,"Wonder Auto Technology, Inc","Shanghai GM Wuling Automotive Co., Ltd.",customers
+17,"Wonder Auto Technology, Inc",Guangxi Yuchai Machinery Holdings Company,customers
+18,"Wonder Auto Technology, Inc",Jiangsu Mobis Auto Parts Company,customers
+19,"Wonder Auto Technology, Inc",Magneti Marelli Suspension System (,customers
+21,"Wonder Auto Technology, Inc","Mobis Auto Parts Co., Ltd.",customers
+23,"Wonder Auto Technology, Inc",FAW,customers
+24,"Wonder Auto Technology, Inc",Chery Automobile,customers
+25,"Wonder Auto Technology, Inc",Shanghai GM Wuling,customers
+26,"Wonder Auto Technology, Inc",Jinheng Holding,customers
+39,"Wonder Auto Technology, Inc",Company,customers
+41,"Wonder Auto Technology, Inc",The       Company,customers
+43,"Wonder Auto Technology, Inc",Jinan Worldwide,customers
+45,"Wonder Auto Technology, Inc",Company’s,customers
+46,"Wonder Auto Technology, Inc",Hyundai Motor Company,customers
+50,"Wonder Auto Technology, Inc",Customer Contracts Customer,customers
+0,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",CNG,Supply
+4,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",OEM,Supply
+11,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Original Equipment Manufacturers,Supply
+12,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Q-Rail LITE CNG,Supply
+14,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.","Ryder Systems, Inc.",Supply
+15,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Mainstay Fuel Technologies,Supply
+19,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",CA,Supply
+24,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Schneider Power,Supply
+25,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Zephyr,Supply
+26,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Samsung,Supply
+28,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Operations,Supply
+0,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Fuel Storage & Systems,customers
+1,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Advanced Green Innovations,customers
+2,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",CNG,customers
+4,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Fisker Auto Group,customers
+5,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",OEM,customers
+15,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Schneider Power,customers
+16,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Original Equipment Manufacturers,customers
+18,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Financial Information about Segments,customers
+19,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Customer Concentrations and Geographic Areas,customers
+28,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",LNG,customers
+31,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Q-Rail LITE CNG,customers
+33,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.","Ryder Systems, Inc.",customers
+34,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Mainstay Fuel Technologies,customers
+38,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",CA,customers
+41,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",AGI,customers
+44,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",the Fisker Auto Group,customers
+47,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",the General Motors',customers
+48,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",Impala,customers
+51,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",ASU,customers
+53,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",LLC,customers
+55,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",ZHRO Solutions,customers
+57,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",ZHRO,customers
+0,"QUANTUM FUEL SYSTEMS TECHNOLOGIES WORLDWIDE, INC.",CNG,dependent on
+0,Energtek Inc,NGV Infrastructure,Supply
+1,Energtek Inc,Energtek Products Ltd.,Supply
+2,Energtek Inc,Natural Gas,Supply
+3,Energtek Inc,Company,Supply
+4,Energtek Inc,Pipeless                 Gas Supply Markets FIT       ,Supply
+5,Energtek Inc,NG,Supply
+6,Energtek Inc,Independent Registered Public Accounting Firm Board       ,Supply
+7,Energtek Inc,ENERGTEK,Supply
+8,Energtek Inc,S.A Furnaces,Supply
+0,Energtek Inc,Energtek Products Ltd.,customers
+1,Energtek Inc,Natural Gas,customers
+2,Energtek Inc,ANG,customers
+3,Energtek Inc,LMP,customers
+4,Energtek Inc,EITF,customers
+0,MARKETING WORLDWIDE CORP,MWW,Supply
+4,MARKETING WORLDWIDE CORP,the International Standards Organization,Supply
+12,MARKETING WORLDWIDE CORP,Company,Supply
+14,MARKETING WORLDWIDE CORP,"Kux Manufacturing, Inc.",Supply
+15,MARKETING WORLDWIDE CORP,Honda,Supply
+16,MARKETING WORLDWIDE CORP,Nissan,Supply
+17,MARKETING WORLDWIDE CORP,GM,Supply
+18,MARKETING WORLDWIDE CORP,Toyota,Supply
+19,MARKETING WORLDWIDE CORP,Ford,Supply
+20,MARKETING WORLDWIDE CORP,Mazda,Supply
+0,MARKETING WORLDWIDE CORP,MWW,customers
+6,MARKETING WORLDWIDE CORP,Chevrolet,customers
+7,MARKETING WORLDWIDE CORP,Ford,customers
+8,MARKETING WORLDWIDE CORP,Mazda,customers
+9,MARKETING WORLDWIDE CORP,Subaru,customers
+10,MARKETING WORLDWIDE CORP,Hyundai,customers
+12,MARKETING WORLDWIDE CORP,the Vehicle Processing Centers,customers
+13,MARKETING WORLDWIDE CORP,OE,customers
+15,MARKETING WORLDWIDE CORP,the Domestic and Import Automobile Manufacturers,customers
+16,MARKETING WORLDWIDE CORP,Industrial Equipment Manufacturers,customers
+17,MARKETING WORLDWIDE CORP,Tier 1,customers
+24,MARKETING WORLDWIDE CORP,Automotive Specialty Markets,customers
+29,MARKETING WORLDWIDE CORP,Toyota,customers
+30,MARKETING WORLDWIDE CORP,Company,customers
+33,MARKETING WORLDWIDE CORP,Summit,customers
+0,MARKETING WORLDWIDE CORP,Company,dependent on
+0,ENVIRONMENTAL CONTROL CORP.,Supplemental Disclosures Interest,Supply
+0,"Kandi Technologies Group, Inc.","Fengsheng Vehicles Technologies Group Co., Ltd.",Supply
+1,"Kandi Technologies Group, Inc.",Zhejiang Kandi Supply Chain Management Co.,Supply
+2,"Kandi Technologies Group, Inc.",Company,Supply
+4,"Kandi Technologies Group, Inc.",“Supply Chain Company”,Supply
+5,"Kandi Technologies Group, Inc.",Supply Chain Company,Supply
+8,"Kandi Technologies Group, Inc.",Kandi New Energy,Supply
+9,"Kandi Technologies Group, Inc.",the Affiliate Company,Supply
+10,"Kandi Technologies Group, Inc.",Kandi Vehicles,Supply
+16,"Kandi Technologies Group, Inc.",F-,Supply
+18,"Kandi Technologies Group, Inc.",Investment Banking,Supply
+19,"Kandi Technologies Group, Inc.",Commercial and International Multinational Lending,Supply
+20,"Kandi Technologies Group, Inc.",Treasury Management,Supply
+21,"Kandi Technologies Group, Inc.",Credit Administration,Supply
+22,"Kandi Technologies Group, Inc.",Compliance,Supply
+23,"Kandi Technologies Group, Inc.",Trade Finance,Supply
+24,"Kandi Technologies Group, Inc.",Global Supply Chain,Supply
+25,"Kandi Technologies Group, Inc.","Zhejiang Kandi Vehicles     Co., Ltd.",Supply
+26,"Kandi Technologies Group, Inc.","Zhejiang Kandi Vehicles Co., Ltd.",Supply
+0,"Kandi Technologies Group, Inc.",the Affiliate Company’s,customers
+1,"Kandi Technologies Group, Inc.",EV,customers
+2,"Kandi Technologies Group, Inc.",Company,customers
+3,"Kandi Technologies Group, Inc.","Fengsheng Vehicles Technologies Group Co., Ltd.",customers
+4,"Kandi Technologies Group, Inc.",the Affiliate Company,customers
+16,"Kandi Technologies Group, Inc.",F-,customers
+17,"Kandi Technologies Group, Inc.",Company’s,customers
+22,"Kandi Technologies Group, Inc.",Operation Lewin,customers
+0,"Kandi Technologies Group, Inc.",the Affiliate Company,Sells to
+3,"Kandi Technologies Group, Inc.",EV,Sells to
+0,Cooper-Standard Holdings Inc.,Tier,Supply
+2,Cooper-Standard Holdings Inc.,Company,Supply
+3,Cooper-Standard Holdings Inc.,Cooper Standard,Supply
+4,Cooper-Standard Holdings Inc.,Advanced Technology Group,Supply
+5,Cooper-Standard Holdings Inc.,Cooper Standard Holdings Inc.,Supply
+6,Cooper-Standard Holdings Inc.,Nishikawa Cooper LLC,Supply
+8,Cooper-Standard Holdings Inc.,EBITDA,Supply
+9,Cooper-Standard Holdings Inc.,Ernst & Young LLP,Supply
+10,Cooper-Standard Holdings Inc.,Independent Registered Public Accounting Firm 42 Report,Supply
+12,Cooper-Standard Holdings Inc.,Independent Registered Public Accounting Firm,Supply
+13,Cooper-Standard Holdings Inc.,Internal Control over Financial,Supply
+16,Cooper-Standard Holdings Inc.,Hutchings Automotive Products,Supply
+17,Cooper-Standard Holdings Inc.,LLC,Supply
+20,Cooper-Standard Holdings Inc.,10.9*† Cooper-Standard Automotive Inc. Supplemental,Supply
+0,Cooper-Standard Holdings Inc.,CommercialMember,customers
+1,Cooper-Standard Holdings Inc.,EuropeMember,customers
+3,Cooper-Standard Holdings Inc.,Tier,customers
+5,Cooper-Standard Holdings Inc.,Company,customers
+6,Cooper-Standard Holdings Inc.,Cooper Standard,customers
+7,Cooper-Standard Holdings Inc.,Global Councils,customers
+9,Cooper-Standard Holdings Inc.,Renault,customers
+10,Cooper-Standard Holdings Inc.,BMW,customers
+11,Cooper-Standard Holdings Inc.,Toyota,customers
+12,Cooper-Standard Holdings Inc.,Volvo,customers
+13,Cooper-Standard Holdings Inc.,Jaguar/Land Rover,customers
+14,Cooper-Standard Holdings Inc.,Honda,customers
+15,Cooper-Standard Holdings Inc.,Advanced Technology Group,customers
+16,Cooper-Standard Holdings Inc.,Ford,customers
+17,Cooper-Standard Holdings Inc.,GM,customers
+18,Cooper-Standard Holdings Inc.,FCA,customers
+19,Cooper-Standard Holdings Inc.,the United Automobile Workers,customers
+20,Cooper-Standard Holdings Inc.,General Motors,customers
+21,Cooper-Standard Holdings Inc.,UAW,customers
+23,Cooper-Standard Holdings Inc.,Euro,customers
+26,Cooper-Standard Holdings Inc.,ASC,customers
+29,Cooper-Standard Holdings Inc.,Company’s,customers
+30,Cooper-Standard Holdings Inc.,Customer’s Accounting for Implementation Costs,customers
+35,Cooper-Standard Holdings Inc.,Plant and Equipment Property,customers
+36,Cooper-Standard Holdings Inc.,Carrying Amount Customer,customers
+39,Cooper-Standard Holdings Inc.,Customer Concentration Sales,customers
+41,Cooper-Standard Holdings Inc.,Percentage of Net Sales Customer,customers
+0,Cooper-Standard Holdings Inc.,Renault,Sells to
+1,Cooper-Standard Holdings Inc.,BMW,Sells to
+2,Cooper-Standard Holdings Inc.,Toyota,Sells to
+3,Cooper-Standard Holdings Inc.,Volvo,Sells to
+4,Cooper-Standard Holdings Inc.,Jaguar/Land Rover,Sells to
+5,Cooper-Standard Holdings Inc.,Honda,Sells to
+6,Cooper-Standard Holdings Inc.,Ford,Sells to
+7,Cooper-Standard Holdings Inc.,GM,Sells to
+8,Cooper-Standard Holdings Inc.,FCA,Sells to
+9,Cooper-Standard Holdings Inc.,Customer Concentration Sales,Sells to
+10,Cooper-Standard Holdings Inc.,Company,Sells to
+0,Cal Alta Auto Glass Inc,"Westcan Autoglass Supplies, Inc.",Supply
+2,Cal Alta Auto Glass Inc,FAA Enterprises,Supply
+3,Cal Alta Auto Glass Inc,"Westcan Auto Glass Supplies, Inc.",Supply
+4,Cal Alta Auto Glass Inc,Cal Alta,Supply
+8,Cal Alta Auto Glass Inc,Company,Supply
+0,Cal Alta Auto Glass Inc,"Energy One Resource Services, Inc.",customers
+1,Cal Alta Auto Glass Inc,Company,customers
+0,Cal Alta Auto Glass Inc,Company,dependent on
+0,STANADYNE CORP,Stanadyne’s,Supply
+1,STANADYNE CORP,Company,Supply
+8,STANADYNE CORP,INC,Supply
+10,STANADYNE CORP,Holdings,Supply
+11,STANADYNE CORP,NOTES,Supply
+12,STANADYNE CORP,CONSOLIDATED FINANCIAL,Supply
+13,STANADYNE CORP,STANADYNE HOLDINGS,Supply
+15,STANADYNE CORP,"STANADYNE HOLDINGS,",Supply
+20,STANADYNE CORP,Global Supply Chain,Supply
+23,STANADYNE CORP,the Named Executive Officers,Supply
+0,STANADYNE CORP,Company,customers
+1,STANADYNE CORP,OEM,customers
+2,STANADYNE CORP,Stanadyne,customers
+5,STANADYNE CORP,Deere & Company,customers
+6,STANADYNE CORP,Deere,customers
+7,STANADYNE CORP,General Motors,customers
+8,STANADYNE CORP,GM,customers
+9,STANADYNE CORP,Stanadyne’s,customers
+18,STANADYNE CORP,Service,customers
+22,STANADYNE CORP,Cummins,customers
+23,STANADYNE CORP,SG&A,customers
+24,STANADYNE CORP,AGCO,customers
+25,STANADYNE CORP,SISU,customers
+28,STANADYNE CORP,the U.S. Revolver,customers
+36,STANADYNE CORP,Research and Development,customers
+40,STANADYNE CORP,Net Sales Sales %,customers
+44,STANADYNE CORP,"Materials Management, Customer Support",customers
+45,STANADYNE CORP,Shop Operations and Manufacturing Engineering,customers
+46,STANADYNE CORP,EBITDA,customers
+0,STANADYNE CORP,Service,Sells to
+1,STANADYNE CORP,the Original Equipment Manufacturers,Sells to
+2,STANADYNE CORP,GM,Sells to
+4,STANADYNE CORP,Deere,Sells to
+5,STANADYNE CORP,Cummins,Sells to
+6,STANADYNE CORP,GEP,Sells to
+7,STANADYNE CORP,HUMMWV,Sells to
+8,STANADYNE CORP,AGCO,Sells to
+9,STANADYNE CORP,SISU,Sells to
+10,STANADYNE CORP,Ford,Sells to
+11,STANADYNE CORP,OE,Sells to
+0,"American Tire Distributors Holdings, Inc.",Tire Supplies and,Supply
+1,"American Tire Distributors Holdings, Inc.",the Department of Commerce,Supply
+2,"American Tire Distributors Holdings, Inc.",DOC,Supply
+3,"American Tire Distributors Holdings, Inc.",ATDI,Supply
+4,"American Tire Distributors Holdings, Inc.",Company,Supply
+6,"American Tire Distributors Holdings, Inc.",RTD BC,Supply
+7,"American Tire Distributors Holdings, Inc.",ASC 805— Business Combinations,Supply
+9,"American Tire Distributors Holdings, Inc.",Kipling,Supply
+11,"American Tire Distributors Holdings, Inc.",WTD,Supply
+13,"American Tire Distributors Holdings, Inc.",TDI,Supply
+15,"American Tire Distributors Holdings, Inc.",CTO,Supply
+16,"American Tire Distributors Holdings, Inc.",Acquisitions,Supply
+17,"American Tire Distributors Holdings, Inc.",RTD,Supply
+18,"American Tire Distributors Holdings, Inc.",TriCan,Supply
+22,"American Tire Distributors Holdings, Inc.",Company’s,Supply
+23,"American Tire Distributors Holdings, Inc.",Product Strategy and Supply,Supply
+26,"American Tire Distributors Holdings, Inc.",Product Planning and Positioning,Supply
+27,"American Tire Distributors Holdings, Inc.",General Counsel,Supply
+30,"American Tire Distributors Holdings, Inc.",American Tire Distributors,Supply
+0,"American Tire Distributors Holdings, Inc.",SKU,customers
+1,"American Tire Distributors Holdings, Inc.",ATDOnline,customers
+3,"American Tire Distributors Holdings, Inc.",Tire Pros ®,customers
+4,"American Tire Distributors Holdings, Inc.",Synchrony Financial,customers
+6,"American Tire Distributors Holdings, Inc.",TBC,customers
+7,"American Tire Distributors Holdings, Inc.",Sumitomo,customers
+8,"American Tire Distributors Holdings, Inc.",TCI Tire Centers,customers
+9,"American Tire Distributors Holdings, Inc.",Michelin,customers
+10,"American Tire Distributors Holdings, Inc.",Kipling,customers
+11,"American Tire Distributors Holdings, Inc.",ASU,customers
+12,"American Tire Distributors Holdings, Inc.",Company,customers
+13,"American Tire Distributors Holdings, Inc.",Company’s,customers
+23,"American Tire Distributors Holdings, Inc.",Edmonton Calgary Total Customer,customers
+26,"American Tire Distributors Holdings, Inc.",WTD,customers
+27,"American Tire Distributors Holdings, Inc.",TDI,customers
+28,"American Tire Distributors Holdings, Inc.",Life Value Customer,customers
+30,"American Tire Distributors Holdings, Inc.",Amount Amortization Amount Amortization Customer,customers
+31,"American Tire Distributors Holdings, Inc.",RTD BC,customers
+33,"American Tire Distributors Holdings, Inc.",Trail Tire,customers
+34,"American Tire Distributors Holdings, Inc.",Extreme Wheel,customers
+35,"American Tire Distributors Holdings, Inc.",RTD Edmonton,customers
+36,"American Tire Distributors Holdings, Inc.",RTD Calgary,customers
+44,"American Tire Distributors Holdings, Inc.",RTD,customers
+46,"American Tire Distributors Holdings, Inc.",TriCan,customers
+49,"American Tire Distributors Holdings, Inc.",Berkshire-Hathaway,customers
+0,FEDERAL SIGNAL CORP /DE/,Company,Supply
+1,FEDERAL SIGNAL CORP /DE/,the Environmental Solutions Group,Supply
+2,FEDERAL SIGNAL CORP /DE/,the Safety and Security Systems Group,Supply
+3,FEDERAL SIGNAL CORP /DE/,Company’s Environmental Solutions Group,Supply
+4,FEDERAL SIGNAL CORP /DE/,The Company’s Safety and Security Systems Group,Supply
+7,FEDERAL SIGNAL CORP /DE/,JJE,Supply
+9,FEDERAL SIGNAL CORP /DE/,MD&A,Supply
+10,FEDERAL SIGNAL CORP /DE/,Company’s,Supply
+12,FEDERAL SIGNAL CORP /DE/,Court,Supply
+14,FEDERAL SIGNAL CORP /DE/,Our Environmental Solutions Group,Supply
+15,FEDERAL SIGNAL CORP /DE/,Safety and Security Systems Group,Supply
+0,FEDERAL SIGNAL CORP /DE/,Company,customers
+1,FEDERAL SIGNAL CORP /DE/,JJE,customers
+2,FEDERAL SIGNAL CORP /DE/,the Environmental Solutions Group’s,customers
+3,FEDERAL SIGNAL CORP /DE/,Group,customers
+4,FEDERAL SIGNAL CORP /DE/,the Environmental Solutions Group,customers
+7,FEDERAL SIGNAL CORP /DE/,The Safety and Security Systems Group,customers
+9,FEDERAL SIGNAL CORP /DE/,TBEI,customers
+11,FEDERAL SIGNAL CORP /DE/,MRL,customers
+12,FEDERAL SIGNAL CORP /DE/,Environmental Solutions Group,customers
+16,FEDERAL SIGNAL CORP /DE/,Revenue Recognition Revenue,customers
+17,FEDERAL SIGNAL CORP /DE/,Company’s,customers
+0,FEDERAL SIGNAL CORP /DE/,the Environmental Solutions Group,Sells to
+1,FEDERAL SIGNAL CORP /DE/,JJE,Sells to
+0,FEDERAL SIGNAL CORP /DE/,Company,dependent on
+0,Affinia Group Intermediate Holdings Inc.,Company,Supply
+1,Affinia Group Intermediate Holdings Inc.,Company’s,Supply
+4,Affinia Group Intermediate Holdings Inc.,NAPA,Supply
+7,Affinia Group Intermediate Holdings Inc.,Filtration’s,Supply
+8,Affinia Group Intermediate Holdings Inc.,Filtration Sales Channels,Supply
+16,Affinia Group Intermediate Holdings Inc.,"United Components, Inc.",Supply
+17,Affinia Group Intermediate Holdings Inc.,Champ,Supply
+18,Affinia Group Intermediate Holdings Inc.,FRAM Group,Supply
+19,Affinia Group Intermediate Holdings Inc.,LLC,Supply
+20,Affinia Group Intermediate Holdings Inc.,FRAM,Supply
+21,Affinia Group Intermediate Holdings Inc.,Purolator Filters NA LLC,Supply
+22,Affinia Group Intermediate Holdings Inc.,Purolator,Supply
+23,Affinia Group Intermediate Holdings Inc.,Mahle Filtersysteme Gmbh,Supply
+25,Affinia Group Intermediate Holdings Inc.,the Company’s Business Domestic,Supply
+32,Affinia Group Intermediate Holdings Inc.,DCF,Supply
+33,Affinia Group Intermediate Holdings Inc.,Supplementary Data Report of Independent Registered Public Accounting Firm,Supply
+34,Affinia Group Intermediate Holdings Inc.,Cash,Supply
+36,Affinia Group Intermediate Holdings Inc.,Affinia,Supply
+37,Affinia Group Intermediate Holdings Inc.,Committee,Supply
+39,Affinia Group Intermediate Holdings Inc.,Plan,Supply
+40,Affinia Group Intermediate Holdings Inc.,the Motor Equipment Manufacturers Association and Original Equipment Supplier Association,Supply
+0,Affinia Group Intermediate Holdings Inc.,Company,customers
+1,Affinia Group Intermediate Holdings Inc.,Company’s,customers
+4,Affinia Group Intermediate Holdings Inc.,NAPA,customers
+6,Affinia Group Intermediate Holdings Inc.,DIY,customers
+9,Affinia Group Intermediate Holdings Inc.,Filtration Sales Channels,customers
+10,Affinia Group Intermediate Holdings Inc.,OES,customers
+11,Affinia Group Intermediate Holdings Inc.,Filtration’s,customers
+13,Affinia Group Intermediate Holdings Inc.,Uni-Select Inc.,customers
+22,Affinia Group Intermediate Holdings Inc.,the Company’s Business Domestic,customers
+35,Affinia Group Intermediate Holdings Inc.,OE,customers
+38,Affinia Group Intermediate Holdings Inc.,SG&A,customers
+44,Affinia Group Intermediate Holdings Inc.,NAPA ®,customers
+48,Affinia Group Intermediate Holdings Inc.,Revenue Recognition Sales,customers
+49,Affinia Group Intermediate Holdings Inc.,Programs Cooperative,customers
+51,Affinia Group Intermediate Holdings Inc.,ASU,customers
+52,Affinia Group Intermediate Holdings Inc.,Trade Names Customer Relationships Developed Technology/ Other Total Balance,customers
+53,Affinia Group Intermediate Holdings Inc.,Holdings’ Board of Directors,customers
+57,Affinia Group Intermediate Holdings Inc.,Board,customers
+0,Affinia Group Intermediate Holdings Inc.,Company,Sells to
+2,Affinia Group Intermediate Holdings Inc.,Company’s,Sells to
+0,"Fuel Systems Solutions, Inc.",Sub-System Assembly,Supply
+1,"Fuel Systems Solutions, Inc.",Sourcing,Supply
+2,"Fuel Systems Solutions, Inc.",Final Assembly & Test,Supply
+3,"Fuel Systems Solutions, Inc.",the Bosch Group,Supply
+4,"Fuel Systems Solutions, Inc.",Delphi Corporation,Supply
+5,"Fuel Systems Solutions, Inc.",Siemens,Supply
+6,"Fuel Systems Solutions, Inc.",Automotive AG,Supply
+7,"Fuel Systems Solutions, Inc.",Visteon Corporation,Supply
+8,"Fuel Systems Solutions, Inc.",Company,Supply
+11,"Fuel Systems Solutions, Inc.",SEC,Supply
+13,"Fuel Systems Solutions, Inc.",CLN,Supply
+14,"Fuel Systems Solutions, Inc.",Supplemental Employment Agreements Fuel Systems,Supply
+15,"Fuel Systems Solutions, Inc.",Pietro Bersani,Supply
+16,"Fuel Systems Solutions, Inc.",Fuel Systems,Supply
+17,"Fuel Systems Solutions, Inc.",Supplemental Employment Agreement,Supply
+20,"Fuel Systems Solutions, Inc.",Non,Supply
+0,"Fuel Systems Solutions, Inc.",Westport Innovations Inc.,customers
+1,"Fuel Systems Solutions, Inc.",CNG,customers
+2,"Fuel Systems Solutions, Inc.",LPG,customers
+3,"Fuel Systems Solutions, Inc.",—solid,customers
+4,"Fuel Systems Solutions, Inc.",OEM,customers
+5,"Fuel Systems Solutions, Inc.",systems—,customers
+8,"Fuel Systems Solutions, Inc.",EPA,customers
+9,"Fuel Systems Solutions, Inc.",Electronics & Controls · Provides,customers
+10,"Fuel Systems Solutions, Inc.",Engine-Fuel Delivery Systems · Turnkey,customers
+11,"Fuel Systems Solutions, Inc.",Compressors,customers
+12,"Fuel Systems Solutions, Inc.",Auxiliary Power Systems,customers
+13,"Fuel Systems Solutions, Inc.",Capabilities Applications Design and Systems Integration,customers
+14,"Fuel Systems Solutions, Inc.",California Air Resources Board,customers
+15,"Fuel Systems Solutions, Inc.",Environmental Protection Agency,customers
+16,"Fuel Systems Solutions, Inc.",Sub-System Assembly,customers
+17,"Fuel Systems Solutions, Inc.",Sourcing,customers
+18,"Fuel Systems Solutions, Inc.",Final Assembly & Test,customers
+19,"Fuel Systems Solutions, Inc.",Company,customers
+23,"Fuel Systems Solutions, Inc.",E.U.,customers
+24,"Fuel Systems Solutions, Inc.",the United Nations,customers
+28,"Fuel Systems Solutions, Inc.",FSS Industrial,customers
+29,"Fuel Systems Solutions, Inc.",Auxiliary Power Units,customers
+30,"Fuel Systems Solutions, Inc.",DOEM,customers
+31,"Fuel Systems Solutions, Inc.",—The Company,customers
+32,"Fuel Systems Solutions, Inc.",FASB,customers
+0,"Fuel Systems Solutions, Inc.",the Related Party Transactions,Sells to
+1,"Fuel Systems Solutions, Inc.",Company’s,Sells to
+2,"Fuel Systems Solutions, Inc.",Company,Sells to
+0,ENVIRONMENT ECOLOGY HOLDING CO OF CHINA,Company,Supply
+3,ENVIRONMENT ECOLOGY HOLDING CO OF CHINA,cooperatives,Supply
+12,ENVIRONMENT ECOLOGY HOLDING CO OF CHINA,Company’s,Supply
+0,ENVIRONMENT ECOLOGY HOLDING CO OF CHINA,Company,customers
+10,ENVIRONMENT ECOLOGY HOLDING CO OF CHINA,VAT,customers
+12,ENVIRONMENT ECOLOGY HOLDING CO OF CHINA,Billed,customers
+18,ENVIRONMENT ECOLOGY HOLDING CO OF CHINA,Company’s,customers
+0,ENVIRONMENT ECOLOGY HOLDING CO OF CHINA,Company,dependent on
+0,China Auto Logistics Inc,Company,Supply
+1,China Auto Logistics Inc,Financing Services,Supply
+2,China Auto Logistics Inc,FASB,Supply
+3,China Auto Logistics Inc,ASU,Supply
+8,China Auto Logistics Inc,Company’s,Supply
+9,China Auto Logistics Inc,"82,105,826",Supply
+10,China Auto Logistics Inc,Prepaid,Supply
+11,China Auto Logistics Inc,Value,Supply
+12,China Auto Logistics Inc,Changes,Supply
+13,China Auto Logistics Inc,Huitong,Supply
+22,China Auto Logistics Inc,Property and Equipment,Supply
+25,China Auto Logistics Inc,"Tianjin Ning Chuan International Trading co., Ltd.",Supply
+27,China Auto Logistics Inc,Trading Ltd. Co.,Supply
+28,China Auto Logistics Inc,Automobile Sales,Supply
+30,China Auto Logistics Inc,Jie International Logistics Ltd. Co.,Supply
+43,China Auto Logistics Inc,"Jie International Logistics Co. , Ltd.",Supply
+53,China Auto Logistics Inc,Bank of Jinzhou,Supply
+61,China Auto Logistics Inc,Tianjin Binhai Rural Commercial Bank,Supply
+63,China Auto Logistics Inc,Agricultural Bank of China,Supply
+0,China Auto Logistics Inc,Tianjin for Financing Services and Other Services,customers
+1,China Auto Logistics Inc,Financing Services,customers
+2,China Auto Logistics Inc,Ford,customers
+3,China Auto Logistics Inc,Lexus,customers
+4,China Auto Logistics Inc,Company,customers
+7,China Auto Logistics Inc,Automobile Valued Added Services and Financing Services,customers
+17,China Auto Logistics Inc,FASB,customers
+18,China Auto Logistics Inc,ASU,customers
+23,China Auto Logistics Inc,Financing Services and Other Services,customers
+25,China Auto Logistics Inc,Company’s,customers
+28,China Auto Logistics Inc,Agricultural Bank of China,customers
+29,China Auto Logistics Inc,China Merchants Bank,customers
+30,China Auto Logistics Inc,Pudong Development Bank,customers
+31,China Auto Logistics Inc,China Zheshang Bank,customers
+32,China Auto Logistics Inc,Industrial and Commercial Bank of China,customers
+33,China Auto Logistics Inc,China Minsheng Bank,customers
+34,China Auto Logistics Inc,Shengjing Bank,customers
+36,China Auto Logistics Inc,Zhonghe,customers
+41,China Auto Logistics Inc,Tianbao International Trade & Exhibition Ltd.,customers
+47,China Auto Logistics Inc,the Zhonghe Acquisition,customers
+70,China Auto Logistics Inc,Automall Ltd. Co.,customers
+82,China Auto Logistics Inc,"Xing Kong Automobile Sales Service Co., Ltd.",customers
+83,China Auto Logistics Inc,"Heng Ji Real Estate Development Co., Ltd.",customers
+84,China Auto Logistics Inc,"Kong Automobile Sales Service Co., Ltd.",customers
+0,China Auto Logistics Inc,Financing Services,dependent on
+0,HK BATTERY TECHNOLOGY INC,Merger,Supply
+1,HK BATTERY TECHNOLOGY INC,NGE,Supply
+3,HK BATTERY TECHNOLOGY INC,"Nevada Gold Holdings, Inc.",Supply
+0,"ISDERA NORTH AMERICA, INC.",Shenzhen Airlines,Supply
+1,"ISDERA NORTH AMERICA, INC.","China Southern Airline Co., Ltd.",Supply
+2,"ISDERA NORTH AMERICA, INC.",Hainan Airlines,Supply
+3,"ISDERA NORTH AMERICA, INC.",China Eastern Airlines,Supply
+4,"ISDERA NORTH AMERICA, INC.",TravelSky Technology Ltd,Supply
+8,"ISDERA NORTH AMERICA, INC.","Shenzhen Huate Aire Service Co., Ltd.",Supply
+9,"ISDERA NORTH AMERICA, INC.","Shenzhen Baiyun Air Service Co., Ltd.",Supply
+11,"ISDERA NORTH AMERICA, INC.",Ministry of Commerce's,Supply
+12,"ISDERA NORTH AMERICA, INC.",MOFCOM,Supply
+13,"ISDERA NORTH AMERICA, INC.",Supplement,Supply
+14,"ISDERA NORTH AMERICA, INC.","Eternal Asia Global Supply Chain Management Co., Ltd.",Supply
+0,"ISDERA NORTH AMERICA, INC.",FeiLaiFa,customers
+1,"ISDERA NORTH AMERICA, INC.",Company,customers
+2,"ISDERA NORTH AMERICA, INC.",VIP,customers
+3,"ISDERA NORTH AMERICA, INC.",Sales and Marketing,customers
+4,"ISDERA NORTH AMERICA, INC.",Customer Service Center 99,customers
+5,"ISDERA NORTH AMERICA, INC.",IT Department,customers
+6,"ISDERA NORTH AMERICA, INC.",Business Trip Management,customers
+8,"ISDERA NORTH AMERICA, INC.",Revenue Recognition,customers
+10,"ISDERA NORTH AMERICA, INC.",Company’s,customers
+0,XTREME GREEN ELECTRIC VEHICLES INC.,PMV,Supply
+1,XTREME GREEN ELECTRIC VEHICLES INC.,the Index of Financial,Supply
+2,XTREME GREEN ELECTRIC VEHICLES INC.,Company’s,Supply
+3,XTREME GREEN ELECTRIC VEHICLES INC.,$ - Accrued,Supply
+0,XTREME GREEN ELECTRIC VEHICLES INC.,Company,customers
+1,XTREME GREEN ELECTRIC VEHICLES INC.,XGEV,customers
+0,GENTEX CORP,Company,Supply
+4,GENTEX CORP,BMW Group,Supply
+5,GENTEX CORP,Daimler Group,Supply
+6,GENTEX CORP,FCA Group,Supply
+7,GENTEX CORP,Ford Motor Co.,Supply
+8,GENTEX CORP,Geely/Volvo,Supply
+9,GENTEX CORP,General Motors,Supply
+10,GENTEX CORP,Honda Motor Co.,Supply
+11,GENTEX CORP,Hyundai/Kia,Supply
+12,GENTEX CORP,Jaguar/Land Rover,Supply
+13,GENTEX CORP,Karma Automotive,Supply
+14,GENTEX CORP,Mazda,Supply
+15,GENTEX CORP,Mahindra & Mahindra,Supply
+16,GENTEX CORP,McLaren,Supply
+17,GENTEX CORP,PSA/Opel Group,Supply
+18,GENTEX CORP,Renault,Supply
+19,GENTEX CORP,Nissan/Mitsubishi Group,Supply
+20,GENTEX CORP,Subaru,Supply
+21,GENTEX CORP,Suzuki,Supply
+22,GENTEX CORP,Tesla,Supply
+23,GENTEX CORP,Toyota Motor Company,Supply
+24,GENTEX CORP,Volkswagen Group,Supply
+25,GENTEX CORP,Borgward,Supply
+26,GENTEX CORP,BYD,Supply
+27,GENTEX CORP,Chery,Supply
+28,GENTEX CORP,SAIC,Supply
+30,GENTEX CORP,Magna Mirrors,Supply
+31,GENTEX CORP,Magna International Inc.,Supply
+39,GENTEX CORP,IHS Markit Light Vehicle Production Forecast,Supply
+40,GENTEX CORP,Tier 1,Supply
+45,GENTEX CORP,Supply Chain Disruptions,Supply
+49,GENTEX CORP,SmartBeam,Supply
+51,GENTEX CORP,Company’s,Supply
+55,GENTEX CORP,Toyota Motor Company Volkswagen Group,Supply
+57,GENTEX CORP,Ford Motor Company,Supply
+59,GENTEX CORP,OEM,Supply
+60,GENTEX CORP,LTSA,Supply
+61,GENTEX CORP,PO,Supply
+62,GENTEX CORP,Boeing,Supply
+0,GENTEX CORP,UNITED STATES SECURITIES AND EXCHANGE COMMISSION,customers
+1,GENTEX CORP,Company,customers
+4,GENTEX CORP,Volkswagen Group,customers
+5,GENTEX CORP,Toyota Motor Company,customers
+6,GENTEX CORP,General Motors,customers
+7,GENTEX CORP,Tier 1,customers
+13,GENTEX CORP,OEM,customers
+16,GENTEX CORP,Subaru,customers
+17,GENTEX CORP,Toyota,customers
+18,GENTEX CORP,Nissan,customers
+19,GENTEX CORP,Jaguar,customers
+30,GENTEX CORP,Company’s,customers
+42,GENTEX CORP,Automotive Products,customers
+44,GENTEX CORP,Toyota Motor Company Volkswagen Group,customers
+45,GENTEX CORP,Daimler Group,customers
+46,GENTEX CORP,Ford Motor Company,customers
+47,GENTEX CORP,LTSA,customers
+48,GENTEX CORP,PO,customers
+0,GENTEX CORP,Company,Sells to
+1,GENTEX CORP,Magna Mirrors,Sells to
+2,GENTEX CORP,Magna International Inc.,Sells to
+5,GENTEX CORP,Volkswagen Group,Sells to
+6,GENTEX CORP,Toyota Motor Company,Sells to
+7,GENTEX CORP,General Motors,Sells to
+11,GENTEX CORP,Automotive Products,Sells to
+13,GENTEX CORP,Toyota Motor Company Volkswagen Group,Sells to
+14,GENTEX CORP,Daimler Group,Sells to
+15,GENTEX CORP,Ford Motor Company,Sells to
+0,GENTEX CORP,Company,dependent on
+0,Omnitek Engineering Corp,Omnitek,Supply
+2,Omnitek Engineering Corp,OE,Supply
+3,Omnitek Engineering Corp,Company,Supply
+4,Omnitek Engineering Corp,Westport Innovations,Supply
+5,Omnitek Engineering Corp,Bosch,Supply
+6,Omnitek Engineering Corp,Keihin,Supply
+7,Omnitek Engineering Corp,BRC,Supply
+8,Omnitek Engineering Corp,OMVL,Supply
+9,Omnitek Engineering Corp,Raw Materials and Principal Suppliers Omnitek,Supply
+10,Omnitek Engineering Corp,CAA,Supply
+11,Omnitek Engineering Corp,GMP,Supply
+12,Omnitek Engineering Corp,Larsen Supply Company,Supply
+0,Omnitek Engineering Corp,Omnitek,customers
+1,Omnitek Engineering Corp,Company,customers
+4,Omnitek Engineering Corp,the NASDAQ National Market System,customers
+5,Omnitek Engineering Corp,the Securities and Exchange Commission,customers
+6,Omnitek Engineering Corp,SEC,customers
+0,Allison Transmission Holdings Inc,DOD,Supply
+1,Allison Transmission Holdings Inc,"L3 Technologies, Inc.",Supply
+2,Allison Transmission Holdings Inc,Renk AG,Supply
+3,Allison Transmission Holdings Inc,SAPA S.p,Supply
+4,Allison Transmission Holdings Inc,OEM,Supply
+5,Allison Transmission Holdings Inc,PPAP,Supply
+6,Allison Transmission Holdings Inc,Allison,Supply
+7,Allison Transmission Holdings Inc,Company,Supply
+9,Allison Transmission Holdings Inc,“C&R Tool and Engineering”,Supply
+0,Allison Transmission Holdings Inc,MaximumMember,customers
+1,Allison Transmission Holdings Inc,OEM,customers
+3,Allison Transmission Holdings Inc,Allison,customers
+11,Allison Transmission Holdings Inc,Daimler AG,customers
+12,Allison Transmission Holdings Inc,PACCAR Inc.,customers
+13,Allison Transmission Holdings Inc,Navistar International Corporation,customers
+14,Allison Transmission Holdings Inc,Company,customers
+0,Allison Transmission Holdings Inc,Defense,Sells to
+2,Allison Transmission Holdings Inc,EBITDA,Sells to
+3,Allison Transmission Holdings Inc,Adjusted EBITDA,Sells to
+5,Allison Transmission Holdings Inc,the U.S. Government,Sells to
+0,"SCORPION PERFORMANCE, INC.",Company,Supply
+1,"SCORPION PERFORMANCE, INC.",Tier 1,Supply
+2,"SCORPION PERFORMANCE, INC.",Tier 2,Supply
+3,"SCORPION PERFORMANCE, INC.",SEC,Supply
+4,"SCORPION PERFORMANCE, INC.",Report,Supply
+5,"SCORPION PERFORMANCE, INC.",the Committee of Sponsoring Organizations of the Treadway Commission,Supply
+6,"SCORPION PERFORMANCE, INC.",Internal Control-Integrated Framework,Supply
+7,"SCORPION PERFORMANCE, INC.",COSO,Supply
+8,"SCORPION PERFORMANCE, INC.",Internal Control over Financial Reporting - Guidance for Smaller Public Companies,Supply
+9,"SCORPION PERFORMANCE, INC.",Scorpion’s,Supply
+10,"SCORPION PERFORMANCE, INC.",Principal Accounting Officer,Supply
+0,"SCORPION PERFORMANCE, INC.",Company,customers
+1,"SCORPION PERFORMANCE, INC.",Scorpion Racing,customers
+2,"SCORPION PERFORMANCE, INC.",Report,customers
+3,"SCORPION PERFORMANCE, INC.",GM,customers
+4,"SCORPION PERFORMANCE, INC.",Ford Racing,customers
+5,"SCORPION PERFORMANCE, INC.",Mercury Marine,customers
+6,"SCORPION PERFORMANCE, INC.",OEM,customers
+14,"SCORPION PERFORMANCE, INC.",Company’s,customers
+15,"SCORPION PERFORMANCE, INC.",Customers A and C,customers
+0,"SCORPION PERFORMANCE, INC.",Company,dependent on
+0,"UCI International, Inc.",Flexible Lamps Ltd.,Supply
+1,"UCI International, Inc.",DIY,Supply
+2,"UCI International, Inc.",AutoZone,Supply
+3,"UCI International, Inc.",DIFM,Supply
+4,"UCI International, Inc.",Alliance,Supply
+5,"UCI International, Inc.",CARQUEST,Supply
+11,"UCI International, Inc.",NAPA,Supply
+13,"UCI International, Inc.",NAPA Excellence,Supply
+14,"UCI International, Inc.",Automotive Distribution Network,Supply
+15,"UCI International, Inc.",Aftermarket Auto Parts Alliance “Gold Level Supplier for Outstanding Shipping Performance 2007,Supply
+16,"UCI International, Inc.",Aftermarket Auto Parts Alliance,Supply
+17,"UCI International, Inc.",Valvoline,Supply
+18,"UCI International, Inc.",Firestone,Supply
+19,"UCI International, Inc.","Hovis Auto Supply, Inc.",Supply
+20,"UCI International, Inc.",Robert Bosch LLC et al,Supply
+21,"UCI International, Inc.",Independent Registered Public Accounting Firm 49 Consolidated       ,Supply
+22,"UCI International, Inc.",Holdco,Supply
+24,"UCI International, Inc.",Company,Supply
+25,"UCI International, Inc.",LMC,Supply
+0,"UCI International, Inc.","Advance Stores Company, Inc.",customers
+1,"UCI International, Inc.","AutoZone, Inc.",customers
+2,"UCI International, Inc.",AutoZone,customers
+3,"UCI International, Inc.",Aftermarket Auto Parts Alliance (Alliance,customers
+4,"UCI International, Inc.",AIM/CMB Marketing,customers
+5,"UCI International, Inc.",Automotive Distribution Network,customers
+6,"UCI International, Inc.","Auto Parts Associates, Inc.",customers
+7,"UCI International, Inc.",APA,customers
+8,"UCI International, Inc.",Auto Parts Professionals,customers
+9,"UCI International, Inc.",CARQUEST Corporation,customers
+10,"UCI International, Inc.",CARQUEST,customers
+11,"UCI International, Inc.",Genuine Parts Company,customers
+12,"UCI International, Inc.",NAPA,customers
+13,"UCI International, Inc.",UAP,customers
+14,"UCI International, Inc.",Independent Warehouse Distributors,customers
+15,"UCI International, Inc.",IWD,customers
+16,"UCI International, Inc.",National Pronto Association,customers
+17,"UCI International, Inc.",Advance,customers
+19,"UCI International, Inc.",Alliance,customers
+22,"UCI International, Inc.",Airtex,customers
+30,"UCI International, Inc.",NAPA Excellence,customers
+32,"UCI International, Inc.",Aftermarket Auto Parts Alliance “Gold Level Supplier for Outstanding Shipping Performance 2007,customers
+33,"UCI International, Inc.",Aftermarket Auto Parts Alliance,customers
+34,"UCI International, Inc.",OES,customers
+35,"UCI International, Inc.",GM,customers
+36,"UCI International, Inc.",Ford,customers
+37,"UCI International, Inc.",Chrysler,customers
+38,"UCI International, Inc.",Kawasaki,customers
+41,"UCI International, Inc.",General Motors,customers
+46,"UCI International, Inc.",Holdco,customers
+51,"UCI International, Inc.",Company,customers
+52,"UCI International, Inc.",OEM,customers
+54,"UCI International, Inc.",UCI,customers
+0,"UCI International, Inc.",Valvoline,Sells to
+1,"UCI International, Inc.",Firestone,Sells to
+2,"UCI International, Inc.",AutoZone,Sells to
+4,"UCI International, Inc.",General Motors Corporation,Sells to
+5,"UCI International, Inc.",GM,Sells to
+7,"UCI International, Inc.",Chrysler,Sells to
+9,"UCI International, Inc.",OES,Sells to
+13,"UCI International, Inc.",Holdco,Sells to
+16,"UCI International, Inc.",The Hertz Corporation,Sells to
+17,"UCI International, Inc.","Allison Transmission, Inc.",Sells to
+19,"UCI International, Inc.",The Compensation Committee,Sells to
+0,"UCI International, Inc.",UCI Acquisition,dependent on
+1,"UCI International, Inc.",UCI,dependent on
+3,"UCI International, Inc.",Holdco,dependent on
+0,"Blink Technologies, Inc.",NON,Supply
+0,"Blink Technologies, Inc.",FINRA,customers
+3,"Blink Technologies, Inc.",Company,customers
+4,"Blink Technologies, Inc.",CFO,customers
+0,Federal-Mogul Holdings LLC,TRW,Supply
+1,Federal-Mogul Holdings LLC,OE,Supply
+5,Federal-Mogul Holdings LLC,the Consolidated Financial Statements,Supply
+6,Federal-Mogul Holdings LLC,Tier 1,Supply
+7,Federal-Mogul Holdings LLC,Company’s,Supply
+8,Federal-Mogul Holdings LLC,Company,Supply
+18,Federal-Mogul Holdings LLC,Powertrain,Supply
+0,Federal-Mogul Holdings LLC,OE,customers
+2,Federal-Mogul Holdings LLC,Motorparts,customers
+3,Federal-Mogul Holdings LLC,Powertrain,customers
+6,Federal-Mogul Holdings LLC,TRW,customers
+8,Federal-Mogul Holdings LLC,Powertrain’s,customers
+11,Federal-Mogul Holdings LLC,Valve Seats,customers
+12,Federal-Mogul Holdings LLC,Motorparts’,customers
+14,Federal-Mogul Holdings LLC,Focus on Vehicle Safety – Vehicle,customers
+22,Federal-Mogul Holdings LLC,Company,customers
+23,Federal-Mogul Holdings LLC,Company’s,customers
+29,Federal-Mogul Holdings LLC,Tier 1,customers
+42,Federal-Mogul Holdings LLC,OEs,customers
+45,Federal-Mogul Holdings LLC,DuroGlide,customers
+46,Federal-Mogul Holdings LLC,SG&A,customers
+50,Federal-Mogul Holdings LLC,Revenue Recognition,customers
+51,Federal-Mogul Holdings LLC,ASU,customers
+60,Federal-Mogul Holdings LLC,IAC Group,customers
+0,Federal-Mogul Holdings LLC,Motorparts’,Sells to
+1,Federal-Mogul Holdings LLC,PSC Metals,Sells to
+2,Federal-Mogul Holdings LLC,OE,Sells to
+3,Federal-Mogul Holdings LLC,Company,Sells to
+7,Federal-Mogul Holdings LLC,Navistar,Sells to
+0,Federal-Mogul Holdings LLC,CONSOLIDATED FINANCIAL,dependent on
+0,Workhorse Group Inc.,EnerDel,Supply
+1,Workhorse Group Inc.,Company,Supply
+2,Workhorse Group Inc.,the United Nations Manual of Tests and Criteria,Supply
+0,Workhorse Group Inc.,ArosaMember,customers
+1,Workhorse Group Inc.,Company,customers
+2,Workhorse Group Inc.,"Ryder System, Inc.",customers
+3,Workhorse Group Inc.,Ryder,customers
+4,Workhorse Group Inc.,UPS,customers
+5,Workhorse Group Inc.,FedEx Express,customers
+6,Workhorse Group Inc.,Alpha Baking,customers
+8,Workhorse Group Inc.,Workhorse,customers
+10,Workhorse Group Inc.,EnerDel,customers
+12,Workhorse Group Inc.,Duke Energy Corp,customers
+13,Workhorse Group Inc.,Duke,customers
+20,Workhorse Group Inc.,Ford,customers
+21,Workhorse Group Inc.,Freightliner,customers
+22,Workhorse Group Inc.,Google,customers
+23,Workhorse Group Inc.,Amazon,customers
+31,Workhorse Group Inc.,Vehicles,customers
+32,Workhorse Group Inc.,LMC,customers
+0,T3M INC.,"American Made, Performance Composites",Supply
+1,T3M INC.,Imperial Electric,Supply
+2,T3M INC.,Santa Fe Mold,Supply
+3,T3M INC.,T3 Motion,Supply
+4,T3M INC.,Paradigm Wireless Company,Supply
+5,T3M INC.,Aircept,Supply
+6,T3M INC.,the Global Positioning System,Supply
+7,T3M INC.,Evolutionary Electric Vehicles,Supply
+0,T3M INC.,T3,customers
+1,T3M INC.,Company,customers
+2,T3M INC.,The Loan Facility,customers
+3,T3M INC.,T3 Motion,customers
+0,T3M INC.,T3,Sells to
+1,T3M INC.,"Segway, Inc",Sells to
+0,eFleets Corp,Target Markets,customers
+1,eFleets Corp,The Department of Defense,customers
+2,eFleets Corp,Toyota,customers
+3,eFleets Corp,Honda,customers
+0,eFleets Corp,Company,dependent on
+0,"Dongsheng Pharmaceutical International Co., Ltd.",Aode Pharmaceutical,Supply
+1,"Dongsheng Pharmaceutical International Co., Ltd.",Hebei Furuide Pharmaceutical,Supply
+2,"Dongsheng Pharmaceutical International Co., Ltd.",Beijing Guorun Pharmaceutical Co.,Supply
+3,"Dongsheng Pharmaceutical International Co., Ltd.",Dongsheng,Supply
+4,"Dongsheng Pharmaceutical International Co., Ltd.",Ganglioside,Supply
+5,"Dongsheng Pharmaceutical International Co., Ltd.",Qilu Pharmaceutical,Supply
+6,"Dongsheng Pharmaceutical International Co., Ltd.",Harbin Medical University Pharmaceutical,Supply
+8,"Dongsheng Pharmaceutical International Co., Ltd.",State Food and Drug Administration,Supply
+9,"Dongsheng Pharmaceutical International Co., Ltd.",SFDA,Supply
+11,"Dongsheng Pharmaceutical International Co., Ltd.",Increase Production Capability,Supply
+12,"Dongsheng Pharmaceutical International Co., Ltd.",the Delaware General Corporation Law,Supply
+0,"Dongsheng Pharmaceutical International Co., Ltd.",Dongsheng,customers
+1,"Dongsheng Pharmaceutical International Co., Ltd.",Company,customers
+2,"Dongsheng Pharmaceutical International Co., Ltd.",Hezhong Huitong Pharmaceutical,customers
+3,"Dongsheng Pharmaceutical International Co., Ltd.",Jieshou City Medical Co.,customers
+0,"Dongsheng Pharmaceutical International Co., Ltd.",Company,dependent on
+0,"Echo Automotive, Inc.",General Motors,Supply
+0,"Echo Automotive, Inc.",EchoDriveTM,customers
+1,"Echo Automotive, Inc.",EchoDrive,customers
+7,"Echo Automotive, Inc.",FINRA,customers
+0,"Echo Automotive, Inc.",UFF,Sells to
+3,"Echo Automotive, Inc.",JMJ Financial,Sells to
+4,"Echo Automotive, Inc.",Vista Capital Investments,Sells to
+5,"Echo Automotive, Inc.",LLC,Sells to
+6,"Echo Automotive, Inc.",LG Capital,Sells to
+7,"Echo Automotive, Inc.",Typenex Co-Investment,Sells to
+9,"Echo Automotive, Inc.",GEL Properties,Sells to
+10,"Echo Automotive, Inc.",Asher Enterprises,Sells to
+0,"Echo Automotive, Inc.",EchoDrive,dependent on
+0,"EVCARCO, INC.",Company,Supply
+1,"EVCARCO, INC.",NIKOLAY,Supply
+0,"EVCARCO, INC.",FINRA,customers
+3,"EVCARCO, INC.",Company,customers
+0,"EVCARCO, INC.",Company,Sells to
+0,"FUEL DOCTOR HOLDINGS, INC.",Internal Control – Integrated Framework,Supply
+1,"FUEL DOCTOR HOLDINGS, INC.",the Committee of Sponsoring Organizations of the Treadway Commission,Supply
+2,"FUEL DOCTOR HOLDINGS, INC.",COSO,Supply
+3,"FUEL DOCTOR HOLDINGS, INC.",Internal Control over Financial Reporting – Guidance for Smaller Public Companies,Supply
+4,"FUEL DOCTOR HOLDINGS, INC.",Sweda Co. LLC,Supply
+0,"FUEL DOCTOR HOLDINGS, INC.",Company,customers
+3,"FUEL DOCTOR HOLDINGS, INC.",the Company a Purchase Order,customers
+4,"FUEL DOCTOR HOLDINGS, INC.",Report,customers
+5,"FUEL DOCTOR HOLDINGS, INC.",Consumer Reports,customers
+7,"FUEL DOCTOR HOLDINGS, INC.",Scorpion’s,customers
+8,"FUEL DOCTOR HOLDINGS, INC.",HBO,customers
+9,"FUEL DOCTOR HOLDINGS, INC.",Poker Stars,customers
+10,"FUEL DOCTOR HOLDINGS, INC.",Carnival Cruise Lines,customers
+11,"FUEL DOCTOR HOLDINGS, INC.",Abbot Laboratories,customers
+12,"FUEL DOCTOR HOLDINGS, INC.",Bloomberg Financial,customers
+13,"FUEL DOCTOR HOLDINGS, INC.",Bank Overdraft - - Customer,customers
+0,General Motors Co,GmnaMember,Supply
+1,General Motors Co,"Design, Program Management",Supply
+2,General Motors Co,Component & Subsystem Engineering,Supply
+3,General Motors Co,Product Integrity,Supply
+4,General Motors Co,Safety,Supply
+5,General Motors Co,Propulsion Systems and Purchasing & Supply Chain,Supply
+6,General Motors Co,"Raw Materials, Services",Supply
+7,General Motors Co,DTE Energy Company,Supply
+8,General Motors Co,Global Product Development,Supply
+9,General Motors Co,"Global Product Development, Purchasing & Supply Chain",Supply
+10,General Motors Co,GM Financial,Supply
+12,General Motors Co,the Personal Identifiable Information,Supply
+13,General Motors Co,SEC,Supply
+15,General Motors Co,GMNA,Supply
+16,General Motors Co,PSA Group,Supply
+17,General Motors Co,GM Cruise Holdings LLC,Supply
+18,General Motors Co,Honda Motor Co.,Supply
+19,General Motors Co,Incorporated,Supply
+20,General Motors Co,the Current Report on Form 8-K,Supply
+21,General Motors Co,Incorporated by Reference,Supply
+23,General Motors Co,the Bank of New York Mellon,Supply
+24,General Motors Co,Trustee,Supply
+33,General Motors Co,The Bank of New York Mellon,Supply
+48,General Motors Co,the United States Department,Supply
+49,General Motors Co,Treasury,Supply
+50,General Motors Co,Canada GEN Investment Corporation,Supply
+51,General Motors Co,7176384 Canada Inc.,Supply
+52,General Motors Co,General Motors LLC,Supply
+54,General Motors Co,SMVP) Supplement,Supply
+55,General Motors Co,the Annual Report on Form 10-K of Motors Liquidation Company,Supply
+0,General Motors Co,MaximumMember,customers
+2,General Motors Co,MinimumMember,customers
+4,General Motors Co,GM North America,customers
+5,General Motors Co,GMNA,customers
+6,General Motors Co,GM International,customers
+7,General Motors Co,GMI,customers
+9,General Motors Co,Buick,customers
+10,General Motors Co,Cadillac,customers
+11,General Motors Co,Chevrolet,customers
+12,General Motors Co,GMC,customers
+18,General Motors Co,Holden,customers
+19,General Motors Co,Baojun,customers
+23,General Motors Co,GM Financial,customers
+24,General Motors Co,"Design, Program Management",customers
+25,General Motors Co,Component & Subsystem Engineering,customers
+26,General Motors Co,Product Integrity,customers
+27,General Motors Co,Safety,customers
+28,General Motors Co,Propulsion Systems and Purchasing & Supply Chain,customers
+29,General Motors Co,FlexFuel,customers
+30,General Motors Co,OnStar,customers
+31,General Motors Co,Customer Care,customers
+34,General Motors Co,GM,customers
+35,General Motors Co,the Personal Identifiable Information,customers
+38,General Motors Co,GM Financial’s,customers
+41,General Motors Co,EBIT,customers
+42,General Motors Co,GM Financial Equipment on Operating Leases Assets,customers
+43,General Motors Co,Residuals GM Financial,customers
+44,General Motors Co,SEC,customers
+46,General Motors Co,Company,customers
+47,General Motors Co,ASU,customers
+52,General Motors Co,CONSOLIDATED FINANCIAL,customers
+53,General Motors Co,Automotive,customers
+57,General Motors Co,Dealer,customers
+59,General Motors Co,Warranties,customers
+0,General Motors Co,GM,Sells to
+1,General Motors Co,the U.S. Government,Sells to
+0,General Motors Co,GM Financial's,dependent on
+0,"Tower International, Inc.",OEM,Supply
+2,"Tower International, Inc.",Company,Supply
+0,"Tower International, Inc.",OEM,customers
+1,"Tower International, Inc.",Composition of Revenues Customers,customers
+2,"Tower International, Inc.",Ford,customers
+3,"Tower International, Inc.",Fiat-Chrysler,customers
+4,"Tower International, Inc.",Nissan,customers
+5,"Tower International, Inc.",Toyota,customers
+6,"Tower International, Inc.",BMW,customers
+7,"Tower International, Inc.",IHS,customers
+8,"Tower International, Inc.",EBITDA,customers
+9,"Tower International, Inc.",ASU,customers
+10,"Tower International, Inc.",Company,customers
+15,"Tower International, Inc.",the Consolidated Balance Sheets,customers
+22,"Tower International, Inc.",FASB,customers
+27,"Tower International, Inc.",Company’s,customers
+0,RVPlus Inc.,ECM,Supply
+1,RVPlus Inc.,Auto Brake,Supply
+2,RVPlus Inc.,P&L,Supply
+0,RVPlus Inc.,Each Auto Brake,customers
+1,RVPlus Inc.,SSL,customers
+2,RVPlus Inc.,P&L,customers
+0,"Enerpulse Technologies, Inc.",Enerpulse’s n-PAC,Supply
+1,"Enerpulse Technologies, Inc.",the Sarbanes-Oxley Act,Supply
+2,"Enerpulse Technologies, Inc.",the Public Company Accounting Oversight Board,Supply
+3,"Enerpulse Technologies, Inc.",Independent Registered Public Accounting Firm 35 Consolidated,Supply
+4,"Enerpulse Technologies, Inc.","Cook’s Direct, Inc.",Supply
+5,"Enerpulse Technologies, Inc.","Gander Mountain, Inc.",Supply
+6,"Enerpulse Technologies, Inc.",McMaster Carr Supply Company,Supply
+0,"Enerpulse Technologies, Inc.",OEM,customers
+1,"Enerpulse Technologies, Inc.",FINRA,customers
+3,"Enerpulse Technologies, Inc.",ASU,customers
+0,"Enerpulse Technologies, Inc.",Natural Gas,Sells to
+0,Green Automotive Co,Zotye,Supply
+2,Green Automotive Co,EV,Supply
+3,Green Automotive Co,LEC,Supply
+4,Green Automotive Co,UPS,Supply
+5,Green Automotive Co,the U.S. Department of Transportation,Supply
+6,Green Automotive Co,the U.S. Federal Motor Vehicle Safety Standards,Supply
+7,Green Automotive Co,UQM,Supply
+8,Green Automotive Co,HPEV,Supply
+9,Green Automotive Co,Don Brown Bus Sales,Supply
+10,Green Automotive Co,the Sarbanes-Oxley Act,Supply
+11,Green Automotive Co,the Dodd-Frank Act,Supply
+12,Green Automotive Co,the Public Company Accounting Oversight Board,Supply
+15,Green Automotive Co,Municipal Transit Buses,Supply
+16,Green Automotive Co,School Buses,Supply
+17,Green Automotive Co,Limousines,Supply
+18,Green Automotive Co,“Mass-Transit Vehicles”,Supply
+19,Green Automotive Co,this Annual Report,Supply
+20,Green Automotive Co,Item,Supply
+21,Green Automotive Co,Brammo,Supply
+22,Green Automotive Co,Brammo Digital Drivetrain,Supply
+23,Green Automotive Co,Brammo Power,Supply
+0,Green Automotive Co,Navistar,customers
+1,Green Automotive Co,LEC’s,customers
+2,Green Automotive Co,NCI,customers
+3,Green Automotive Co,CNG,customers
+4,Green Automotive Co,"Don Brown Bus Sales, Inc.",customers
+5,Green Automotive Co,LEC,customers
+6,Green Automotive Co,UPS,customers
+0,Green Automotive Co,NCI,Sells to
+1,Green Automotive Co,"Don Brown Bus Sales, Inc.",Sells to
+2,Green Automotive Co,GAC,Sells to
+0,FCA US LLC,SCUSA,Supply
+1,FCA US LLC,Ally,Supply
+2,FCA US LLC,FCA,Supply
+3,FCA US LLC,Santander Consumer USA Inc.,Supply
+5,FCA US LLC,Ally Financial Inc.,Supply
+8,FCA US LLC,Supplementary Foreign Currency Administrative System,Supply
+9,FCA US LLC,SICAD,Supply
+10,FCA US LLC,MOU,Supply
+11,FCA US LLC,UAW,Supply
+13,FCA US LLC,WCM,Supply
+14,FCA US LLC,Revenues,Supply
+15,FCA US LLC,Supplementary Foreign Currency Administration System,Supply
+22,FCA US LLC,the International Union,Supply
+23,FCA US LLC,United Automobile,Supply
+24,FCA US LLC,Aerospace and Agricultural Implement Workers of America,Supply
+37,FCA US LLC,Company,Supply
+38,FCA US LLC,Wilmington Trust National Association,Supply
+39,FCA US LLC,Wilmington Trust FSB,Supply
+40,FCA US LLC,Citibank,Supply
+41,FCA US LLC,SEC,Supply
+0,FCA US LLC,FCA,customers
+1,FCA US LLC,the “Mopar Vehicle Protection”,customers
+2,FCA US LLC,Mopar,customers
+3,FCA US LLC,"Santander Consumer USA, Inc.",customers
+4,FCA US LLC,SCUSA,customers
+6,FCA US LLC,Chrysler,customers
+8,FCA US LLC,USD,customers
+11,FCA US LLC,Ally,customers
+17,FCA US LLC,Jeep,customers
+18,FCA US LLC,Dodge,customers
+19,FCA US LLC,SRT,customers
+22,FCA US LLC,Jeep Liberty,customers
+32,FCA US LLC,FASB,customers
+0,FCA US LLC,OPEB,Sells to
+1,FCA US LLC,FCA,Sells to
+0,FCA US LLC,General Motors Company,dependent on
+1,FCA US LLC,Ford Motor Company,dependent on
+2,FCA US LLC,Toyota Motor Corporation,dependent on
+3,FCA US LLC,FCA,dependent on
+4,FCA US LLC,SCUSA,dependent on
+5,FCA US LLC,"Banco Santander,",dependent on
+6,FCA US LLC,S.A.,dependent on
+7,FCA US LLC,EPA,dependent on
+0,Aptiv PLC,the European Union,Supply
+1,Aptiv PLC,the North American Free Trade Agreement,Supply
+2,Aptiv PLC,Company,Supply
+4,Aptiv PLC,OEM,Supply
+5,Aptiv PLC,Daimler,Supply
+6,Aptiv PLC,Toyota Motor Corporation,Supply
+7,Aptiv PLC,Tata Motors Limited,Supply
+8,Aptiv PLC,GM,Supply
+9,Aptiv PLC,Tier,Supply
+12,Aptiv PLC,Aptiv,Supply
+15,Aptiv PLC,—The Company,Supply
+19,Aptiv PLC,NON,Supply
+21,Aptiv PLC,Ernst & Young LLP,Supply
+22,Aptiv PLC,the Report of Independent Registered Public Accounting Firm,Supply
+23,Aptiv PLC,Delphi Corporation,Supply
+24,Aptiv PLC,Wilmington Trust,Supply
+25,Aptiv PLC,National Association,Supply
+26,Aptiv PLC,Trustee,Supply
+27,Aptiv PLC,Deutsche Bank Trust Company Americas,Supply
+28,Aptiv PLC,Registrar,Supply
+29,Aptiv PLC,the Current Report on Form 8-K,Supply
+31,Aptiv PLC,SEC,Supply
+33,Aptiv PLC,Guarantors,Supply
+0,Aptiv PLC,MaximumMember,customers
+1,Aptiv PLC,MinimumMember,customers
+2,Aptiv PLC,FalmatMember,customers
+3,Aptiv PLC,the European Union,customers
+4,Aptiv PLC,the North American Free Trade Agreement,customers
+5,Aptiv PLC,Company,customers
+7,Aptiv PLC,Signal,customers
+8,Aptiv PLC,Power Solutions,customers
+9,Aptiv PLC,Visteon Corporation,customers
+10,Aptiv PLC,Customer Percentage of Net Sales General Motors Company,customers
+11,Aptiv PLC,Daimler,customers
+12,Aptiv PLC,Toyota Motor Corporation,customers
+13,Aptiv PLC,Tata Motors Limited,customers
+14,Aptiv PLC,GM,customers
+17,Aptiv PLC,OEM,customers
+21,Aptiv PLC,Falmat Inc.,customers
+23,Aptiv PLC,the U.S. Department of Transportation,customers
+26,Aptiv PLC,Aptiv,customers
+39,Aptiv PLC,—The Company,customers
+45,Aptiv PLC,—Aptiv,customers
+47,Aptiv PLC,VW,customers
+48,Aptiv PLC,FCA,customers
+51,Aptiv PLC,Goodwill,customers
+54,Aptiv PLC,KUM,customers
+0,Aptiv PLC,Customer Percentage of Net Sales General Motors Company,Sells to
+1,Aptiv PLC,GM,Sells to
+2,Aptiv PLC,VW,Sells to
+3,Aptiv PLC,FCA,Sells to
+4,Aptiv PLC,Aptiv,Sells to
+7,Aptiv PLC,European Opel,Sells to
+8,Aptiv PLC,PSA,Sells to
+0,Aptiv PLC,Hyundai,dependent on
+0,"Saleen Automotive, Inc.",Ford,Supply
+1,"Saleen Automotive, Inc.",Tesla,Supply
+2,"Saleen Automotive, Inc.",Independent Registered Public Accounting Firm F-1,Supply
+3,"Saleen Automotive, Inc.",Company,Supply
+0,"Saleen Automotive, Inc.",JSAT,customers
+2,"Saleen Automotive, Inc.","97,312 Engineering",customers
+3,"Saleen Automotive, Inc.",ASC,customers
+4,"Saleen Automotive, Inc.",Company,customers
+6,"Saleen Automotive, Inc.",Significant Concentrations Sales,customers
+7,"Saleen Automotive, Inc.",Jiangsu Saleen Automotive Technology Co.,customers
+10,"Saleen Automotive, Inc.",Supercars,customers
+0,"Saleen Automotive, Inc.",Significant Concentrations Sales,Sells to
+1,"Saleen Automotive, Inc.",Jiangsu Saleen Automotive Technology Co.,Sells to
+0,"Saleen Automotive, Inc.",Jiangsu Saleen Automotive Technology Co.,dependent on
+1,"Saleen Automotive, Inc.",Ford Mustang,dependent on
+2,"Saleen Automotive, Inc.",Ford,dependent on
+3,"Saleen Automotive, Inc.",Board of Directors,dependent on
+4,"Saleen Automotive, Inc.",JSAT,dependent on
+0,Armored AutoGroup Inc.,Armor,Supply
+1,Armored AutoGroup Inc.,the IDQ Investment,Supply
+2,Armored AutoGroup Inc.,Shared Services and Supply Agreement,Supply
+3,Armored AutoGroup Inc.,"the ""Shared Services Agreement""",Supply
+4,Armored AutoGroup Inc.,IDQ,Supply
+5,Armored AutoGroup Inc.,Company,Supply
+12,Armored AutoGroup Inc.,STP,Supply
+13,Armored AutoGroup Inc.,Armored Auto Group Intermediate Inc.,Supply
+14,Armored AutoGroup Inc.,Viking Intermediate Inc.,Supply
+16,Armored AutoGroup Inc.,JPMorgan Chase Bank,Supply
+17,Armored AutoGroup Inc.,"the ""Credit Facility""",Supply
+19,Armored AutoGroup Inc.,Revolving Credit Facility,Supply
+25,Armored AutoGroup Inc.,Parent,Supply
+26,Armored AutoGroup Inc.,"the ""Parent Group""",Supply
+27,Armored AutoGroup Inc.,the Parent Group,Supply
+32,Armored AutoGroup Inc.,"the ""Company Group",Supply
+33,Armored AutoGroup Inc.,the Company Group,Supply
+37,Armored AutoGroup Inc.,The Compensation Committee,Supply
+38,Armored AutoGroup Inc.,Viking Acquisition Inc.,Supply
+39,Armored AutoGroup Inc.,Wells Fargo Bank,Supply
+40,Armored AutoGroup Inc.,National Association,Supply
+41,Armored AutoGroup Inc.,Trustee,Supply
+42,Armored AutoGroup Inc.,AutoGroup Parent Inc.,Supply
+43,Armored AutoGroup Inc.,IDQ Acquisition Corp.,Supply
+44,Armored AutoGroup Inc.,"IDQ Holdings, Inc.",Supply
+45,Armored AutoGroup Inc.,"IDQ Operating, Inc.",Supply
+0,Armored AutoGroup Inc.,STP,customers
+1,Armored AutoGroup Inc.,Wal-Mart,customers
+2,Armored AutoGroup Inc.,CAS,customers
+4,Armored AutoGroup Inc.,Company,customers
+9,Armored AutoGroup Inc.,IDQ,customers
+23,Armored AutoGroup Inc.,Revenue Recognition Sales,customers
+25,Armored AutoGroup Inc.,the TSA the Company,customers
+32,Armored AutoGroup Inc.,the Consolidated Balance Sheet,customers
+36,Armored AutoGroup Inc.,Parent,customers
+37,Armored AutoGroup Inc.,"the ""Parent Group""",customers
+38,Armored AutoGroup Inc.,the Parent Group,customers
+43,Armored AutoGroup Inc.,"the ""Company Group",customers
+44,Armored AutoGroup Inc.,the Company Group,customers
+0,Armored AutoGroup Inc.,Company,Sells to
+2,Armored AutoGroup Inc.,Wal-Mart,Sells to
+0,Armored AutoGroup Inc.,Company,dependent on
+0,One 4 Art Ltd,INC,Supply
+0,"ADOMANI, INC.",Electric Vehicle Supply Equipment,Supply
+1,"ADOMANI, INC.",Envirotech,Supply
+2,"ADOMANI, INC.",ADOMANI,Supply
+3,"ADOMANI, INC.",Blue Bird,Supply
+5,"ADOMANI, INC.",Raw Materials and Supply Chain Prices,Supply
+6,"ADOMANI, INC.",• Vibration,Supply
+7,"ADOMANI, INC.",• Overcharge,Supply
+8,"ADOMANI, INC.",the Public Company Accounting Oversight Board,Supply
+9,"ADOMANI, INC.",Supplement,Supply
+12,"ADOMANI, INC.",U.S. Department of Energy,Supply
+14,"ADOMANI, INC.",Company,Supply
+15,"ADOMANI, INC.",DOE,Supply
+21,"ADOMANI, INC.",GerWeiss,Supply
+0,"ADOMANI, INC.",ICE,customers
+1,"ADOMANI, INC.",Neighborhood Electric Vehicles,customers
+2,"ADOMANI, INC.",Customer Service,customers
+3,"ADOMANI, INC.",HVIP,customers
+4,"ADOMANI, INC.",Ford,customers
+5,"ADOMANI, INC.",Nissan,customers
+6,"ADOMANI, INC.",Navistar,customers
+7,"ADOMANI, INC.",Freightliner,customers
+8,"ADOMANI, INC.",Merc,customers
+9,"ADOMANI, INC.",Odyne Systems,customers
+10,"ADOMANI, INC.",Lightning Systems,customers
+11,"ADOMANI, INC.",Nordresa,customers
+12,"ADOMANI, INC.",Mitsubishi/Fuso,customers
+13,"ADOMANI, INC.",BYD,customers
+14,"ADOMANI, INC.",TransPower,customers
+15,"ADOMANI, INC.",Lion Electric Company,customers
+16,"ADOMANI, INC.",Rivian,customers
+17,"ADOMANI, INC.",General Motors,customers
+18,"ADOMANI, INC.",Blue Bird,customers
+19,"ADOMANI, INC.",Tesla,customers
+20,"ADOMANI, INC.",Volkswagen,customers
+21,"ADOMANI, INC.",Volvo,customers
+22,"ADOMANI, INC.",PeterBilt,customers
+23,"ADOMANI, INC.",Nikola,customers
+24,"ADOMANI, INC.",Motiv,customers
+26,"ADOMANI, INC.",CARB,customers
+27,"ADOMANI, INC.",the EV Demonstration Project,customers
+28,"ADOMANI, INC.",Clean Cities,customers
+29,"ADOMANI, INC.",SEC,customers
+30,"ADOMANI, INC.",General and Administrative Expenses Selling,customers
+31,"ADOMANI, INC.",FASB,customers
+33,"ADOMANI, INC.",Company,customers
+36,"ADOMANI, INC.",EDI,customers
+37,"ADOMANI, INC.","Cummins, Inc.",customers
+39,"ADOMANI, INC.",ADOMANI,customers
+0,"Green Parts International, Inc.",Rental,Supply
+1,"Green Parts International, Inc.",Company,Supply
+3,"Green Parts International, Inc.",GEOS,Supply
+4,"Green Parts International, Inc.",G&A,Supply
+6,"Green Parts International, Inc.",Item,Supply
+7,"Green Parts International, Inc.",Interest,Supply
+0,"Green Parts International, Inc.",Greenparts Electronic Ordering System,customers
+1,"Green Parts International, Inc.",GEOS,customers
+2,"Green Parts International, Inc.",Company,customers
+0,Blow & Drive Interlock Corp,BDI-747/1,Supply
+1,Blow & Drive Interlock Corp,BDI Manufacturing Inc.,Supply
+2,Blow & Drive Interlock Corp,"Blow & Drive Interlock, Inc.",Supply
+3,Blow & Drive Interlock Corp,Wireless Power,Supply
+5,Blow & Drive Interlock Corp,C4 Development Ltd.,Supply
+6,Blow & Drive Interlock Corp,C4 Development,Supply
+8,Blow & Drive Interlock Corp,Alcohol Tester,Supply
+9,Blow & Drive Interlock Corp,this Annual Report,Supply
+10,Blow & Drive Interlock Corp,Item,Supply
+11,Blow & Drive Interlock Corp,"BDI Manufacturing, Inc.",Supply
+13,Blow & Drive Interlock Corp,Interest,Supply
+14,Blow & Drive Interlock Corp,Company,Supply
+0,Blow & Drive Interlock Corp,EZ,customers
+1,Blow & Drive Interlock Corp,State,customers
+2,Blow & Drive Interlock Corp,BDI Interlock,customers
+3,Blow & Drive Interlock Corp,LLC,customers
+6,Blow & Drive Interlock Corp,EZ Interlock,customers
+9,Blow & Drive Interlock Corp,Company,customers
+19,Blow & Drive Interlock Corp,the     Company,customers
+0,Blow & Drive Interlock Corp,Company,dependent on
+0,"Arazu, Inc",ExactRep,customers
+1,"Arazu, Inc",DHL,customers
+2,"Arazu, Inc",Federal Express,customers
+3,"Arazu, Inc",SEC,customers
+0,"Arazu, Inc",Company,dependent on
+0,"Fenix Parts, Inc.",&,Supply
+1,"Fenix Parts, Inc.",Transportation,Supply
+2,"Fenix Parts, Inc.",Ryder Distribution Resources,Supply
+3,"Fenix Parts, Inc.",Chrysler Motors,Supply
+4,"Fenix Parts, Inc.",GE Supply,Supply
+0,"Fenix Parts, Inc.",SEC,customers
+1,"Fenix Parts, Inc.",Pink Sheets,customers
+3,"Fenix Parts, Inc.",Toronto Facility,customers
+4,"Fenix Parts, Inc.",the Ontario Ministry of the Environment and Climate Change,customers
+5,"Fenix Parts, Inc.",Extensive Inventory and Distribution Platform,customers
+6,"Fenix Parts, Inc.",Subsidiaries,customers
+7,"Fenix Parts, Inc.",OEM,customers
+8,"Fenix Parts, Inc.",FASB,customers
+9,"Fenix Parts, Inc.",ASU,customers
+10,"Fenix Parts, Inc.",Company,customers
+16,"Fenix Parts, Inc.",Beagell,customers
+24,"Fenix Parts, Inc.",Standard Auto,customers
+0,UNION BRIDGE HOLDINGS LTD.,Interest,Supply
+1,UNION BRIDGE HOLDINGS LTD.,CONSOLIDATED FINANCIAL,Supply
+0,UNION BRIDGE HOLDINGS LTD.,Business to Customers,customers
+1,UNION BRIDGE HOLDINGS LTD.,OLS,customers
+2,UNION BRIDGE HOLDINGS LTD.,The Financial Industry Regulatory Authority,customers
+3,UNION BRIDGE HOLDINGS LTD.,FINRA,customers
+0,UNION BRIDGE HOLDINGS LTD.,Android,dependent on
+1,UNION BRIDGE HOLDINGS LTD.,Windows,dependent on
+0,Adient plc,Adient,Supply
+6,Adient plc,BMW,Supply
+7,Adient plc,Daimler AG,Supply
+8,Adient plc,Fiat Chrysler Automobiles,Supply
+9,Adient plc,Ford Motor Company,Supply
+10,Adient plc,General Motors Company,Supply
+11,Adient plc,Honda Motor Company,Supply
+12,Adient plc,Hyundai Motor Company,Supply
+13,Adient plc,Jaguar Land Rover,Supply
+14,Adient plc,Kia Motor Company,Supply
+15,Adient plc,Mazda Motor Company,Supply
+16,Adient plc,Mitsubishi Motors,Supply
+17,Adient plc,Nissan Motor Company,Supply
+18,Adient plc,PSA Peugeot Citroen,Supply
+19,Adient plc,Renault,Supply
+20,Adient plc,Suzuki,Supply
+21,Adient plc,Toyota Motor Corporation,Supply
+22,Adient plc,Volkswagen AG,Supply
+23,Adient plc,Volvo,Supply
+25,Adient plc,"BAIC Motor Co., Ltd.",Supply
+26,Adient plc,Brilliance Auto Group,Supply
+27,Adient plc,"Changan Automobile (Group) Co., Ltd.",Supply
+28,Adient plc,FAW Group Corporation,Supply
+29,Adient plc,SAIC Motor Corporation Limited,Supply
+30,Adient plc,Tata Motors Limited,Supply
+31,Adient plc,Zhejiang Geely Holding Group Co.,Supply
+32,Adient plc,Tesla Motors,Supply
+33,Adient plc,OEM,Supply
+35,Adient plc,Lear Corporation,Supply
+36,Adient plc,IMDS,Supply
+38,Adient plc,National Highway Traffic Safety Administration,Supply
+39,Adient plc,Global Purchasing,Supply
+40,Adient plc,Supplier Development and Logistics of,Supply
+42,Adient plc,Business Adient,Supply
+43,Adient plc,the European Union,Supply
+100,Adient plc,Pre-Production Costs Related to Long-Term Supply Arrangements Adient,Supply
+104,Adient plc,Adient Global Holdings Limited,Supply
+105,Adient plc,U.S. Bank National Association,Supply
+106,Adient plc,Trustee,Supply
+126,Adient plc,Adient Global Holdings Ltd,Supply
+127,Adient plc,Adient Global Holdings,Supply
+131,Adient plc,Adient Ltd,Supply
+132,Adient plc,Adient UK Global Financing Ltd,Supply
+136,Adient plc,Quarterly Report on,Supply
+156,Adient plc,Adient Fabrics Spain,Supply
+157,Adient plc,S.A.U.,Supply
+158,Adient plc,Michel Thierry Unit Components,Supply
+159,Adient plc,S.L.U.,Supply
+160,Adient plc,Adient Seating Holding Spain,Supply
+163,Adient plc,Adient Automotive,Supply
+165,Adient plc,Adient Real Estate Holding Spain,Supply
+0,Adient plc,PatentsMember,customers
+2,Adient plc,FuturisMember,customers
+3,Adient plc,Adient,customers
+6,Adient plc,OEM,customers
+14,Adient plc,CPP,customers
+26,Adient plc,BMW,customers
+27,Adient plc,Daimler AG,customers
+28,Adient plc,Fiat Chrysler Automobiles,customers
+29,Adient plc,Ford Motor Company,customers
+30,Adient plc,General Motors Company,customers
+31,Adient plc,Honda Motor Company,customers
+32,Adient plc,Hyundai Motor Company,customers
+33,Adient plc,Jaguar Land Rover,customers
+34,Adient plc,Kia Motor Company,customers
+35,Adient plc,Mazda Motor Company,customers
+36,Adient plc,Mitsubishi Motors,customers
+37,Adient plc,Nissan Motor Company,customers
+38,Adient plc,PSA Peugeot Citroen,customers
+39,Adient plc,Renault,customers
+40,Adient plc,Suzuki,customers
+41,Adient plc,Toyota Motor Corporation,customers
+42,Adient plc,Volkswagen AG,customers
+43,Adient plc,Volvo,customers
+50,Adient plc,National Highway Traffic Safety Administration,customers
+61,Adient plc,the European Union,customers
+82,Adient plc,General Motors,customers
+120,Adient plc,Revenue Recognition,customers
+122,Adient plc,ASU,customers
+128,Adient plc,Pre-Production Costs Related to Long-Term Supply Arrangements Adient,customers
+135,Adient plc,Fiat Chrysler Automobiles N.V.,customers
+136,Adient plc,Volkswagen Group,customers
+144,Adient plc,ASC,customers
+0,Adient plc,Adient,Sells to
+0,"REV Group, Inc.",Securities and Exchange Commission,Supply
+1,"REV Group, Inc.",Chrysler,Supply
+2,"REV Group, Inc.",Cummins,Supply
+3,"REV Group, Inc.",Ford,Supply
+4,"REV Group, Inc.",Freightliner,Supply
+5,"REV Group, Inc.",General Motors,Supply
+6,"REV Group, Inc.",Navistar,Supply
+7,"REV Group, Inc.",Volvo,Supply
+8,"REV Group, Inc.",Fire & Emergency,Supply
+9,"REV Group, Inc.",Ambulance,Supply
+10,"REV Group, Inc.",Fire,Supply
+11,"REV Group, Inc.",Supplementary Data,Supply
+0,"REV Group, Inc.",Regional Technical Centers,customers
+1,"REV Group, Inc.",REV Fire & Emergency,customers
+2,"REV Group, Inc.",REV,customers
+3,"REV Group, Inc.",Lay-Mor,customers
+5,"REV Group, Inc.",RTC,customers
+6,"REV Group, Inc.",Fire & Emergency,customers
+9,"REV Group, Inc.",Backlog Backlog,customers
+11,"REV Group, Inc.",Company,customers
+12,"REV Group, Inc.",Company’s,customers
+15,"REV Group, Inc.",ASU,customers
+17,"REV Group, Inc.",Goldshield,customers
+18,"REV Group, Inc.",RRG,customers
+19,"REV Group, Inc.",Goldshield’s,customers
+0,"Veoneer, Inc.",Collaborative Driving,Supply
+1,"Veoneer, Inc.",Company,Supply
+2,"Veoneer, Inc.",Velodyne,Supply
+3,"Veoneer, Inc.","Veoneer US, Inc.",Supply
+5,"Veoneer, Inc.",Geely,Supply
+7,"Veoneer, Inc.",ADAS,Supply
+8,"Veoneer, Inc.",VNBS,Supply
+9,"Veoneer, Inc.",VBS,Supply
+11,"Veoneer, Inc.",Veoneer,Supply
+15,"Veoneer, Inc.",General Motors,Supply
+16,"Veoneer, Inc.",Toyota,Supply
+17,"Veoneer, Inc.",Volkswagen,Supply
+18,"Veoneer, Inc.",Aptiv,Supply
+19,"Veoneer, Inc.",Bosch,Supply
+20,"Veoneer, Inc.",Continental,Supply
+21,"Veoneer, Inc.",ZF,Supply
+23,"Veoneer, Inc.",AD,Supply
+24,"Veoneer, Inc.",Restraint Control Systems,Supply
+25,"Veoneer, Inc.",Active Safety,Supply
+26,"Veoneer, Inc.",Passive Safety,Supply
+29,"Veoneer, Inc.",Safety Domain Controller,Supply
+30,"Veoneer, Inc.",Value Engineering,Supply
+31,"Veoneer, Inc.",Value Analysis,Supply
+32,"Veoneer, Inc.",The Zenuity JV Agreement,Supply
+33,"Veoneer, Inc.",Volvo Cars,Supply
+34,"Veoneer, Inc.",Zenuity,Supply
+35,"Veoneer, Inc.",Google,Supply
+36,"Veoneer, Inc.",Argo,Supply
+37,"Veoneer, Inc.",Cruise,Supply
+38,"Veoneer, Inc.",Samsung,Supply
+39,"Veoneer, Inc.",Panasonic,Supply
+40,"Veoneer, Inc.",OEM,Supply
+41,"Veoneer, Inc.",COVID-19,Supply
+42,"Veoneer, Inc.",LVP,Supply
+43,"Veoneer, Inc.",the U.S. Export Administration Act,Supply
+51,"Veoneer, Inc.","Velodyne LiDAR, Inc.",Supply
+0,"Veoneer, Inc.",MinimumMember,customers
+1,"Veoneer, Inc.",MaximumMember,customers
+2,"Veoneer, Inc.",Company,customers
+3,"Veoneer, Inc.",Geely,customers
+4,"Veoneer, Inc.",Mercedes-Benz,customers
+5,"Veoneer, Inc.",Volvo Cars,customers
+6,"Veoneer, Inc.",OEM,customers
+7,"Veoneer, Inc.",Fiat,customers
+8,"Veoneer, Inc.",GAC,customers
+10,"Veoneer, Inc.",General Motors,customers
+11,"Veoneer, Inc.",GM,customers
+12,"Veoneer, Inc.",Honda,customers
+14,"Veoneer, Inc.",Renault,customers
+17,"Veoneer, Inc.",Mercedes-Benz S,customers
+18,"Veoneer, Inc.",Audi,customers
+19,"Veoneer, Inc.",BMW,customers
+22,"Veoneer, Inc.",PSA,customers
+23,"Veoneer, Inc.",Porsche,customers
+24,"Veoneer, Inc.",Volkswagen,customers
+25,"Veoneer, Inc.",FCA,customers
+26,"Veoneer, Inc.",Ford,customers
+29,"Veoneer, Inc.",Hyundai,customers
+30,"Veoneer, Inc.",Kia,customers
+31,"Veoneer, Inc.",Jaguar Land Rover,customers
+32,"Veoneer, Inc.",Mazda,customers
+35,"Veoneer, Inc.",Suzuki,customers
+37,"Veoneer, Inc.",Zenuity,customers
+38,"Veoneer, Inc.",ADAS,customers
+40,"Veoneer, Inc.",VBS,customers
+43,"Veoneer, Inc.",Apple,customers
+44,"Veoneer, Inc.",Waymo,customers
+45,"Veoneer, Inc.",Intel,customers
+46,"Veoneer, Inc.",NVIDIA,customers
+47,"Veoneer, Inc.",Active Safety,customers
+48,"Veoneer, Inc.",Customers Veoneer,customers
+50,"Veoneer, Inc.",Brake Systems,customers
+53,"Veoneer, Inc.",Daimler,customers
+59,"Veoneer, Inc.",Value Engineering,customers
+60,"Veoneer, Inc.",Value Analysis,customers
+61,"Veoneer, Inc.",The Zenuity JV Agreement,customers
+64,"Veoneer, Inc.",LVP,customers
+70,"Veoneer, Inc.",RD&E,customers
+71,"Veoneer, Inc.",Autoliv,customers
+75,"Veoneer, Inc.",AVs,customers
+77,"Veoneer, Inc.",Shanghai Electronics Customer,customers
+78,"Veoneer, Inc.",France Veoneer,customers
+79,"Veoneer, Inc.",Cergy-Pontoise Electronics Customer,customers
+80,"Veoneer, Inc.",Kitzingen Electronics Customer,customers
+81,"Veoneer, Inc.",India Veoneer India Private Limited Bangalore Electronics Customer,customers
+82,"Veoneer, Inc.",Veoneer Japan,customers
+83,"Veoneer, Inc.",Hiroshima Electronics Customer,customers
+84,"Veoneer, Inc.",Yokohama Electronics Customer,customers
+85,"Veoneer, Inc.",Veoneer Korea,customers
+86,"Veoneer, Inc.",Hwaseong-shi Electronics Customer,customers
+87,"Veoneer, Inc.",USA Veoneer US,customers
+88,"Veoneer, Inc.",MI Electronics Brake,customers
+89,"Veoneer, Inc.",Lowell,customers
+90,"Veoneer, Inc.",MA Electronics Electronics,customers
+92,"Veoneer, Inc.",Non-U.S.,customers
+93,"Veoneer, Inc.",Net Working Capital Net Working Capital 1 - Net,customers
+94,"Veoneer, Inc.",ASC,customers
+99,"Veoneer, Inc.",F.O.B.,customers
+107,"Veoneer, Inc.","Property, Plant & Equipment",customers
+108,"Veoneer, Inc.",Company’s,customers
+112,"Veoneer, Inc.",FASB,customers
+113,"Veoneer, Inc.",ASU,customers
+119,"Veoneer, Inc.",Business Combinations Business,customers
+126,"Veoneer, Inc.",Alecta,customers
+0,"Veoneer, Inc.",Company,Sells to
+0,"Veoneer, Inc.",Customers Veoneer,dependent on
+1,"Veoneer, Inc.",LVP,dependent on
+0,Garrett Motion Inc.,IVHM,Supply
+1,Garrett Motion Inc.,Tier,Supply
+2,Garrett Motion Inc.,the U.K. Trade,Supply
+3,Garrett Motion Inc.,Consolidated,Supply
+4,Garrett Motion Inc.,Company,Supply
+5,Garrett Motion Inc.,—The Company’s,Supply
+6,Garrett Motion Inc.,Deloitte SA,Supply
+7,Garrett Motion Inc.,Integrated Supply Chain,Supply
+8,Garrett Motion Inc.,Voith Turbo GmbH & Co. KG,Supply
+10,Garrett Motion Inc.,the Spin-Off,Supply
+11,Garrett Motion Inc.,Global Integrated Supply Chain,Supply
+12,Garrett Motion Inc.,Honeywell Transportation Systems,Supply
+0,Garrett Motion Inc.,IVHM,customers
+1,Garrett Motion Inc.,Ford Motor Company,customers
+2,Garrett Motion Inc.,Ford,customers
+3,Garrett Motion Inc.,OEM,customers
+4,Garrett Motion Inc.,Tier,customers
+5,Garrett Motion Inc.,the U.K. Trade,customers
+6,Garrett Motion Inc.,Company,customers
+7,Garrett Motion Inc.,Middle East & South Asia & North America Africa Asia Pacific South America Total Manufacturing Sites,customers
+8,Garrett Motion Inc.,FASB,customers
+9,Garrett Motion Inc.,ASC,customers
+10,Garrett Motion Inc.,Revenue Recognition and Contracts,customers
+12,Garrett Motion Inc.,Accrued Liabilities,customers
+13,Garrett Motion Inc.,the Consolidated and Combined Balance Sheets,customers
+14,Garrett Motion Inc.,Financial Instruments,customers
+15,Garrett Motion Inc.,—We,customers
+16,Garrett Motion Inc.,Global Customer Management & General,customers
+17,Garrett Motion Inc.,Honeywell,customers
+18,Garrett Motion Inc.,Sourcing for Transportation Systems,customers
+19,Garrett Motion Inc.,Customer Management for Passenger Vehicles,customers
+20,Garrett Motion Inc.,Honeywell Turbo Technologies,customers
+21,Garrett Motion Inc.,European Sales,customers
+22,Garrett Motion Inc.,Director of Marketing and Business Development,customers
+23,Garrett Motion Inc.,Board,customers
+24,Garrett Motion Inc.,Global Customer Management,customers
+25,Garrett Motion Inc.,the Spin-Off,customers
+26,Garrett Motion Inc.,Customer Management,customers
+27,Garrett Motion Inc.,Honeywell Transportation Systems for,customers
+28,Garrett Motion Inc.,Honeywell Transportation Systems,customers
+0,Garrett Motion Inc.,Honeywell,dependent on
+0,"SORL Auto Parts, Inc.",the ISO/TS 16949 System Certification,Supply
+1,"SORL Auto Parts, Inc.",the TUV CERT Certification Body of TUV Industries Service,Supply
+2,"SORL Auto Parts, Inc.",Company,Supply
+3,"SORL Auto Parts, Inc.",the FAW Group,Supply
+4,"SORL Auto Parts, Inc.","Beiqi Foton Motor Co., Ltd.",Supply
+5,"SORL Auto Parts, Inc.",Dongfeng Motor Co.,Supply
+6,"SORL Auto Parts, Inc.","Anhui     Jianghuai Automobile Co., Ltd.",Supply
+7,"SORL Auto Parts, Inc.","Shanghai Shougang Steel Trading Co., Ltd.",Supply
+8,"SORL Auto Parts, Inc.","Shanghai Bao Steel Trading Co., Ltd.",Supply
+9,"SORL Auto Parts, Inc.","Nanjing Iron & Steel Co., Ltd.",Supply
+0,"SORL Auto Parts, Inc.",ISO 9000,customers
+1,"SORL Auto Parts, Inc.",OEM,customers
+3,"SORL Auto Parts, Inc.",Company,customers
+4,"SORL Auto Parts, Inc.",Equip Auto,customers
+5,"SORL Auto Parts, Inc.",China Import and Export Fair,customers
+6,"SORL Auto Parts, Inc.",Chongqing Heavy Vehicle Group Co.,customers
+22,"SORL Auto Parts, Inc.",ASU,customers
+0,"SORL Auto Parts, Inc.",the Joint Venture,dependent on
+0,SPARTAN MOTORS INC,Spartan,Supply
+1,SPARTAN MOTORS INC,EBITDA,Supply
+2,SPARTAN MOTORS INC,Spartan Safe Haul,Supply
+4,SPARTAN MOTORS INC,FVS,Supply
+5,SPARTAN MOTORS INC,the United States Postal Service,Supply
+6,SPARTAN MOTORS INC,Company’s,Supply
+7,SPARTAN MOTORS INC,Company,Supply
+0,SPARTAN MOTORS INC,Fleet Vehicles and Services,customers
+1,SPARTAN MOTORS INC,Customer Service Department,customers
+2,SPARTAN MOTORS INC,OEM,customers
+3,SPARTAN MOTORS INC,Spartan USA,customers
+4,SPARTAN MOTORS INC,Year Customer Sales,customers
+7,SPARTAN MOTORS INC,the Consolidated Balance Sheets,customers
+8,SPARTAN MOTORS INC,Company,customers
+14,SPARTAN MOTORS INC,Goodwill,customers
+15,SPARTAN MOTORS INC,"SPARTAN MOTORS,",customers
+16,SPARTAN MOTORS INC,INC,customers
+18,SPARTAN MOTORS INC,FVS,customers
+20,SPARTAN MOTORS INC,﻿Combined,customers
+21,SPARTAN MOTORS INC,﻿Segment ﻿2019,customers
+0,LCI INDUSTRIES,"Lippert Components, Inc.",Supply
+1,LCI INDUSTRIES,“Lippert Components”,Supply
+2,LCI INDUSTRIES,Company,Supply
+4,LCI INDUSTRIES,Polyplastic Group B.V.,Supply
+6,LCI INDUSTRIES,Ciesse Holdings S.r.l,Supply
+7,LCI INDUSTRIES,Rignano,Supply
+9,LCI INDUSTRIES,Lewmar Marine Ltd.,Supply
+10,LCI INDUSTRIES,the Company and Furrion Limited,Supply
+12,LCI INDUSTRIES,LCI,Supply
+13,LCI INDUSTRIES,Dexter Axle Company,Supply
+14,LCI INDUSTRIES,Carefree of Colorado,Supply
+15,LCI INDUSTRIES,Dometic Corporation,Supply
+23,LCI INDUSTRIES,Taylor Made Group,Supply
+24,LCI INDUSTRIES,LLC,Supply
+25,LCI INDUSTRIES,Gloversville,Supply
+35,LCI INDUSTRIES,Furrion Distribution and Supply Agreement,Supply
+37,LCI INDUSTRIES,Furrion Limited,Supply
+0,LCI INDUSTRIES,MinimumMember,customers
+1,LCI INDUSTRIES,MaximumMember,customers
+2,LCI INDUSTRIES,PatentsMember,customers
+14,LCI INDUSTRIES,the Securities and Exchange Commission,customers
+15,LCI INDUSTRIES,SEC,customers
+16,LCI INDUSTRIES,Customer Concentrations Thor Industries,customers
+17,LCI INDUSTRIES,Company’s,customers
+18,LCI INDUSTRIES,Berkshire Hathaway Inc.,customers
+19,LCI INDUSTRIES,"Forest River, Inc.",customers
+20,LCI INDUSTRIES,"Clayton Homes, Inc.",customers
+23,LCI INDUSTRIES,Company,customers
+24,LCI INDUSTRIES,Aftermarket Segment,customers
+29,LCI INDUSTRIES,the OEM Segment,customers
+31,LCI INDUSTRIES,the EU General Data Protection Regulation (the “,customers
+32,LCI INDUSTRIES,Board of Directors,customers
+33,LCI INDUSTRIES,OEM,customers
+34,LCI INDUSTRIES,the Adjacent Industries,customers
+39,LCI INDUSTRIES,Change Travel,customers
+40,LCI INDUSTRIES,Motorhomes,customers
+54,LCI INDUSTRIES,Tradename,customers
+55,LCI INDUSTRIES,the National Highway Traffic Safety Administration,customers
+0,LCI INDUSTRIES,OEM Segment,Sells to
+2,LCI INDUSTRIES,Aftermarket Segment,Sells to
+3,LCI INDUSTRIES,Company,Sells to
+5,LCI INDUSTRIES,Change Travel,Sells to
+6,LCI INDUSTRIES,the Aftermarket Segment and Adjacent Industries,Sells to
+7,LCI INDUSTRIES,Adjacent Industries,Sells to
+0,HONEYWELL INTERNATIONAL INC,Aerospace Aerospace,Supply
+1,HONEYWELL INTERNATIONAL INC,Integrated Supply Chain of Aerospace,Supply
+2,HONEYWELL INTERNATIONAL INC,the U.S. Government,Supply
+4,HONEYWELL INTERNATIONAL INC,Integrated Supply Chain,Supply
+5,HONEYWELL INTERNATIONAL INC,Honeywell Digital,Supply
+6,HONEYWELL INTERNATIONAL INC,Honeywell Forge,Supply
+7,HONEYWELL INTERNATIONAL INC,Company,Supply
+8,HONEYWELL INTERNATIONAL INC,Supply Chain,Supply
+11,HONEYWELL INTERNATIONAL INC,Performance Materials and Technologies,Supply
+12,HONEYWELL INTERNATIONAL INC,Honeywell Building Technologies,Supply
+14,HONEYWELL INTERNATIONAL INC,Honeywell,Supply
+19,HONEYWELL INTERNATIONAL INC,Honeywell’s,Supply
+21,HONEYWELL INTERNATIONAL INC,Honeywell’s Form,Supply
+22,HONEYWELL INTERNATIONAL INC,Career Band 6,Supply
+0,HONEYWELL INTERNATIONAL INC,TrademarksMember,customers
+2,HONEYWELL INTERNATIONAL INC,Honeywell Forge,customers
+3,HONEYWELL INTERNATIONAL INC,Honeywell Connected Enterprise,customers
+4,HONEYWELL INTERNATIONAL INC,HCE,customers
+5,HONEYWELL INTERNATIONAL INC,Aerospace Aerospace,customers
+6,HONEYWELL INTERNATIONAL INC,UOP,customers
+7,HONEYWELL INTERNATIONAL INC,Safety and Productivity Solutions Safety and Productivity Solutions,customers
+8,HONEYWELL INTERNATIONAL INC,Company,customers
+10,HONEYWELL INTERNATIONAL INC,Revenue Recognition and Contracts,customers
+12,HONEYWELL INTERNATIONAL INC,Aerospace,customers
+15,HONEYWELL INTERNATIONAL INC,75 79 Services,customers
+16,HONEYWELL INTERNATIONAL INC,the Consolidated Balance Sheet in Accounts,customers
+0,HONEYWELL INTERNATIONAL INC,U.S. Government Sales Sales,Sells to
+1,HONEYWELL INTERNATIONAL INC,the U.S. Government,Sells to
+2,HONEYWELL INTERNATIONAL INC,the U.S. Department of Defense,Sells to
+0,OSHKOSH CORP,U.S. Department of Defense,Supply
+1,OSHKOSH CORP,DoD,Supply
+4,OSHKOSH CORP,Company,Supply
+6,OSHKOSH CORP,Oshkosh Defense,Supply
+7,OSHKOSH CORP,HEMTT,Supply
+11,OSHKOSH CORP,Pierce,Supply
+13,OSHKOSH CORP,the Oshkosh Specialty Vehicles,Supply
+14,OSHKOSH CORP,OSV,Supply
+15,OSHKOSH CORP,IMT,Supply
+18,OSHKOSH CORP,the U.S. IMT,Supply
+27,OSHKOSH CORP,"Bemis Company, Inc.",Supply
+28,OSHKOSH CORP,Marketing and Transformation for Bemis North America,Supply
+33,OSHKOSH CORP,Wells Fargo Bank,Supply
+34,OSHKOSH CORP,National Association,Supply
+35,OSHKOSH CORP,the Company’s Current Report on Form 8-K,Supply
+41,OSHKOSH CORP,Trustee,Supply
+0,OSHKOSH CORP,U.S. Department of Defense,customers
+1,OSHKOSH CORP,DoD,customers
+4,OSHKOSH CORP,Company,customers
+7,OSHKOSH CORP,Quality Products and Customer Service,customers
+12,OSHKOSH CORP,People First Initiatives,customers
+16,OSHKOSH CORP,JLG,customers
+17,OSHKOSH CORP,Jerr-Dan,customers
+18,OSHKOSH CORP,Oshkosh Defense,customers
+21,OSHKOSH CORP,Pierce,customers
+26,OSHKOSH CORP,Oshkosh Equipment Finance,customers
+27,OSHKOSH CORP,LLC,customers
+28,OSHKOSH CORP,Pierce Financial Solutions,customers
+33,OSHKOSH CORP,Frontline,customers
+36,OSHKOSH CORP,McNeilus-,customers
+37,OSHKOSH CORP,CON‐E‐CO-,customers
+39,OSHKOSH CORP,Quality Management System,customers
+40,OSHKOSH CORP,CIMS,customers
+43,OSHKOSH CORP,Company’s,customers
+45,OSHKOSH CORP,Textron Inc.,customers
+47,OSHKOSH CORP,TAK-4,customers
+49,OSHKOSH CORP,JLTV,customers
+53,OSHKOSH CORP,PUC,customers
+55,OSHKOSH CORP,Command Zone,customers
+56,OSHKOSH CORP,Ascendant,customers
+62,OSHKOSH CORP,ASC,customers
+73,OSHKOSH CORP,FMS,customers
+79,OSHKOSH CORP,ASU,customers
+81,OSHKOSH CORP,Customer,customers
+84,OSHKOSH CORP,the U.S. Department of Defense,customers
+88,OSHKOSH CORP,CONSOLIDATED FINANCIAL,customers
+89,OSHKOSH CORP,the Financial Accounting Standards Board,customers
+90,OSHKOSH CORP,FASB,customers
+91,OSHKOSH CORP,Accounting Standards Update,customers
+111,OSHKOSH CORP,&,customers
+134,OSHKOSH CORP,the Export-Import Bank,customers
+135,OSHKOSH CORP,Overseas Private Investment Corporation,customers
+138,OSHKOSH CORP,External Customers Inter-,customers
+139,OSHKOSH CORP,Net Sales External Customers,customers
+140,OSHKOSH CORP,Net Sales External Customers Inter-,customers
+0,OSHKOSH CORP,Company,Sells to
+1,OSHKOSH CORP,JLTV,Sells to
+2,OSHKOSH CORP,DoD,Sells to
+0,OSHKOSH CORP,Company,dependent on
+0,NAVISTAR INTERNATIONAL CORP,Truck,Supply
+1,NAVISTAR INTERNATIONAL CORP,Navistar,Supply
+2,NAVISTAR INTERNATIONAL CORP,ADAS,Supply
+3,NAVISTAR INTERNATIONAL CORP,Ford,Supply
+4,NAVISTAR INTERNATIONAL CORP,Third Party Supplies,Supply
+6,NAVISTAR INTERNATIONAL CORP,Navistar Defense,Supply
+7,NAVISTAR INTERNATIONAL CORP,SG&A,Supply
+8,NAVISTAR INTERNATIONAL CORP,MaxxForce Advanced EGR,Supply
+10,NAVISTAR INTERNATIONAL CORP,Core,Supply
+11,NAVISTAR INTERNATIONAL CORP,Financial Services,Supply
+12,NAVISTAR INTERNATIONAL CORP,Manufacturing,Supply
+14,NAVISTAR INTERNATIONAL CORP,the Base Program Trust,Supply
+16,NAVISTAR INTERNATIONAL CORP,Trade,Supply
+17,NAVISTAR INTERNATIONAL CORP,ND Holdings,Supply
+18,NAVISTAR INTERNATIONAL CORP,LLC,Supply
+21,NAVISTAR INTERNATIONAL CORP,Retiree Supplemental Benefit Trust,Supply
+22,NAVISTAR INTERNATIONAL CORP,The Supplemental Trust,Supply
+23,NAVISTAR INTERNATIONAL CORP,the Supplemental Benefit Trust Profit Sharing Plan,Supply
+24,NAVISTAR INTERNATIONAL CORP,the Supplemental Benefit Program Committee,Supply
+25,NAVISTAR INTERNATIONAL CORP,"the ""Committee",Supply
+26,NAVISTAR INTERNATIONAL CORP,NI,Supply
+27,NAVISTAR INTERNATIONAL CORP,NIC,Supply
+28,NAVISTAR INTERNATIONAL CORP,Committee,Supply
+29,NAVISTAR INTERNATIONAL CORP,Company,Supply
+31,NAVISTAR INTERNATIONAL CORP,District Court,Supply
+32,NAVISTAR INTERNATIONAL CORP,Profit Sharing Complaint,Supply
+33,NAVISTAR INTERNATIONAL CORP,the Committee alleged the Company,Supply
+34,NAVISTAR INTERNATIONAL CORP,ERISA,Supply
+35,NAVISTAR INTERNATIONAL CORP,the U.S. Court of Appeals,Supply
+36,NAVISTAR INTERNATIONAL CORP,the 6th Circuit,Supply
+37,NAVISTAR INTERNATIONAL CORP,Court,Supply
+38,NAVISTAR INTERNATIONAL CORP,the Profit Sharing Complaint,Supply
+40,NAVISTAR INTERNATIONAL CORP,Supplemental Benefit Trust Profit Sharing Plan,Supply
+41,NAVISTAR INTERNATIONAL CORP,the Committee,Supply
+45,NAVISTAR INTERNATIONAL CORP,TRATON Group,Supply
+51,NAVISTAR INTERNATIONAL CORP,"the ""Stock Purchase Agreement",Supply
+52,NAVISTAR INTERNATIONAL CORP,Supplementary Data Financial,Supply
+53,NAVISTAR INTERNATIONAL CORP,the U.S. Securities and Exchange Commission,Supply
+0,NAVISTAR INTERNATIONAL CORP,MinimumMember,customers
+1,NAVISTAR INTERNATIONAL CORP,MaximumMember,customers
+6,NAVISTAR INTERNATIONAL CORP,FurnitureAndFixturesMember,customers
+8,NAVISTAR INTERNATIONAL CORP,TrademarksMember,customers
+10,NAVISTAR INTERNATIONAL CORP,I. Customer-Centric,customers
+11,NAVISTAR INTERNATIONAL CORP,Navistar,customers
+12,NAVISTAR INTERNATIONAL CORP,TRATON Group,customers
+14,NAVISTAR INTERNATIONAL CORP,Truck,customers
+16,NAVISTAR INTERNATIONAL CORP,International,customers
+18,NAVISTAR INTERNATIONAL CORP,IIAA,customers
+19,NAVISTAR INTERNATIONAL CORP,Financial Services,customers
+20,NAVISTAR INTERNATIONAL CORP,Navistar Capital,customers
+21,NAVISTAR INTERNATIONAL CORP,Third Party Supplies,customers
+22,NAVISTAR INTERNATIONAL CORP,Warranty Costs —Warranty,customers
+25,NAVISTAR INTERNATIONAL CORP,Debt Funding of Financial Services The Financial Services,customers
+26,NAVISTAR INTERNATIONAL CORP,"Navistar Financial, S.A. de C.V.",customers
+27,NAVISTAR INTERNATIONAL CORP,Sociedad Financiera de Objeto Multiple,customers
+28,NAVISTAR INTERNATIONAL CORP,NFM,customers
+29,NAVISTAR INTERNATIONAL CORP,Finance Receivables Finance,customers
+30,NAVISTAR INTERNATIONAL CORP,—Retail,customers
+31,NAVISTAR INTERNATIONAL CORP,Bank of Montreal,customers
+32,NAVISTAR INTERNATIONAL CORP,BMO,customers
+33,NAVISTAR INTERNATIONAL CORP,FASB,customers
+34,NAVISTAR INTERNATIONAL CORP,ASU,customers
+35,NAVISTAR INTERNATIONAL CORP,Revenue Recognition,customers
+40,NAVISTAR INTERNATIONAL CORP,Truck Contract Manufacturing,customers
+41,NAVISTAR INTERNATIONAL CORP,Parts Revenue,customers
+43,NAVISTAR INTERNATIONAL CORP,Customer Base and Relationships Trademarks,customers
+46,NAVISTAR INTERNATIONAL CORP,the Navistar Capital Operating Agreement,customers
+48,NAVISTAR INTERNATIONAL CORP,BMO Harris Bank N.A.,customers
+0,NAVISTAR INTERNATIONAL CORP,Truck,Sells to
+1,NAVISTAR INTERNATIONAL CORP,Navistar Defense,Sells to
+2,NAVISTAR INTERNATIONAL CORP,Financial Services,Sells to
+0,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Refining,Supply
+3,ICAHN ENTERPRISES HOLDINGS L.P.,the U.S. Department of Defense,Supply
+5,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Energy’s,Supply
+6,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive,Supply
+8,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive’s,Supply
+11,ICAHN ENTERPRISES HOLDINGS L.P.,Federal-Mogul LLC Federal-Mogul LLC,Supply
+12,ICAHN ENTERPRISES HOLDINGS L.P.,Report,Supply
+13,ICAHN ENTERPRISES HOLDINGS L.P.,Investment Funds,Supply
+14,ICAHN ENTERPRISES HOLDINGS L.P.,Investment Funds’,Supply
+15,ICAHN ENTERPRISES HOLDINGS L.P.,Energy,Supply
+18,ICAHN ENTERPRISES HOLDINGS L.P.,FIFO,Supply
+19,ICAHN ENTERPRISES HOLDINGS L.P.,Energy CVR Energy’s,Supply
+22,ICAHN ENTERPRISES HOLDINGS L.P.,the Board of Tropicana Entertainment Inc.,Supply
+23,ICAHN ENTERPRISES HOLDINGS L.P.,the Board of CVR Refining,Supply
+24,ICAHN ENTERPRISES HOLDINGS L.P.,"the Board of CVR Energy, Inc.",Supply
+25,ICAHN ENTERPRISES HOLDINGS L.P.,the Executive Committee of XO Holdings,Supply
+26,ICAHN ENTERPRISES HOLDINGS L.P.,the Board of its predecessors,Supply
+27,ICAHN ENTERPRISES HOLDINGS L.P.,Federal-Mogul LLC,Supply
+28,ICAHN ENTERPRISES HOLDINGS L.P.,the Board of Federal-Mogul LLC,Supply
+29,ICAHN ENTERPRISES HOLDINGS L.P.,"the Board of American Railcar Industries, Inc.",Supply
+30,ICAHN ENTERPRISES HOLDINGS L.P.,American Railcar Leasing LLC,Supply
+31,ICAHN ENTERPRISES HOLDINGS L.P.,WestPoint Home LLC,Supply
+32,ICAHN ENTERPRISES HOLDINGS L.P.,Cadus Corporation,Supply
+34,ICAHN ENTERPRISES HOLDINGS L.P.,Tropicana Entertainment Inc.,Supply
+35,ICAHN ENTERPRISES HOLDINGS L.P.,Herbalife Ltd.,Supply
+36,ICAHN ENTERPRISES HOLDINGS L.P.,the Executive Committee of American Railcar Leasing LLC,Supply
+37,ICAHN ENTERPRISES HOLDINGS L.P.,FCX Oil & Gas Inc.,Supply
+38,ICAHN ENTERPRISES HOLDINGS L.P.,Freeport-McMoRan Inc.,Supply
+40,ICAHN ENTERPRISES HOLDINGS L.P.,LP,Supply
+41,ICAHN ENTERPRISES HOLDINGS L.P.,MGM Holdings Inc.,Supply
+43,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Partners,Supply
+45,ICAHN ENTERPRISES HOLDINGS L.P.,"Viskase Companies, Inc.",Supply
+46,ICAHN ENTERPRISES HOLDINGS L.P.,Take-Two Interactive Software Inc.,Supply
+47,ICAHN ENTERPRISES HOLDINGS L.P.,the Board (from,Supply
+48,ICAHN ENTERPRISES HOLDINGS L.P.,"American Railcar Industries, Inc.",Supply
+50,ICAHN ENTERPRISES HOLDINGS L.P.,the Board (,Supply
+52,ICAHN ENTERPRISES HOLDINGS L.P.,LP Ferrous Resources Ltd,Supply
+53,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Enterprises,Supply
+54,ICAHN ENTERPRISES HOLDINGS L.P.,"CVR Energy, Inc.",Supply
+55,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive Group LLC,Supply
+56,ICAHN ENTERPRISES HOLDINGS L.P.,PSC Metals,Supply
+57,ICAHN ENTERPRISES HOLDINGS L.P.,LLC,Supply
+63,ICAHN ENTERPRISES HOLDINGS L.P.,Ferrous Resources Ltd,Supply
+66,ICAHN ENTERPRISES HOLDINGS L.P.,Insight Portfolio Group LLC,Supply
+67,ICAHN ENTERPRISES HOLDINGS L.P.,“Insight Portfolio Group”,Supply
+0,ICAHN ENTERPRISES HOLDINGS L.P.,Food Packaging,customers
+1,ICAHN ENTERPRISES HOLDINGS L.P.,Marketing and Distribution Customers,customers
+2,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Refining’s,customers
+3,ICAHN ENTERPRISES HOLDINGS L.P.,cooperatives,customers
+4,ICAHN ENTERPRISES HOLDINGS L.P.,Group 3,customers
+5,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Refining,customers
+7,ICAHN ENTERPRISES HOLDINGS L.P.,the New York Mercantile Exchange,customers
+8,ICAHN ENTERPRISES HOLDINGS L.P.,Oil Price Information Service,customers
+11,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Partners,customers
+12,ICAHN ENTERPRISES HOLDINGS L.P.,UAN,customers
+14,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive,customers
+15,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive’s,customers
+16,ICAHN ENTERPRISES HOLDINGS L.P.,"Products, Services",customers
+20,ICAHN ENTERPRISES HOLDINGS L.P.,Viskase’s,customers
+21,ICAHN ENTERPRISES HOLDINGS L.P.,Energy,customers
+25,ICAHN ENTERPRISES HOLDINGS L.P.,Holding Company’s,customers
+26,ICAHN ENTERPRISES HOLDINGS L.P.,Real Estate,customers
+28,ICAHN ENTERPRISES HOLDINGS L.P.,Energy and Automotive,customers
+31,ICAHN ENTERPRISES HOLDINGS L.P.,Food Packaging Our Food Packaging,customers
+32,ICAHN ENTERPRISES HOLDINGS L.P.,F.O.B.,customers
+34,ICAHN ENTERPRISES HOLDINGS L.P.,Home Fashion,customers
+35,ICAHN ENTERPRISES HOLDINGS L.P.,WPH,customers
+37,ICAHN ENTERPRISES HOLDINGS L.P.,ICAHN ENTERPRISES L.P.,customers
+38,ICAHN ENTERPRISES HOLDINGS L.P.,ICAHN ENTERPRISES HOLDINGS,customers
+39,ICAHN ENTERPRISES HOLDINGS L.P.,Customer’s Accounting for Implementation Costs Incurred in a,customers
+40,ICAHN ENTERPRISES HOLDINGS L.P.,NOTES,customers
+41,ICAHN ENTERPRISES HOLDINGS L.P.,CONSOLIDATED FINANCIAL,customers
+42,ICAHN ENTERPRISES HOLDINGS L.P.,Plant and Equipment,customers
+0,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive’s,Sells to
+1,ICAHN ENTERPRISES HOLDINGS L.P.,ACF,Sells to
+0,ACCURIDE CORP,Brillion Foundry,Supply
+1,ACCURIDE CORP,PACCAR,Supply
+2,ACCURIDE CORP,Daimler Truck North America's,Supply
+3,ACCURIDE CORP,the Association of Manufacturing Excellence,Supply
+4,ACCURIDE CORP,AME,Supply
+5,ACCURIDE CORP,OEM,Supply
+6,ACCURIDE CORP,the United States International Trade Commission,Supply
+7,ACCURIDE CORP,the United States Department of Commerce,Supply
+8,ACCURIDE CORP,OSHA,Supply
+9,ACCURIDE CORP,Commercial Vehicle Suppliers,Supply
+10,ACCURIDE CORP,"Meritor, Inc.",Supply
+11,ACCURIDE CORP,"Commercial Vehicle Group, Inc.",Supply
+12,ACCURIDE CORP,"Cummins, Inc.",Supply
+13,ACCURIDE CORP,Eaton Corporation,Supply
+17,ACCURIDE CORP,Gianetti,Supply
+0,ACCURIDE CORP,Daimler Truck North America,customers
+1,ACCURIDE CORP,LLC,customers
+2,ACCURIDE CORP,Western Star,customers
+3,ACCURIDE CORP,"PACCAR, Inc.",customers
+4,ACCURIDE CORP,Kenworth,customers
+5,ACCURIDE CORP,"Navistar, Inc.",customers
+6,ACCURIDE CORP,International,customers
+7,ACCURIDE CORP,Volvo Group North America,customers
+8,ACCURIDE CORP,Volvo,customers
+9,ACCURIDE CORP,Mack,customers
+10,ACCURIDE CORP,Daimler Trucks Europe,customers
+11,ACCURIDE CORP,Mercedes,customers
+12,ACCURIDE CORP,Volvo Group Europe,customers
+14,ACCURIDE CORP,Renault,customers
+15,ACCURIDE CORP,Industrial Vehicle Corporation,customers
+16,ACCURIDE CORP,Iveco,customers
+18,ACCURIDE CORP,Great Dane Limited Partnership,customers
+19,ACCURIDE CORP,Utility Trailer Manufacturing Company,customers
+20,ACCURIDE CORP,Wabash National,customers
+21,ACCURIDE CORP,General Motors Corporation,customers
+22,ACCURIDE CORP,General Motors,customers
+23,ACCURIDE CORP,Brillion Foundry,customers
+24,ACCURIDE CORP,OEM,customers
+25,ACCURIDE CORP,DTNA,customers
+26,ACCURIDE CORP,Navistar,customers
+27,ACCURIDE CORP,Volvo/Mack,customers
+28,ACCURIDE CORP,PACCAR,customers
+29,ACCURIDE CORP,Advanced Wheels,customers
+31,ACCURIDE CORP,Daimler Truck North America's,customers
+32,ACCURIDE CORP,the Association of Manufacturing Excellence,customers
+33,ACCURIDE CORP,AME,customers
+35,ACCURIDE CORP,Daimler,customers
+36,ACCURIDE CORP,Gianetti,customers
+38,ACCURIDE CORP,OSHA,customers
+58,ACCURIDE CORP,"Wabash National, Inc.",customers
+60,ACCURIDE CORP,Shifts,customers
+62,ACCURIDE CORP,Accuride,customers
+63,ACCURIDE CORP,Brillion,customers
+65,ACCURIDE CORP,the Financial Accounting Standards Board,customers
+66,ACCURIDE CORP,FASB,customers
+67,ACCURIDE CORP,ASU,customers
+0,LEAR CORP,UT Automotive,Supply
+1,LEAR CORP,Guilford Mills,Supply
+2,LEAR CORP,Report,Supply
+3,LEAR CORP,Tier 2,Supply
+4,LEAR CORP,the European Union,Supply
+5,LEAR CORP,the U.S. Export Administration Act,Supply
+9,LEAR CORP,Ernst & Young LLP,Supply
+10,LEAR CORP,Independent Registered Public Accounting Firm 51 Consolidated Balance Sheets,Supply
+11,LEAR CORP,Company,Supply
+12,LEAR CORP,Pre-Production Costs Related to Long-Term Supply Agreements,Supply
+13,LEAR CORP,E&D,Supply
+19,LEAR CORP,Company’s,Supply
+20,LEAR CORP,Internal Control over Financial Reporting,Supply
+22,LEAR CORP,The Bank of New York Mellon Trust Company,Supply
+23,LEAR CORP,Trustee,Supply
+24,LEAR CORP,the Company’s Current Report on Form,Supply
+29,LEAR CORP,U.S. Bank National Association,Supply
+0,LEAR CORP,Connectivity - Customer,customers
+1,LEAR CORP,Harmonic Precision,customers
+2,LEAR CORP,General Motors,customers
+3,LEAR CORP,Daimler,customers
+4,LEAR CORP,Volkswagen,customers
+5,LEAR CORP,Ford,customers
+6,LEAR CORP,Fiat,customers
+8,LEAR CORP,Renault,customers
+9,LEAR CORP,Nissan,customers
+11,LEAR CORP,Jaguar Land Rover,customers
+15,LEAR CORP,Report,customers
+17,LEAR CORP,the European Union,customers
+20,LEAR CORP,Company,customers
+21,LEAR CORP,Honeywell Aerospace,customers
+22,LEAR CORP,Honeywell International Inc.,customers
+23,LEAR CORP,the Electronic Solutions Strategic Business Unit,customers
+25,LEAR CORP,"Aerospace Marketing, Product Management",customers
+26,LEAR CORP,Avionics Systems Marketing and Product Management,customers
+27,LEAR CORP,Global Business Aviation Sales,customers
+28,LEAR CORP,EMEAI Customer Support,customers
+29,LEAR CORP,North American Seat Systems Group,customers
+30,LEAR CORP,North American Customer Group,customers
+31,LEAR CORP,European Customer Focused Division,customers
+32,LEAR CORP,General Motors Division,customers
+36,LEAR CORP,Company’s,customers
+46,LEAR CORP,E&D,customers
+47,LEAR CORP,Plant and Equipment Property,customers
+57,LEAR CORP,Engineering and Development Costs,customers
+58,LEAR CORP,Xevo,customers
+59,LEAR CORP,Antolin Seating's,customers
+0,LEAR CORP,our European Union,Sells to
+0,LEAR CORP,the European Union,dependent on
+0,WILLIAMS CONTROLS INC,ISO 14001 Environmental Management System,Supply
+1,WILLIAMS CONTROLS INC,Donnelly Company,Supply
+2,WILLIAMS CONTROLS INC,Company,Supply
+4,WILLIAMS CONTROLS INC,Company’s,Supply
+5,WILLIAMS CONTROLS INC,the Board of Directors,Supply
+6,WILLIAMS CONTROLS INC,Dolphin Asset Management  Corporation,Supply
+7,WILLIAMS CONTROLS INC,JP Morgan Investment Managers,Supply
+10,WILLIAMS CONTROLS INC,Johnson Controls,Supply
+0,WILLIAMS CONTROLS INC,The Volvo Group,customers
+1,WILLIAMS CONTROLS INC,"Paccar, Inc.",customers
+2,WILLIAMS CONTROLS INC,Daimler Trucks NA,customers
+3,WILLIAMS CONTROLS INC,"Caterpillar, Inc.",customers
+4,WILLIAMS CONTROLS INC,Navistar International Corporation,customers
+5,WILLIAMS CONTROLS INC,Bendix Commercial Vehicle Systems,customers
+6,WILLIAMS CONTROLS INC,NAFTA,customers
+11,WILLIAMS CONTROLS INC,Geographic Information Geographic,customers
+12,WILLIAMS CONTROLS INC,Company,customers
+14,WILLIAMS CONTROLS INC,Company’s,customers
+15,WILLIAMS CONTROLS INC,the Board of Directors,customers
+0,WILLIAMS CONTROLS INC,NAFTA,Sells to
+0,GENTHERM Inc,Electronics Gentherm,Supply
+1,GENTHERM Inc,Gentherm,Supply
+2,GENTHERM Inc,CCS,Supply
+3,GENTHERM Inc,Company’s,Supply
+4,GENTHERM Inc,Adient,Supply
+7,GENTHERM Inc,I.G. Bauerhin GmbH,Supply
+8,GENTHERM Inc,Kongsberg Automotive ASA,Supply
+9,GENTHERM Inc,ElringKlinger AG,Supply
+10,GENTHERM Inc,OEMS,Supply
+11,GENTHERM Inc,Euro,Supply
+12,GENTHERM Inc,the Hungarian Forint,Supply
+13,GENTHERM Inc,the Ukrainian Hryvnia,Supply
+14,GENTHERM Inc,the Mexican Peso,Supply
+15,GENTHERM Inc,Revenues The Company,Supply
+16,GENTHERM Inc,Company,Supply
+18,GENTHERM Inc,Supplemental Pro Forma Information,Supply
+0,GENTHERM Inc,MaximumMember,customers
+1,GENTHERM Inc,MinimumMember,customers
+3,GENTHERM Inc,CCS,customers
+4,GENTHERM Inc,Bosch Automotive,customers
+5,GENTHERM Inc,OEMS,customers
+6,GENTHERM Inc,General Motors,customers
+7,GENTHERM Inc,Gentherm,customers
+8,GENTHERM Inc,Euro,customers
+9,GENTHERM Inc,the Hungarian Forint,customers
+10,GENTHERM Inc,the Ukrainian Hryvnia,customers
+11,GENTHERM Inc,the Mexican Peso,customers
+12,GENTHERM Inc,Germany Customer Service Center and Research and Development,customers
+13,GENTHERM Inc,CSZ-IC,customers
+14,GENTHERM Inc,GPT,customers
+15,GENTHERM Inc,Stihler,customers
+16,GENTHERM Inc,Company,customers
+17,GENTHERM Inc,Revenues The Company,customers
+18,GENTHERM Inc,LTA,customers
+40,GENTHERM Inc,ASU,customers
+0,GENTHERM Inc,Bosch Automotive,Sells to
+0,GENTHERM Inc,OEMS,dependent on
+1,GENTHERM Inc,FDA,dependent on
+0,BORGWARNER INC,MaximumMember,Supply
+1,BORGWARNER INC,BuildingMember,Supply
+2,BORGWARNER INC,MinimumMember,Supply
+5,BORGWARNER INC,the Securities and Exchange Commission,Supply
+6,BORGWARNER INC,Company,Supply
+7,BORGWARNER INC,BMW,Supply
+8,BORGWARNER INC,Daimler,Supply
+9,BORGWARNER INC,Fiat,Supply
+10,BORGWARNER INC,Ford,Supply
+11,BORGWARNER INC,General Motors,Supply
+12,BORGWARNER INC,Hyundai,Supply
+13,BORGWARNER INC,Jaguar Land Rover,Supply
+14,BORGWARNER INC,Renault,Supply
+15,BORGWARNER INC,Volkswagen,Supply
+16,BORGWARNER INC,Volvo,Supply
+17,BORGWARNER INC,Caterpillar,Supply
+19,BORGWARNER INC,Navistar International,Supply
+25,BORGWARNER INC,"Trailer, Components",Supply
+26,BORGWARNER INC,"Meritor, Inc.",Supply
+27,BORGWARNER INC,Global Head of Powertrain Systems and Advanced Engineering,Supply
+28,BORGWARNER INC,OEM,Supply
+35,BORGWARNER INC,Engineering,Supply
+41,BORGWARNER INC,"Romeo Systems, Inc.",Supply
+52,BORGWARNER INC,Supplementary Data,Supply
+53,BORGWARNER INC,The Bank of New York Mellon Trust Company,Supply
+55,BORGWARNER INC,the Company's Current Report on Form,Supply
+56,BORGWARNER INC,Company and Deutsche Bank Trust Company Americas,Supply
+0,BORGWARNER INC,LandMember,customers
+2,BORGWARNER INC,BuildingMember,customers
+3,BORGWARNER INC,EngineMember,customers
+4,BORGWARNER INC,DrivetrainMember,customers
+12,BORGWARNER INC,the Securities and Exchange Commission,customers
+13,BORGWARNER INC,Company,customers
+15,BORGWARNER INC,"Sevcon, Inc.",customers
+16,BORGWARNER INC,Product Lines,customers
+17,BORGWARNER INC,Company’s,customers
+18,BORGWARNER INC,Ford,customers
+19,BORGWARNER INC,Volkswagen,customers
+21,BORGWARNER INC,OEM,customers
+32,BORGWARNER INC,Fiat,customers
+33,BORGWARNER INC,General Motors,customers
+34,BORGWARNER INC,"the United Automobile, Aerospace and Agricultural Implement Workers of America",customers
+38,BORGWARNER INC,LRP,customers
+43,BORGWARNER INC,Engineering,customers
+56,BORGWARNER INC,Sevcon,customers
+60,BORGWARNER INC,Major Customers Consolidated,customers
+0,BORGWARNER INC,Company’s,Sells to
+1,BORGWARNER INC,Company,Sells to
+2,BORGWARNER INC,Major Customers Consolidated,Sells to
+3,BORGWARNER INC,Ford,Sells to
+4,BORGWARNER INC,Volkswagen,Sells to
+0,BORGWARNER INC,Company,dependent on
+0,MNC Corp /DE/,Sharp,Supply
+1,MNC Corp /DE/,RCA,Supply
+2,MNC Corp /DE/,Sony,Supply
+4,MNC Corp /DE/,General Electric,Supply
+5,MNC Corp /DE/,KitchenAid,Supply
+6,MNC Corp /DE/,Modern Maid,Supply
+7,MNC Corp /DE/,Caterpillar,Supply
+8,MNC Corp /DE/,Allison,Supply
+9,MNC Corp /DE/,Ford,Supply
+10,MNC Corp /DE/,Workhorse,Supply
+11,MNC Corp /DE/,Company’s,Supply
+12,MNC Corp /DE/,CCP,Supply
+13,MNC Corp /DE/,Cummins Engine Company,Supply
+14,MNC Corp /DE/,Company,Supply
+23,MNC Corp /DE/,the Recreation Vehicle Industry Association,Supply
+24,MNC Corp /DE/,RVIA,Supply
+25,MNC Corp /DE/,Monaco Coach Corporation,Supply
+26,MNC Corp /DE/,Research and Development Costs Research,Supply
+0,MNC Corp /DE/,Company,customers
+6,MNC Corp /DE/,Cummins Engine Company,customers
+9,MNC Corp /DE/,Company’s,customers
+14,MNC Corp /DE/,MFS,customers
+15,MNC Corp /DE/,GECDF,customers
+16,MNC Corp /DE/,GECF,customers
+0,MNC Corp /DE/,Company’s,Sells to
+1,MNC Corp /DE/,Lazydays RV Center,Sells to
+2,MNC Corp /DE/,Lazy Days RV Center,Sells to
+4,MNC Corp /DE/,FEMA,Sells to
+0,MOTORCAR PARTS AMERICA INC,OES,Supply
+1,MOTORCAR PARTS AMERICA INC,OE,Supply
+3,MOTORCAR PARTS AMERICA INC,Cores,Supply
+4,MOTORCAR PARTS AMERICA INC,Core,Supply
+7,MOTORCAR PARTS AMERICA INC,Company Background and Organization,Supply
+8,MOTORCAR PARTS AMERICA INC,Company’s,Supply
+9,MOTORCAR PARTS AMERICA INC,Company,Supply
+10,MOTORCAR PARTS AMERICA INC,Wheel,Supply
+0,MOTORCAR PARTS AMERICA INC,Cores,customers
+3,MOTORCAR PARTS AMERICA INC,Remanufactured Cores,customers
+5,MOTORCAR PARTS AMERICA INC,the Securities and Exchange Commission,customers
+6,MOTORCAR PARTS AMERICA INC,SEC,customers
+7,MOTORCAR PARTS AMERICA INC,Xtreme ®,customers
+8,MOTORCAR PARTS AMERICA INC,D&V Electronics,customers
+9,MOTORCAR PARTS AMERICA INC,E&M Power,customers
+10,MOTORCAR PARTS AMERICA INC,Dixie Electric,customers
+11,MOTORCAR PARTS AMERICA INC,DelStar ®,customers
+12,MOTORCAR PARTS AMERICA INC,Select Power SourceTM,customers
+13,MOTORCAR PARTS AMERICA INC,OES,customers
+14,MOTORCAR PARTS AMERICA INC,Customer Concentration,customers
+15,MOTORCAR PARTS AMERICA INC,AutoZone,customers
+16,MOTORCAR PARTS AMERICA INC,Impact on Working Capital,customers
+17,MOTORCAR PARTS AMERICA INC,Remanufactured Core,customers
+20,MOTORCAR PARTS AMERICA INC,Core,customers
+22,MOTORCAR PARTS AMERICA INC,ASC,customers
+49,MOTORCAR PARTS AMERICA INC,Revenue Recognition,customers
+50,MOTORCAR PARTS AMERICA INC,General Right of Return Customers,customers
+57,MOTORCAR PARTS AMERICA INC,Multi-year,customers
+60,MOTORCAR PARTS AMERICA INC,Company,customers
+76,MOTORCAR PARTS AMERICA INC,Upfront,customers
+79,MOTORCAR PARTS AMERICA INC,Remanufactured Cores the Company,customers
+119,MOTORCAR PARTS AMERICA INC,the Remanufactured Cores,customers
+133,MOTORCAR PARTS AMERICA INC,Unit,customers
+134,MOTORCAR PARTS AMERICA INC,Prepaid,customers
+135,MOTORCAR PARTS AMERICA INC,Remanufactured,customers
+136,MOTORCAR PARTS AMERICA INC,RGA,customers
+148,MOTORCAR PARTS AMERICA INC,Long-Term Customer Contracts,customers
+150,MOTORCAR PARTS AMERICA INC,Company’s,customers
+0,MOTORCAR PARTS AMERICA INC,Cores,Sells to
+1,MOTORCAR PARTS AMERICA INC,the Securities and Exchange Commission,Sells to
+2,MOTORCAR PARTS AMERICA INC,SEC,Sells to
+3,MOTORCAR PARTS AMERICA INC,AutoZone,Sells to
+0,STRATTEC SECURITY CORP,WITTE Automotive,Supply
+1,STRATTEC SECURITY CORP,ADAC Plastics Inc.,Supply
+2,STRATTEC SECURITY CORP,ADAC Automotive,Supply
+3,STRATTEC SECURITY CORP,Delphi Corporation’s Power Products Group,Supply
+5,STRATTEC SECURITY CORP,Tier 1,Supply
+6,STRATTEC SECURITY CORP,Toyota,Supply
+7,STRATTEC SECURITY CORP,Honda,Supply
+8,STRATTEC SECURITY CORP,WITTE-Velbert GmbH,Supply
+9,STRATTEC SECURITY CORP,STRATTEC,Supply
+10,STRATTEC SECURITY CORP,the United Auto Workers,Supply
+11,STRATTEC SECURITY CORP,General Motors’,Supply
+12,STRATTEC SECURITY CORP,the VAST Automotive Group,Supply
+14,STRATTEC SECURITY CORP,Fiat,Supply
+15,STRATTEC SECURITY CORP,General Motors Company,Supply
+16,STRATTEC SECURITY CORP,Ford Motor Company,Supply
+17,STRATTEC SECURITY CORP,Hyundai,Supply
+22,STRATTEC SECURITY CORP,Kia,Supply
+23,STRATTEC SECURITY CORP,Rabbi Trust,Supply
+27,STRATTEC SECURITY CORP,Consolidated Balance Sheets,Supply
+28,STRATTEC SECURITY CORP,Pre-Production Engineering Costs Related to Long-Term Supply Arrangements,Supply
+32,STRATTEC SECURITY CORP,WITTE,Supply
+33,STRATTEC SECURITY CORP,ADAC,Supply
+34,STRATTEC SECURITY CORP,Delphi Corporation,Supply
+0,STRATTEC SECURITY CORP,Company’s,customers
+1,STRATTEC SECURITY CORP,STRATTEC,customers
+2,STRATTEC SECURITY CORP,WITTE,customers
+3,STRATTEC SECURITY CORP,ADAC,customers
+4,STRATTEC SECURITY CORP,the “VAST Automotive Group”,customers
+5,STRATTEC SECURITY CORP,Vehicle Access Systems Technology LLC herein,customers
+7,STRATTEC SECURITY CORP,Automotive Group,customers
+9,STRATTEC SECURITY CORP,Original Equipment Manufacturers’,customers
+11,STRATTEC SECURITY CORP,Fiat,customers
+12,STRATTEC SECURITY CORP,General Motors Company,customers
+13,STRATTEC SECURITY CORP,Ford Motor Company,customers
+14,STRATTEC SECURITY CORP,STRATTEC de Mexico,customers
+15,STRATTEC SECURITY CORP,ADAC-STRATTEC de Mexico,customers
+18,STRATTEC SECURITY CORP,Tier 1,customers
+19,STRATTEC SECURITY CORP,OEM,customers
+21,STRATTEC SECURITY CORP,Engineering Program Managers,customers
+22,STRATTEC SECURITY CORP,Customer Application Engineers,customers
+23,STRATTEC SECURITY CORP,General Motors,customers
+24,STRATTEC SECURITY CORP,Ford,customers
+26,STRATTEC SECURITY CORP,Service,customers
+27,STRATTEC SECURITY CORP,Aftermarket,customers
+29,STRATTEC SECURITY CORP,Product Engineering Focus,customers
+32,STRATTEC SECURITY CORP,Application Engineers,customers
+33,STRATTEC SECURITY CORP,WITTE-Velbert GmbH,customers
+36,STRATTEC SECURITY CORP,Fiat/Chrysler,customers
+37,STRATTEC SECURITY CORP,Volkswagen,customers
+38,STRATTEC SECURITY CORP,Honda,customers
+39,STRATTEC SECURITY CORP,Toyota,customers
+40,STRATTEC SECURITY CORP,Renault,customers
+41,STRATTEC SECURITY CORP,Nissan,customers
+42,STRATTEC SECURITY CORP,Hyundai,customers
+43,STRATTEC SECURITY CORP,this Management Group,customers
+44,STRATTEC SECURITY CORP,Vehicle Content,customers
+52,STRATTEC SECURITY CORP,New Domestic,customers
+54,STRATTEC SECURITY CORP,Michigan Sales and Engineering Office,customers
+55,STRATTEC SECURITY CORP,"Detroit Customer Area 62,736",customers
+57,STRATTEC SECURITY CORP,United Auto Workers,customers
+58,STRATTEC SECURITY CORP,the United States Government,customers
+64,STRATTEC SECURITY CORP,"Honda of America Manufacturing, Inc.",customers
+66,STRATTEC SECURITY CORP,Capital Resources Outstanding Receivable Balances,customers
+68,STRATTEC SECURITY CORP,LLC,customers
+71,STRATTEC SECURITY CORP,the Securities and Exchange Commission,customers
+72,STRATTEC SECURITY CORP,INVESTMENT IN JOINT VENTURES,customers
+79,STRATTEC SECURITY CORP,FASB,customers
+81,STRATTEC SECURITY CORP,Jingzhou Co. Ltd.,customers
+0,STRATTEC SECURITY CORP,Tier 1,Sells to
+1,STRATTEC SECURITY CORP,OEM,Sells to
+3,STRATTEC SECURITY CORP,Vehicle Content,Sells to
+4,STRATTEC SECURITY CORP,General Motors Company,Sells to
+5,STRATTEC SECURITY CORP,Ford Motor Company,Sells to
+6,STRATTEC SECURITY CORP,Fiat,Sells to
+10,STRATTEC SECURITY CORP,Hyundai,Sells to
+14,STRATTEC SECURITY CORP,"Honda of America Manufacturing, Inc.",Sells to
+15,STRATTEC SECURITY CORP,Volkswagen,Sells to
+17,STRATTEC SECURITY CORP,Kia,Sells to
+18,STRATTEC SECURITY CORP,SAL LLC,Sells to
+0,"PROLIANCE INTERNATIONAL, INC.",The Allen Group Inc.,Supply
+1,"PROLIANCE INTERNATIONAL, INC.",G&O,Supply
+2,"PROLIANCE INTERNATIONAL, INC.",Modine Aftermarket,Supply
+3,"PROLIANCE INTERNATIONAL, INC.",Domestic,Supply
+4,"PROLIANCE INTERNATIONAL, INC.",International,Supply
+5,"PROLIANCE INTERNATIONAL, INC.",NRF,Supply
+6,"PROLIANCE INTERNATIONAL, INC.",Air Conditioning Parts and Supplies,Supply
+7,"PROLIANCE INTERNATIONAL, INC.",Autozone,Supply
+8,"PROLIANCE INTERNATIONAL, INC.",Four Seasons,Supply
+9,"PROLIANCE INTERNATIONAL, INC.",Standard Motor Products     Inc.,Supply
+10,"PROLIANCE INTERNATIONAL, INC.",Luvata,Supply
+12,"PROLIANCE INTERNATIONAL, INC.",Modine,Supply
+13,"PROLIANCE INTERNATIONAL, INC.",Company,Supply
+0,"PROLIANCE INTERNATIONAL, INC.",Domestic,customers
+1,"PROLIANCE INTERNATIONAL, INC.",NRF,customers
+2,"PROLIANCE INTERNATIONAL, INC.",MexPar,customers
+3,"PROLIANCE INTERNATIONAL, INC.",Autozone,customers
+5,"PROLIANCE INTERNATIONAL, INC.",Nuevo Laredo,customers
+9,"PROLIANCE INTERNATIONAL, INC.",International,customers
+10,"PROLIANCE INTERNATIONAL, INC.",Company,customers
+13,"PROLIANCE INTERNATIONAL, INC.",Company’s,customers
+17,"PROLIANCE INTERNATIONAL, INC.",the Southaven Casualty Event,customers
+0,"PROLIANCE INTERNATIONAL, INC.",Autozone,Sells to
+4,"PROLIANCE INTERNATIONAL, INC.",Domestic,Sells to
+5,"PROLIANCE INTERNATIONAL, INC.",International,Sells to
+0,"Acacia Diversified Holdings, Inc.",EMT,Supply
+1,"Acacia Diversified Holdings, Inc.",Company,Supply
+2,"Acacia Diversified Holdings, Inc.",MariJ Pharma depends,Supply
+3,"Acacia Diversified Holdings, Inc.",MariJ Pharma,Supply
+6,"Acacia Diversified Holdings, Inc.",FDA,Supply
+13,"Acacia Diversified Holdings, Inc.",the Public Company Accounting Oversight Board,Supply
+15,"Acacia Diversified Holdings, Inc.",the Board of Directors,Supply
+0,"Acacia Diversified Holdings, Inc.",EMT,customers
+1,"Acacia Diversified Holdings, Inc.",MariJ Pharma's,customers
+2,"Acacia Diversified Holdings, Inc.",USDA,customers
+3,"Acacia Diversified Holdings, Inc.",WNC Hemp,customers
+4,"Acacia Diversified Holdings, Inc.","CFH, Inc.",customers
+5,"Acacia Diversified Holdings, Inc.",CBD Rx,customers
+6,"Acacia Diversified Holdings, Inc.","Precision Cultivation, Inc.",customers
+7,"Acacia Diversified Holdings, Inc.","Blue Circle Development, Inc.",customers
+8,"Acacia Diversified Holdings, Inc.",ASU,customers
+9,"Acacia Diversified Holdings, Inc.",Company,customers
+10,"Acacia Diversified Holdings, Inc.",Company’s,customers
+12,"Acacia Diversified Holdings, Inc.",FASB,customers
+0,"Acacia Diversified Holdings, Inc.",Company,Sells to
+0,"Cang Bao Tian Xia International Art Trade Center, Inc.",each Penny Stock,customers
+1,"Cang Bao Tian Xia International Art Trade Center, Inc.",SEC,customers
+0,"Cang Bao Tian Xia International Art Trade Center, Inc.",Company,dependent on
+1,"Cang Bao Tian Xia International Art Trade Center, Inc.",Management,dependent on
+0,DURA AUTOMOTIVE SYSTEMS INC,U.S. Bank Trust National Association,Supply
+1,DURA AUTOMOTIVE SYSTEMS INC,The First National Bank of Chicago,Supply
+2,DURA AUTOMOTIVE SYSTEMS INC,Co-Chairman,Supply
+3,DURA AUTOMOTIVE SYSTEMS INC,Asahi Tec Corporation,Supply
+4,DURA AUTOMOTIVE SYSTEMS INC,Metaldyne Corporation,Supply
+5,DURA AUTOMOTIVE SYSTEMS INC,the Federal Reserve Bank of Chicago,Supply
+6,DURA AUTOMOTIVE SYSTEMS INC,Volkswagen,Supply
+7,DURA AUTOMOTIVE SYSTEMS INC,GM,Supply
+8,DURA AUTOMOTIVE SYSTEMS INC,Ford,Supply
+9,DURA AUTOMOTIVE SYSTEMS INC,BMW,Supply
+10,DURA AUTOMOTIVE SYSTEMS INC,PSA,Supply
+11,DURA AUTOMOTIVE SYSTEMS INC,Peugeot,Supply
+12,DURA AUTOMOTIVE SYSTEMS INC,Renault,Supply
+13,DURA AUTOMOTIVE SYSTEMS INC,Daimler,Supply
+16,DURA AUTOMOTIVE SYSTEMS INC,Chrysler,Supply
+17,DURA AUTOMOTIVE SYSTEMS INC,Johnson Controls,Supply
+18,DURA AUTOMOTIVE SYSTEMS INC,ISO/TS,Supply
+19,DURA AUTOMOTIVE SYSTEMS INC,the DaimlerChrysler Gold Award,Supply
+20,DURA AUTOMOTIVE SYSTEMS INC,DaimlerChrysler,Supply
+21,DURA AUTOMOTIVE SYSTEMS INC,the Blackbelt Project,Supply
+22,DURA AUTOMOTIVE SYSTEMS INC,Honda,Supply
+23,DURA AUTOMOTIVE SYSTEMS INC,Nissan,Supply
+24,DURA AUTOMOTIVE SYSTEMS INC,Subaru,Supply
+25,DURA AUTOMOTIVE SYSTEMS INC,Toyota,Supply
+27,DURA AUTOMOTIVE SYSTEMS INC,OEM,Supply
+28,DURA AUTOMOTIVE SYSTEMS INC,Tier,Supply
+35,DURA AUTOMOTIVE SYSTEMS INC,Company,Supply
+36,DURA AUTOMOTIVE SYSTEMS INC,VM,Supply
+39,DURA AUTOMOTIVE SYSTEMS INC,Debtors’,Supply
+42,DURA AUTOMOTIVE SYSTEMS INC,Asahi Tec,Supply
+45,DURA AUTOMOTIVE SYSTEMS INC,Executive,Supply
+46,DURA AUTOMOTIVE SYSTEMS INC,CFO,Supply
+49,DURA AUTOMOTIVE SYSTEMS INC,the Board of Directors,Supply
+50,DURA AUTOMOTIVE SYSTEMS INC,the Audit Committee for Meridian Corporation,Supply
+51,DURA AUTOMOTIVE SYSTEMS INC,Bendix Commercial Vehicle Systems,Supply
+52,DURA AUTOMOTIVE SYSTEMS INC,Knorr-Bremse Group,Supply
+53,DURA AUTOMOTIVE SYSTEMS INC,Dura,Supply
+55,DURA AUTOMOTIVE SYSTEMS INC,the Securities and Exchange Commission,Supply
+56,DURA AUTOMOTIVE SYSTEMS INC,SEC,Supply
+57,DURA AUTOMOTIVE SYSTEMS INC,Old Dura,Supply
+59,DURA AUTOMOTIVE SYSTEMS INC,Dura Operating Corp.,Supply
+60,DURA AUTOMOTIVE SYSTEMS INC,"Dura Automotive Systems, Inc.",Supply
+61,DURA AUTOMOTIVE SYSTEMS INC,the Subsidiary Guarantors,Supply
+66,DURA AUTOMOTIVE SYSTEMS INC,Company’s Quarterly Report,Supply
+70,DURA AUTOMOTIVE SYSTEMS INC,Euros,Supply
+76,DURA AUTOMOTIVE SYSTEMS INC,"Dura Automotive Systems Cable Operations, Inc.",Supply
+77,DURA AUTOMOTIVE SYSTEMS INC,Universal Tool & Stamping Company Inc.,Supply
+78,DURA AUTOMOTIVE SYSTEMS INC,"Adwest Electronics, Inc.",Supply
+79,DURA AUTOMOTIVE SYSTEMS INC,Dura Automotive Systems,Supply
+80,DURA AUTOMOTIVE SYSTEMS INC,"Indiana, Inc.",Supply
+81,DURA AUTOMOTIVE SYSTEMS INC,Atwood Automotive Inc.,Supply
+82,DURA AUTOMOTIVE SYSTEMS INC,"Mark I Molded Plastics of Tennessee, Inc.",Supply
+83,DURA AUTOMOTIVE SYSTEMS INC,"Atwood Mobile Products, Inc.",Supply
+85,DURA AUTOMOTIVE SYSTEMS INC,"Creation Group Holdings, Inc.",Supply
+86,DURA AUTOMOTIVE SYSTEMS INC,"Creation Group, Inc.",Supply
+87,DURA AUTOMOTIVE SYSTEMS INC,Dura G.P.,Supply
+91,DURA AUTOMOTIVE SYSTEMS INC,"Universal Tool & Stamping Company, Inc.",Supply
+98,DURA AUTOMOTIVE SYSTEMS INC,BNY Midwest Trust Company,Supply
+0,DURA AUTOMOTIVE SYSTEMS INC,Debtors,customers
+4,DURA AUTOMOTIVE SYSTEMS INC,Ford,customers
+5,DURA AUTOMOTIVE SYSTEMS INC,Volkswagen,customers
+6,DURA AUTOMOTIVE SYSTEMS INC,GM,customers
+7,DURA AUTOMOTIVE SYSTEMS INC,Chrysler,customers
+8,DURA AUTOMOTIVE SYSTEMS INC,BMW,customers
+9,DURA AUTOMOTIVE SYSTEMS INC,ISO/TS,customers
+10,DURA AUTOMOTIVE SYSTEMS INC,the DaimlerChrysler Gold Award,customers
+11,DURA AUTOMOTIVE SYSTEMS INC,DaimlerChrysler,customers
+12,DURA AUTOMOTIVE SYSTEMS INC,the Blackbelt Project,customers
+13,DURA AUTOMOTIVE SYSTEMS INC,Honda,customers
+14,DURA AUTOMOTIVE SYSTEMS INC,Nissan,customers
+15,DURA AUTOMOTIVE SYSTEMS INC,Subaru,customers
+16,DURA AUTOMOTIVE SYSTEMS INC,Toyota,customers
+18,DURA AUTOMOTIVE SYSTEMS INC,PPAP,customers
+21,DURA AUTOMOTIVE SYSTEMS INC,General Motors,customers
+32,DURA AUTOMOTIVE SYSTEMS INC,Company,customers
+39,DURA AUTOMOTIVE SYSTEMS INC,Debtors’,customers
+0,DURA AUTOMOTIVE SYSTEMS INC,Ford,Sells to
+1,DURA AUTOMOTIVE SYSTEMS INC,General Motors,Sells to
+0,DURA AUTOMOTIVE SYSTEMS INC,Ford,dependent on
+1,DURA AUTOMOTIVE SYSTEMS INC,Volkswagen,dependent on
+2,DURA AUTOMOTIVE SYSTEMS INC,General Motors,dependent on
+3,DURA AUTOMOTIVE SYSTEMS INC,GM,dependent on
+4,DURA AUTOMOTIVE SYSTEMS INC,Chrysler,dependent on
+0,PURADYN FILTER TECHNOLOGIES INC,Oil & Gas,Supply
+1,PURADYN FILTER TECHNOLOGIES INC,Forgiveness,Supply
+0,PURADYN FILTER TECHNOLOGIES INC,Covid-19,customers
+1,PURADYN FILTER TECHNOLOGIES INC,Board,customers
+2,PURADYN FILTER TECHNOLOGIES INC,Oil & Gas,customers
+3,PURADYN FILTER TECHNOLOGIES INC,Puradyn,customers
+5,PURADYN FILTER TECHNOLOGIES INC,Company,customers
+7,PURADYN FILTER TECHNOLOGIES INC,SEC,customers
+8,PURADYN FILTER TECHNOLOGIES INC,"the Financial Industry Regulatory Authority, Inc.",customers
+9,PURADYN FILTER TECHNOLOGIES INC,FINRA,customers
+12,PURADYN FILTER TECHNOLOGIES INC,DNOW,customers
+14,PURADYN FILTER TECHNOLOGIES INC,Commercial Marine,customers
+19,PURADYN FILTER TECHNOLOGIES INC,Starwood Hotels & Resorts,customers
+20,PURADYN FILTER TECHNOLOGIES INC,Luxury Collection,customers
+21,PURADYN FILTER TECHNOLOGIES INC,Revolution Money,customers
+25,PURADYN FILTER TECHNOLOGIES INC,NOWaccount,customers
+28,PURADYN FILTER TECHNOLOGIES INC,Company’s,customers
+0,PURADYN FILTER TECHNOLOGIES INC,Covid-19,Sells to
+1,PURADYN FILTER TECHNOLOGIES INC,Board,Sells to
+2,PURADYN FILTER TECHNOLOGIES INC,Oil & Gas,Sells to
+4,PURADYN FILTER TECHNOLOGIES INC,Company,Sells to
+0,"TURBODYNE TECHNOLOGIES, INC",Turbodyne,Supply
+1,"TURBODYNE TECHNOLOGIES, INC",OEM,Supply
+2,"TURBODYNE TECHNOLOGIES, INC",Company,Supply
+0,"TURBODYNE TECHNOLOGIES, INC",Company,dependent on
+0,TENNECO INC,OE,Supply
+2,TENNECO INC,the Financial Accounting Standards Board,Supply
+3,TENNECO INC,the Securities and Exchange Commission,Supply
+4,TENNECO INC,SEC,Supply
+5,TENNECO INC,the International Organization for Standardization,Supply
+6,TENNECO INC,Company,Supply
+7,TENNECO INC,Federal-Mogul LLC,Supply
+10,TENNECO INC,OE Manufacturers and Component Part Number Proliferation As,Supply
+14,TENNECO INC,VIO,Supply
+16,TENNECO INC,General Motors Company,Supply
+17,TENNECO INC,Ford Motor Company,Supply
+22,TENNECO INC,Supplementary Data,Supply
+24,TENNECO INC,Tenneco,Supply
+25,TENNECO INC,General Motors,Supply
+26,TENNECO INC,Ford,Supply
+27,TENNECO INC,Fiat,Supply
+28,TENNECO INC,The International Union,Supply
+29,TENNECO INC,United Automobile,Supply
+30,TENNECO INC,Aerospace and Agricultural Implement Workers of America,Supply
+31,TENNECO INC,UAW,Supply
+33,TENNECO INC,the European Commission,Supply
+34,TENNECO INC,EC,Supply
+37,TENNECO INC,Federal-Mogul,Supply
+42,TENNECO INC,DOJ,Supply
+44,TENNECO INC,Tier 2,Supply
+46,TENNECO INC,349 Cash,Supply
+47,TENNECO INC,the Öhlins Acquisition,Supply
+66,TENNECO INC,Management’s Report,Supply
+67,TENNECO INC,Management's,Supply
+68,TENNECO INC,Report,Supply
+69,TENNECO INC,U.S. Bank National Association,Supply
+72,TENNECO INC,Federal-Mogul Financing Corporation,Supply
+73,TENNECO INC,Wilmington Trust,Supply
+74,TENNECO INC,National Association,Supply
+75,TENNECO INC,Trustee,Supply
+76,TENNECO INC,Bank of America,Supply
+77,TENNECO INC,Citibank,Supply
+95,TENNECO INC,The Bank of New York Mellon,Supply
+96,TENNECO INC,London Branch,Supply
+100,TENNECO INC,Co-Collateral Trustees,Supply
+0,TENNECO INC,PatentsMember,customers
+1,TENNECO INC,UseRightsMember,customers
+3,TENNECO INC,CatalogsMember,customers
+6,TENNECO INC,PowertrainMember,customers
+7,TENNECO INC,MotorpartsMember,customers
+8,TENNECO INC,MaximumMember,customers
+10,TENNECO INC,MinimumMember,customers
+12,TENNECO INC,OE,customers
+14,TENNECO INC,the Financial Accounting Standards Board,customers
+15,TENNECO INC,the Securities and Exchange Commission,customers
+16,TENNECO INC,SEC,customers
+17,TENNECO INC,the International Organization for Standardization,customers
+18,TENNECO INC,Company,customers
+19,TENNECO INC,Ride Performance,customers
+20,TENNECO INC,OE Braking,customers
+21,TENNECO INC,Motorparts,customers
+27,TENNECO INC,General Motors Company,customers
+28,TENNECO INC,Ford Motor Company,customers
+34,TENNECO INC,Powertrain Segment,customers
+37,TENNECO INC,NVH,customers
+40,TENNECO INC,Powertrain,customers
+51,TENNECO INC,Caterpillar,customers
+52,TENNECO INC,Navistar,customers
+53,TENNECO INC,Deutz,customers
+54,TENNECO INC,Daimler Trucks,customers
+55,TENNECO INC,Scania,customers
+56,TENNECO INC,Weichai Power,customers
+57,TENNECO INC,FAW Group,customers
+58,TENNECO INC,Kubota,customers
+59,TENNECO INC,Garage GurusTM,customers
+61,TENNECO INC,the Federal-Mogul Acquisition,customers
+74,TENNECO INC,Federal-Mogul,customers
+82,TENNECO INC,Tier 2,customers
+86,TENNECO INC,Tenneco,customers
+87,TENNECO INC,Design and Development and Tooling Assets,customers
+95,TENNECO INC,ASU,customers
+96,TENNECO INC,ASC,customers
+97,TENNECO INC,Öhlins’,customers
+100,TENNECO INC,Clean Air,customers
+109,TENNECO INC,Company’s,customers
+111,TENNECO INC,OE - Substrate,customers
+0,TENNECO INC,OE,Sells to
+0,TENNECO INC,the Federal-Mogul Acquisition,dependent on
+1,TENNECO INC,Fel-Pro®,dependent on
+2,TENNECO INC,Ferodo®,dependent on
+3,TENNECO INC,National®,dependent on
+4,TENNECO INC,USMCA,dependent on
+0,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Refining,Supply
+3,ICAHN ENTERPRISES HOLDINGS L.P.,the U.S. Department of Defense,Supply
+5,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Energy’s,Supply
+6,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive,Supply
+8,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive’s,Supply
+11,ICAHN ENTERPRISES HOLDINGS L.P.,Federal-Mogul LLC Federal-Mogul LLC,Supply
+12,ICAHN ENTERPRISES HOLDINGS L.P.,Report,Supply
+13,ICAHN ENTERPRISES HOLDINGS L.P.,Investment Funds,Supply
+14,ICAHN ENTERPRISES HOLDINGS L.P.,Investment Funds’,Supply
+15,ICAHN ENTERPRISES HOLDINGS L.P.,Energy,Supply
+18,ICAHN ENTERPRISES HOLDINGS L.P.,FIFO,Supply
+19,ICAHN ENTERPRISES HOLDINGS L.P.,Energy CVR Energy’s,Supply
+22,ICAHN ENTERPRISES HOLDINGS L.P.,the Board of Tropicana Entertainment Inc.,Supply
+23,ICAHN ENTERPRISES HOLDINGS L.P.,the Board of CVR Refining,Supply
+24,ICAHN ENTERPRISES HOLDINGS L.P.,"the Board of CVR Energy, Inc.",Supply
+25,ICAHN ENTERPRISES HOLDINGS L.P.,the Executive Committee of XO Holdings,Supply
+26,ICAHN ENTERPRISES HOLDINGS L.P.,the Board of its predecessors,Supply
+27,ICAHN ENTERPRISES HOLDINGS L.P.,Federal-Mogul LLC,Supply
+28,ICAHN ENTERPRISES HOLDINGS L.P.,the Board of Federal-Mogul LLC,Supply
+29,ICAHN ENTERPRISES HOLDINGS L.P.,"the Board of American Railcar Industries, Inc.",Supply
+30,ICAHN ENTERPRISES HOLDINGS L.P.,American Railcar Leasing LLC,Supply
+31,ICAHN ENTERPRISES HOLDINGS L.P.,WestPoint Home LLC,Supply
+32,ICAHN ENTERPRISES HOLDINGS L.P.,Cadus Corporation,Supply
+34,ICAHN ENTERPRISES HOLDINGS L.P.,Tropicana Entertainment Inc.,Supply
+35,ICAHN ENTERPRISES HOLDINGS L.P.,Herbalife Ltd.,Supply
+36,ICAHN ENTERPRISES HOLDINGS L.P.,the Executive Committee of American Railcar Leasing LLC,Supply
+37,ICAHN ENTERPRISES HOLDINGS L.P.,FCX Oil & Gas Inc.,Supply
+38,ICAHN ENTERPRISES HOLDINGS L.P.,Freeport-McMoRan Inc.,Supply
+40,ICAHN ENTERPRISES HOLDINGS L.P.,LP,Supply
+41,ICAHN ENTERPRISES HOLDINGS L.P.,MGM Holdings Inc.,Supply
+43,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Partners,Supply
+45,ICAHN ENTERPRISES HOLDINGS L.P.,"Viskase Companies, Inc.",Supply
+46,ICAHN ENTERPRISES HOLDINGS L.P.,Take-Two Interactive Software Inc.,Supply
+47,ICAHN ENTERPRISES HOLDINGS L.P.,the Board (from,Supply
+48,ICAHN ENTERPRISES HOLDINGS L.P.,"American Railcar Industries, Inc.",Supply
+50,ICAHN ENTERPRISES HOLDINGS L.P.,the Board (,Supply
+52,ICAHN ENTERPRISES HOLDINGS L.P.,LP Ferrous Resources Ltd,Supply
+53,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Enterprises,Supply
+54,ICAHN ENTERPRISES HOLDINGS L.P.,"CVR Energy, Inc.",Supply
+55,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive Group LLC,Supply
+56,ICAHN ENTERPRISES HOLDINGS L.P.,PSC Metals,Supply
+57,ICAHN ENTERPRISES HOLDINGS L.P.,LLC,Supply
+63,ICAHN ENTERPRISES HOLDINGS L.P.,Ferrous Resources Ltd,Supply
+66,ICAHN ENTERPRISES HOLDINGS L.P.,Insight Portfolio Group LLC,Supply
+67,ICAHN ENTERPRISES HOLDINGS L.P.,“Insight Portfolio Group”,Supply
+0,ICAHN ENTERPRISES HOLDINGS L.P.,Food Packaging,customers
+1,ICAHN ENTERPRISES HOLDINGS L.P.,Marketing and Distribution Customers,customers
+2,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Refining’s,customers
+3,ICAHN ENTERPRISES HOLDINGS L.P.,cooperatives,customers
+4,ICAHN ENTERPRISES HOLDINGS L.P.,Group 3,customers
+5,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Refining,customers
+7,ICAHN ENTERPRISES HOLDINGS L.P.,the New York Mercantile Exchange,customers
+8,ICAHN ENTERPRISES HOLDINGS L.P.,Oil Price Information Service,customers
+11,ICAHN ENTERPRISES HOLDINGS L.P.,CVR Partners,customers
+12,ICAHN ENTERPRISES HOLDINGS L.P.,UAN,customers
+14,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive,customers
+15,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive’s,customers
+16,ICAHN ENTERPRISES HOLDINGS L.P.,"Products, Services",customers
+20,ICAHN ENTERPRISES HOLDINGS L.P.,Viskase’s,customers
+21,ICAHN ENTERPRISES HOLDINGS L.P.,Energy,customers
+25,ICAHN ENTERPRISES HOLDINGS L.P.,Holding Company’s,customers
+26,ICAHN ENTERPRISES HOLDINGS L.P.,Real Estate,customers
+28,ICAHN ENTERPRISES HOLDINGS L.P.,Energy and Automotive,customers
+31,ICAHN ENTERPRISES HOLDINGS L.P.,Food Packaging Our Food Packaging,customers
+32,ICAHN ENTERPRISES HOLDINGS L.P.,F.O.B.,customers
+34,ICAHN ENTERPRISES HOLDINGS L.P.,Home Fashion,customers
+35,ICAHN ENTERPRISES HOLDINGS L.P.,WPH,customers
+37,ICAHN ENTERPRISES HOLDINGS L.P.,ICAHN ENTERPRISES L.P.,customers
+38,ICAHN ENTERPRISES HOLDINGS L.P.,ICAHN ENTERPRISES HOLDINGS,customers
+39,ICAHN ENTERPRISES HOLDINGS L.P.,Customer’s Accounting for Implementation Costs Incurred in a,customers
+40,ICAHN ENTERPRISES HOLDINGS L.P.,NOTES,customers
+41,ICAHN ENTERPRISES HOLDINGS L.P.,CONSOLIDATED FINANCIAL,customers
+42,ICAHN ENTERPRISES HOLDINGS L.P.,Plant and Equipment,customers
+0,ICAHN ENTERPRISES HOLDINGS L.P.,Icahn Automotive’s,Sells to
+1,ICAHN ENTERPRISES HOLDINGS L.P.,ACF,Sells to
+0,AUTOLIV INC,Financial S,Supply
+1,AUTOLIV INC,Company,Supply
+2,AUTOLIV INC,Toyota,Supply
+3,AUTOLIV INC,Business Autoliv,Supply
+4,AUTOLIV INC,ZF,Supply
+7,AUTOLIV INC,Mobis,Supply
+8,AUTOLIV INC,Hyundai,Supply
+9,AUTOLIV INC,Autoliv,Supply
+10,AUTOLIV INC,Q5,Supply
+13,AUTOLIV INC,VAT,Supply
+15,AUTOLIV INC,the European Commission,Supply
+16,AUTOLIV INC,EC,Supply
+17,AUTOLIV INC,NHTSA,Supply
+19,AUTOLIV INC,"Digitalization, Supply Chain Management Effectiveness",Supply
+20,AUTOLIV INC,RD&E Effectiveness,Supply
+32,AUTOLIV INC,OEM,Supply
+42,AUTOLIV INC,Continuing Operations,Supply
+44,AUTOLIV INC,the European Commission’s,Supply
+45,AUTOLIV INC,the European Union,Supply
+46,AUTOLIV INC,"Autoliv, Inc.",Supply
+47,AUTOLIV INC,U.S. Bank National Association,Supply
+48,AUTOLIV INC,the Current Report on Form,Supply
+52,AUTOLIV INC,the Quarterly Report on Form 10-Q,Supply
+0,AUTOLIV INC,Company,customers
+1,AUTOLIV INC,Toyota,customers
+2,AUTOLIV INC,Autoliv,customers
+7,AUTOLIV INC,Q5,customers
+9,AUTOLIV INC,Customer %,customers
+10,AUTOLIV INC,Global LVP 1,customers
+11,AUTOLIV INC,Renault,customers
+14,AUTOLIV INC,D&E,customers
+15,AUTOLIV INC,LVP,customers
+21,AUTOLIV INC,VAT,customers
+23,AUTOLIV INC,Company’s,customers
+24,AUTOLIV INC,Board of Directors,customers
+28,AUTOLIV INC,Shanghai Airbags,customers
+29,AUTOLIV INC,France Autoliv,customers
+30,AUTOLIV INC,Livbag SAS Pont-de-Buis Inflator,customers
+31,AUTOLIV INC,Germany Autoliv B.V. &,customers
+32,AUTOLIV INC,Japan Autoliv Japan Ltd.,customers
+33,AUTOLIV INC,South Korea Autoliv Corporation Seoul Airbags,customers
+34,AUTOLIV INC,Sweden Autoliv Development AB Vårgårda Research,customers
+35,AUTOLIV INC,Autoliv Sverige AB,customers
+36,AUTOLIV INC,Ogden Airbags,customers
+37,AUTOLIV INC,Honda,customers
+38,AUTOLIV INC,Hyundai,customers
+40,AUTOLIV INC,APS,customers
+51,AUTOLIV INC,Keiretsu,customers
+52,AUTOLIV INC,ASC,customers
+62,AUTOLIV INC,"Property, Plant & Equipment",customers
+63,AUTOLIV INC,P&E,customers
+64,AUTOLIV INC,Customer’s,customers
+68,AUTOLIV INC,OEM Original Equipment Manufacturer,customers
+0,AUTOLIV INC,LVP,Sells to
+1,AUTOLIV INC,Company,Sells to
+0,AUTOLIV INC,LVP,dependent on
+1,AUTOLIV INC,Autoliv,dependent on
+2,AUTOLIV INC,Company,dependent on
+0,MIRENCO INC,Whayne Supply Company,Supply
+1,MIRENCO INC,Whayne Supply,Supply
+2,MIRENCO INC,C-Max,Supply
+5,MIRENCO INC,Caterpillar,Supply
+0,MIRENCO INC,Whayne,customers
+1,MIRENCO INC,Caterpillar,customers
+4,MIRENCO INC,Company,customers
+6,MIRENCO INC,Mirenco’s,customers
+10,MIRENCO INC,Sales Percent of Sales Customer,customers
+0,MIRENCO INC,Whayne Supply,Sells to
+0,STONERIDGE INC,OEM,Supply
+1,STONERIDGE INC,Tier 1,Supply
+2,STONERIDGE INC,Company,Supply
+4,STONERIDGE INC,Company’s,Supply
+8,STONERIDGE INC,Control Devices,Supply
+11,STONERIDGE INC,SMP,Supply
+15,STONERIDGE INC,Supply Arrangements Engineering,Supply
+24,STONERIDGE INC,Citibank N.A.,Supply
+0,STONERIDGE INC,ElectronicsMember,customers
+1,STONERIDGE INC,TechnologyMember,customers
+3,STONERIDGE INC,OEM,customers
+4,STONERIDGE INC,Tier 1,customers
+5,STONERIDGE INC,Company,customers
+9,STONERIDGE INC,Ford Motor Company,customers
+10,STONERIDGE INC,Volvo,customers
+11,STONERIDGE INC,Daimler,customers
+12,STONERIDGE INC,American Axle,customers
+17,STONERIDGE INC,Control Devices,customers
+18,STONERIDGE INC,Non,customers
+19,STONERIDGE INC,Products,customers
+28,STONERIDGE INC,Company’s,customers
+31,STONERIDGE INC,the Control Devices and Electronics,customers
+35,STONERIDGE INC,Supply Arrangements Engineering,customers
+39,STONERIDGE INC,Electronics,customers
+41,STONERIDGE INC,European Aftermarket,customers
+47,STONERIDGE INC,ASC,customers
+0,STONERIDGE INC,SMP,Sells to
+0,"REMY INTERNATIONAL, INC.",OES,Supply
+1,"REMY INTERNATIONAL, INC.",OEM,Supply
+2,"REMY INTERNATIONAL, INC.",SEC,Supply
+4,"REMY INTERNATIONAL, INC.",EBITDA,Supply
+5,"REMY INTERNATIONAL, INC.",Remy International,Supply
+6,"REMY INTERNATIONAL, INC.",Tooling Tooling,Supply
+0,"REMY INTERNATIONAL, INC.",USA Industries,customers
+1,"REMY INTERNATIONAL, INC.",OE,customers
+3,"REMY INTERNATIONAL, INC.",GM,customers
+4,"REMY INTERNATIONAL, INC.",Hyundai,customers
+7,"REMY INTERNATIONAL, INC.",OEM,customers
+9,"REMY INTERNATIONAL, INC.",DPCA,customers
+10,"REMY INTERNATIONAL, INC.",Dongfeng Peugeot Citroen Automobile,customers
+11,"REMY INTERNATIONAL, INC.",Geely,customers
+12,"REMY INTERNATIONAL, INC.",BYD,customers
+14,"REMY INTERNATIONAL, INC.",Daimler,customers
+15,"REMY INTERNATIONAL, INC.",Caterpillar,customers
+16,"REMY INTERNATIONAL, INC.",Navistar,customers
+17,"REMY INTERNATIONAL, INC.",Volvo/Mack,customers
+18,"REMY INTERNATIONAL, INC.",Cummins,customers
+19,"REMY INTERNATIONAL, INC.",OES,customers
+21,"REMY INTERNATIONAL, INC.",OE/OES,customers
+28,"REMY INTERNATIONAL, INC.",the U.S. Export Administration Act,customers
+31,"REMY INTERNATIONAL, INC.",CV,customers
+34,"REMY INTERNATIONAL, INC.",General Motors,customers
+40,"REMY INTERNATIONAL, INC.",Delco,customers
+42,"REMY INTERNATIONAL, INC.",F.O.B.,customers
+43,"REMY INTERNATIONAL, INC.",FASB,customers
+45,"REMY INTERNATIONAL, INC.",ASU,customers
+49,"REMY INTERNATIONAL, INC.",Company,customers
+50,"REMY INTERNATIONAL, INC.",Imaging,customers
+52,"REMY INTERNATIONAL, INC.",Old Remy's Board of Directors,customers
+53,"REMY INTERNATIONAL, INC.",VIA Motors,customers
+0,"REMY INTERNATIONAL, INC.",Hyundai,Sells to
+1,"REMY INTERNATIONAL, INC.",OE,Sells to
+3,"REMY INTERNATIONAL, INC.",General Motors,Sells to
+4,"REMY INTERNATIONAL, INC.",GM,Sells to
+6,"REMY INTERNATIONAL, INC.",OEM,Sells to
+7,"REMY INTERNATIONAL, INC.",OES,Sells to
+10,"REMY INTERNATIONAL, INC.",VIA,Sells to
