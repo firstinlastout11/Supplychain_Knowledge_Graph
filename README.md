@@ -41,4 +41,4 @@ Execute `python3 main.py`
 
 ## Sample result
 Below is the image of the sample network created by the project
-![Knowledge_graph](/image/automobile_network.png)
+![Knowledge_graph](/images/automobile_network.png)
