@@ -39,3 +39,6 @@ Since the language used in the project is Python3, it needs to be installed. Als
 With all the above ready, on your command line,
 Execute `python3 main.py` 
 
+## Sample result
+Below is the image of the sample network created by the project
+![Knowledge_graph](/image/automobile_network.png)
