@@ -41,5 +41,4 @@ Execute `python3 main.py`
 
 ## Sample result
 Below is the image of the sample network created by the project
-![GitHub Logo](/image/automobile_network.pdf)
-Format: ![Alt Text](url)
+![Knowledge_graph](/image/automobile_network.png)
