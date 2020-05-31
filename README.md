@@ -18,9 +18,17 @@ All the filings are in the form of text so they need to be processed accordingly
 link: https://www.sec.gov/edgar.shtml
 
 ## Files
+* `weak_supervision/main.py` contains python code to perform the knowledge-graph creation using weak-supervision: 1) Extracting 10-K html file of each company, 2) Pre-process and normalize the text, 3) Extract supply-chain relations using the labeling functions
+
+* `weak_supervision/utils.py` contains python code to perform the knowledge-graph creation using weak-supervision: 1) Extracting 10-K html file of each company, 2) Pre-process and normalize the text, 3) Extract supply-chain relations using the labeling functions
+
+* `weak_supervision/LF.py` contains python code to perform the knowledge-graph creation using weak-supervision: 1) Extracting 10-K html file of each company, 2) Pre-process and normalize the text, 3) Extract supply-chain relations using the labeling functions
+
+* `weak_supervision/Weak_Sueprvision` contains python code to perform the knowledge-graph creation using weak-supervision: 1) Extracting 10-K html file of each company, 2) Pre-process and normalize the text, 3) Extract supply-chain relations using the labeling functions
+
 * `keyword_rel_extract/main.py` contains python code to perform the knowledge-graph creation process: 1) Extracting 10-K html file of each company, 2) Pre-process and normalize the text, 3) Extract supply-chain relations using the labeling functions
 
-* ``keyword_rel_extract/lab_functions.py` contains python code to perform the information extraction process by utilizing Named Entity Recognition and Rule-based learning
+* `keyword_rel_extract/lab_functions.py` contains python code to perform the information extraction process by utilizing Named Entity Recognition and Rule-based learning
 
 * `header_scrape.ipynb` jupyter notebook conatains a sample process to extract header files of each company
 
