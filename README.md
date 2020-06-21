@@ -30,7 +30,7 @@ link: https://www.sec.gov/edgar.shtml
 
 * `keyword_rel_extract/lab_functions.py` contains python code to perform the information extraction process by utilizing Named Entity Recognition and Rule-based learning
 
-* `header_scrape.ipynb` jupyter notebook conatains a sample process to extract header files of each company
+* `header_scrape/header_scrape.ipynb` jupyter notebook conatains a sample process to extract header files of each company
 
 * `Network_drawing.ipynb` jupyter notebook performs a plotting of the result and save the file as a knowledge-graph drawing using networkx
 
